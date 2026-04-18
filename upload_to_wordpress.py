@@ -36,15 +36,18 @@ def title_from_filename(path: Path) -> str:
     return path.stem.replace("-", " ").replace("_", " ").strip()
 
 
+def api_url(path: str) -> str:
+    return f"{WP_URL}/?rest_route={path}"
+
+
 def get_or_create_term(name: str, taxonomy: str, session: requests.Session) -> int | None:
-    """カテゴリまたはタグの ID を取得（なければ作成）。"""
-    endpoint = f"{WP_URL}/wp-json/wp/v2/{'categories' if taxonomy == 'category' else 'tags'}"
-    r = session.get(endpoint, params={"search": name})
+    route = f"/wp/v2/{'categories' if taxonomy == 'category' else 'tags'}"
+    r = session.get(api_url(route), params={"search": name})
     r.raise_for_status()
     results = r.json()
     if results:
         return results[0]["id"]
-    r = session.post(endpoint, json={"name": name})
+    r = session.post(api_url(route), json={"name": name})
     r.raise_for_status()
     return r.json()["id"]
 
@@ -89,7 +92,7 @@ def upload_post(md_path: Path, session: requests.Session, dry_run: bool) -> dict
         if tag_ids:
             payload["tags"] = [i for i in tag_ids if i]
 
-        r = session.post(f"{WP_URL}/wp-json/wp/v2/posts", json=payload)
+        r = session.post(api_url("/wp/v2/posts"), json=payload)
         r.raise_for_status()
         post_id = r.json().get("id")
         post_url = r.json().get("link")
@@ -124,7 +127,7 @@ def main():
 
     session = requests.Session()
     session.auth = (WP_USERNAME, WP_APP_PASSWORD)
-    session.headers.update({"User-Agent": "wp-md-uploader/1.0"})
+    session.headers.update({"User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"})
 
     results = []
     for i, md_path in enumerate(md_files, 1):
