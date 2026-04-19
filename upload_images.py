@@ -207,6 +207,11 @@ def rebuild_body_with_images(snippet: str, img_url_map: dict) -> str:
 
 
 def main():
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--skip", type=int, default=0, help="最初のN件をスキップして再開")
+    args = parser.parse_args()
+
     wp = make_wp_session()
     drive_session, proxy_url = make_drive_session()
 
@@ -239,13 +244,17 @@ def main():
                 "snippet": art_meta.get("snippet", ""),
             })
 
+    if args.skip:
+        processable = processable[args.skip:]
+        print(f"  → {args.skip}件スキップ、{len(processable)}件から再開")
+
     print(f"\n画像あり記事: {len(processable)}件 / 全{len(log)}件")
     print("アップロード開始...\n")
 
     success = 0
     errors = 0
 
-    for i, art in enumerate(processable, 1):
+    for i, art in enumerate(processable, args.skip + 1):
         images = sorted(images_by_parent[art["pid"]], key=lambda x: x["title"])
         print(f"[{i}/{len(processable)}] {art['title'][:50]} ({len(images)}枚)", flush=True)
 
