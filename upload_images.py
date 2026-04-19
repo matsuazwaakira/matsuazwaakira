@@ -113,6 +113,7 @@ def search_drive_images_all(drive_session, proxy_url) -> list[dict]:
     images = []
     seen = set()
     page_token = None
+    consecutive_errors = 0
     print("  Drive 内の画像ファイルを収集中...", flush=True)
     while True:
         args: dict = {"query": "mimeType contains 'image'", "pageSize": 50,
@@ -121,9 +122,20 @@ def search_drive_images_all(drive_session, proxy_url) -> list[dict]:
             args["pageToken"] = page_token
         payload = {"jsonrpc": "2.0", "id": 1, "method": "tools/call",
                    "params": {"name": "search_files", "arguments": args}}
-        r = drive_session.post(proxy_url, json=payload, timeout=30)
-        r.raise_for_status()
-        result = parse_sse(r)
+        try:
+            r = drive_session.post(proxy_url, json=payload, timeout=60)
+            r.raise_for_status()
+            result = parse_sse(r)
+        except Exception as e:
+            consecutive_errors += 1
+            if consecutive_errors >= 5:
+                print(f"  エラー続出、収集中断: {e}", flush=True)
+                break
+            import time as _time
+            print(f"  ページ取得エラー (リトライ {consecutive_errors}/5): {e}", flush=True)
+            _time.sleep(3 * consecutive_errors)
+            continue
+        consecutive_errors = 0
         for item in result.get("files", []):
             fid = item.get("id")
             if fid and fid not in seen:
@@ -131,7 +143,16 @@ def search_drive_images_all(drive_session, proxy_url) -> list[dict]:
                 images.append({"id": fid, "title": item.get("title", ""),
                                 "parentId": item.get("parentId", ""),
                                 "mimeType": item.get("mimeType", "image/jpeg")})
-        page_token = result.get("nextPageToken")
+        next_token = result.get("nextPageToken")
+        if not next_token and not result.get("files"):
+            # Empty result with no token - likely parse failure, retry once
+            consecutive_errors += 1
+            if consecutive_errors >= 3:
+                break
+            import time as _time
+            _time.sleep(3)
+            continue
+        page_token = next_token
         if not page_token:
             break
         if len(images) % 200 == 0:
@@ -304,7 +325,8 @@ def main():
         try:
             body = rebuild_body_with_images(art["snippet"], img_url_map)
             body_html = md.markdown(body, extensions=["extra", "nl2br"])
-            wp.post(api_url(f"/wp/v2/posts/{art['wp_id']}"), json={"content": body_html})
+            r = wp.post(api_url(f"/wp/v2/posts/{art['wp_id']}"), json={"content": body_html})
+            r.raise_for_status()
             print(f"  → 記事更新完了\n", flush=True)
             success += 1
             done_ids.add(art["wp_id"])
