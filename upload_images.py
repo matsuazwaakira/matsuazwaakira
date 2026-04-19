@@ -206,11 +206,33 @@ def rebuild_body_with_images(snippet: str, img_url_map: dict) -> str:
     return body
 
 
+PROGRESS_FILE = "/tmp/image_upload_progress.json"
+
+
+def load_progress() -> set:
+    """完了済み WP Post ID を読み込む。"""
+    try:
+        return set(json.load(open(PROGRESS_FILE)))
+    except Exception:
+        return set()
+
+
+def save_progress(done_ids: set):
+    json.dump(list(done_ids), open(PROGRESS_FILE, "w"))
+
+
 def main():
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("--skip", type=int, default=0, help="最初のN件をスキップして再開")
+    parser.add_argument("--reset", action="store_true", help="進捗をリセットして最初から実行")
     args = parser.parse_args()
+
+    if args.reset and os.path.exists(PROGRESS_FILE):
+        os.remove(PROGRESS_FILE)
+
+    done_ids = load_progress()
+    if done_ids:
+        print(f"  前回の続きから: {len(done_ids)}件完了済みをスキップ")
 
     wp = make_wp_session()
     drive_session, proxy_url = make_drive_session()
@@ -244,32 +266,39 @@ def main():
                 "snippet": art_meta.get("snippet", ""),
             })
 
-    if args.skip:
-        processable = processable[args.skip:]
-        print(f"  → {args.skip}件スキップ、{len(processable)}件から再開")
+    # 完了済みをフィルタ
+    processable = [a for a in processable if a["wp_id"] not in done_ids]
 
-    print(f"\n画像あり記事: {len(processable)}件 / 全{len(log)}件")
+    print(f"\n画像あり記事: {len(processable)}件残り / 全149件中")
     print("アップロード開始...\n")
 
     success = 0
     errors = 0
+    total = len(processable)
 
-    for i, art in enumerate(processable, args.skip + 1):
+    for i, art in enumerate(processable, 1):
         images = sorted(images_by_parent[art["pid"]], key=lambda x: x["title"])
-        print(f"[{i}/{len(processable)}] {art['title'][:50]} ({len(images)}枚)", flush=True)
+        print(f"[{i}/{total}] {art['title'][:50]} ({len(images)}枚)", flush=True)
 
         img_url_map = {}
         for img in images:
             img_name = img["title"]
             fname = f"{art['wp_id']}_{img_name}"
-            try:
-                img_bytes, mime = download_drive_image(drive_session, proxy_url, img["id"])
-                wp_url = upload_to_wp_media(wp, img_bytes, mime, fname)
-                img_url_map[img_name] = wp_url
-                print(f"  ✓ {img_name}", flush=True)
-            except Exception as e:
-                print(f"  ✗ {img_name}: {e}", flush=True)
-                errors += 1
+            # リトライ付きダウンロード
+            for attempt in range(3):
+                try:
+                    img_bytes, mime = download_drive_image(drive_session, proxy_url, img["id"])
+                    wp_url = upload_to_wp_media(wp, img_bytes, mime, fname)
+                    img_url_map[img_name] = wp_url
+                    print(f"  ✓ {img_name}", flush=True)
+                    break
+                except Exception as e:
+                    if attempt < 2:
+                        print(f"  リトライ {attempt+1}/3: {img_name} ({e})", flush=True)
+                        time.sleep(3)
+                    else:
+                        print(f"  ✗ {img_name}: {e}", flush=True)
+                        errors += 1
 
         # 記事本文を画像付きで再構築・更新
         try:
@@ -278,6 +307,8 @@ def main():
             wp.post(api_url(f"/wp/v2/posts/{art['wp_id']}"), json={"content": body_html})
             print(f"  → 記事更新完了\n", flush=True)
             success += 1
+            done_ids.add(art["wp_id"])
+            save_progress(done_ids)  # 完了ごとに進捗保存
         except Exception as e:
             print(f"  → 記事更新エラー: {e}\n", flush=True)
             errors += 1
