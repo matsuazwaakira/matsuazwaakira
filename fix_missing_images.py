@@ -105,10 +105,10 @@ def search_images_by_title(drive_session, proxy_url, title: str) -> list[dict]:
 
 
 def read_full_article(drive_session, proxy_url, file_id: str) -> str:
-    """Drive からMarkdownファイルの完全なテキストを取得する。"""
+    """Drive からMarkdownファイルの完全なテキストを取得する（download_file_content使用）。"""
     payload = {
         "jsonrpc": "2.0", "id": 1, "method": "tools/call",
-        "params": {"name": "read_file_content", "arguments": {"fileId": file_id}}
+        "params": {"name": "download_file_content", "arguments": {"fileId": file_id}}
     }
     for attempt in range(3):
         try:
@@ -119,10 +119,14 @@ def read_full_article(drive_session, proxy_url, file_id: str) -> str:
                 if line.startswith("data:"):
                     try:
                         outer = json.loads(line[5:].strip())
-                        content_list = outer.get("result", {}).get("content", [])
-                        for item in content_list:
-                            if item.get("type") == "text":
-                                return item.get("text", "")
+                        inner_text = outer.get("result", {}).get("content", [{}])[0].get("text", "{}")
+                        inner = json.loads(inner_text)
+                        for item in inner.get("content", []):
+                            resource = item.get("embeddedResource", {})
+                            blob_data = resource.get("contents", {})
+                            blob = blob_data.get("blob", "")
+                            if blob:
+                                return base64.b64decode(blob).decode("utf-8", errors="replace")
                     except Exception:
                         continue
         except Exception as e:
