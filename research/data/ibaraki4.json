@@ -65,7 +65,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "※検索予算上限到達のため未調査"
+  "note": "検索では町独自の地域公共交通計画・環境基本計画とも確認できず（町サイトはインデックス少）。環境関連は循環型社会形成推進地域計画(H29〜R3)のみ確認 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/08_ibaraki/10_daigo_h29.pdf 。環境基本計画は未策定の可能性。要町サイト直接確認。"
  },
  {
   "pref": "茨城県",
@@ -82,24 +82,24 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "※検索予算上限到達のため未調査"
+  "note": "村独自の地域公共交通計画・環境基本計画とも検索で確認できず（「美浦村環境基本計画」ヒットなし、未策定の可能性）。要村サイト直接確認。"
  },
  {
   "pref": "茨城県",
   "name": "阿見町",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "阿見町地域公共交通計画",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": null,
-  "e_name": null,
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "t_url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/keikaku.pdf",
+  "e_name": "第2次阿見町環境基本計画",
+  "e_period": "R3〜R12",
+  "e_end": 12,
+  "e_conf": "確認済",
   "e_status": "未確認",
-  "e_url": null,
-  "note": "※検索予算上限到達のため未調査。検索中に阿見町のR8年度第1回協議会資料を偶然発見。交通計画関連とみられる https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/R8_dai1kaikyougikai_siryo.pdf"
+  "e_url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000012/12659/1syou.pdf",
+  "note": "交通計画はR5.2策定・R5〜R9年度でR9終了＝次期計画はR8〜R9に策定作業が必要。R8第1回活性化協議会(2026/6/1)資料 https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/R8_dai1kaikyougikai_siryo.pdf ・会議録 R8_dai1kai_kaigiroku.pdf の検索要約ではR9確保維持事業計画が議題で、次期計画策定の明記は確認できず（資料内に含まれる可能性大、要確認）。環境基本計画は第1次がR3.3終了、第2次はR3年度から10年間。"
  },
  {
   "pref": "茨城県",
@@ -116,12 +116,12 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "※検索予算上限到達のため未調査"
+  "note": "町独自の地域公共交通計画・環境基本計画とも検索で確認できず（県計画・地域再生計画のみヒット）。未策定の可能性。大阪府河内長野市等の誤ヒットに注意。"
  },
  {
   "pref": "茨城県",
   "name": "八千代町",
-  "t_name": null,
+  "t_name": "八千代町地域公共交通計画（策定事業・名称未確認）",
   "t_period": "不明",
   "t_end": null,
   "t_conf": "不明",
@@ -133,24 +133,24 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "※検索予算上限到達のため未調査。国交省関東運輸局「地域公共交通計画策定事業」リストに八千代町公共交通会議が掲載されており、計画策定に着手済とみられる（年度は要確認） https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf"
+  "note": "関東運輸局「地域公共交通計画策定事業」一覧に八千代町公共交通会議が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf（R6.1頃）→計画策定作業中または策定済の可能性。計画期間・本文URLは未確認。千葉県八千代市（計画R6〜R10）の誤ヒット多数に注意。環境基本計画は検索で確認できず。"
  },
  {
   "pref": "茨城県",
   "name": "五霞町",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "五霞町地域公共交通計画",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "推定",
   "t_status": "未確認",
-  "t_url": null,
-  "e_name": null,
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "t_url": "https://www.town.goka.lg.jp/data/doc/1690350530_doc_20_0.pdf",
+  "e_name": "五霞町環境基本計画（改定版）",
+  "e_period": "R5〜R14",
+  "e_end": 14,
+  "e_conf": "確認済",
   "e_status": "未確認",
-  "e_url": null,
-  "note": "※検索予算上限到達のため未調査"
+  "e_url": "https://www.town.goka.lg.jp/data/doc/1684388643_doc_20_0.pdf",
+  "note": "交通計画はR5.3策定・R6.5変更（変更版とみられるPDF https://www.town.goka.lg.jp/data/doc/1737593680_doc_20_0.pdf ）。期間は5年と推定しR9終了の可能性→要確認。前身はH26網形成計画。環境基本計画はH25版を改定しR5〜R14の10年間（検索要約で確認、根拠PDFはgoka.lg.jp内の候補の一つで特定不十分）。"
  },
  {
   "pref": "茨城県",
@@ -167,12 +167,12 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "※検索予算上限到達のため未調査"
+  "note": "茨城県猿島郡境町。町独自の地域公共交通計画・環境基本計画とも検索で確認できず。自動運転バス定常運行(2020.11〜)の先進事例だが法定計画は未確認。鳥取県境港市・大阪府堺市の誤ヒットに注意。"
  },
  {
   "pref": "茨城県",
   "name": "利根町",
-  "t_name": null,
+  "t_name": "利根町地域公共交通計画（策定事業・名称未確認）",
   "t_period": "不明",
   "t_end": null,
   "t_conf": "不明",
@@ -184,6 +184,6 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "※検索予算上限到達のため未調査。国交省関東運輸局「地域公共交通計画策定事業」リストに利根町地域公共交通活性化協議会が掲載されており、計画策定に着手済とみられる（年度は要確認） https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf"
+  "note": "関東運輸局「地域公共交通計画策定事業」一覧(R6.1.26付)に利根町地域公共交通活性化協議会が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf →R6〜R7頃に計画策定作業（策定済の可能性あり）。計画期間・本文URLは未確認。環境基本計画は検索で確認できず。"
  }
 ]
