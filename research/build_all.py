@@ -48,11 +48,34 @@ def judge(end, st):
 H = ["No", "市町村", "営業判定", "交通判定", "環境判定",
      "地域公共交通計画", "交通 計画期間", "交通 終期(令和年度)", "交通 確度", "交通 改定状況", "交通 計画リンク（エビデンス）",
      "環境基本計画", "環境 計画期間", "環境 終期(令和年度)", "環境 確度", "環境 改定状況", "環境 計画リンク（エビデンス）",
-     "注釈（改定作業の状況など）", "調査状況"]
-W = [5, 12, 16, 7, 7, 30, 15, 9, 8, 9, 34, 30, 15, 9, 8, 9, 34, 55, 14]
+     "注釈（改定作業の状況など）", "調査状況", "国交省一覧(R8.5末)"]
+W = [5, 12, 16, 7, 7, 30, 15, 9, 8, 9, 34, 30, 15, 9, 8, 9, 34, 55, 14, 24]
 HR = 3
 fills = [("◎", "C6EFCE"), ("△", "FFEB9C"), ("？", "DDEBF7"), ("✕", "F2F2F2")]
 ranges = {}
+
+MLIT = json.load(open(f"{S}/mlit_r0805.json"))
+_n = lambda x: x.replace("ケ", "ヶ")
+
+def mlit_of(pref, d):
+    m = MLIT.get(pref)
+    if not m:
+        return None
+    n = _n(d.get("name") or "")
+    own = n in {_n(x) for x in m["own"]}
+    wide = [k for k, v in m["wide"].items() if n in {_n(x) for x in v}]
+    if not own and not wide:
+        lab = "未掲載"
+    else:
+        lab = "掲載" + ("（広域：" + "・".join(wide) + "）" if wide else "")
+        if n in {_n(x) for x in m["expired"]}:
+            lab += "／期間満了"
+    have = bool(d.get("t_name") or d.get("t_url"))
+    if lab != "未掲載" and not have:
+        lab += "【当方未把握】"
+    if lab == "未掲載" and have:
+        lab += "【当方は計画あり】"
+    return lab
 
 def status_of(d):
     t = bool(d.get("t_name") or d.get("t_url"))
@@ -83,7 +106,7 @@ for pref, files in PREFS:
         vals = [i + 1, d.get("name"), None, None, None,
                 d.get("t_name"), d.get("t_period"), num(d.get("t_end")), d.get("t_conf"), ts, d.get("t_url"),
                 d.get("e_name"), d.get("e_period"), num(d.get("e_end")), d.get("e_conf"), es, d.get("e_url"),
-                d.get("note"), status_of(d)]
+                d.get("note"), status_of(d), mlit_of(pref, d)]
         for c, v in enumerate(vals, 1):
             cell = ws.cell(r, c, v)
             cell.font = Font(name=F, size=10)
@@ -99,6 +122,9 @@ for pref, files in PREFS:
         ws.cell(r, 19).alignment = Alignment(horizontal="center", vertical="top")
         if ws.cell(r, 19).value != "調査済":
             ws.cell(r, 19).font = Font(name=F, size=10, bold=True, color="C00000")
+        mv = ws.cell(r, 20).value or ""
+        if "【" in mv or "期間満了" in mv:
+            ws.cell(r, 20).font = Font(name=F, size=10, bold=True, color="C00000")
         for c in (8, 14):
             if ws.cell(r, c + 1).value == "推定":
                 ws.cell(r, c).font = Font(name=F, size=10, italic=True, color="7F6000")
@@ -109,14 +135,14 @@ for pref, files in PREFS:
                 ws.cell(r, c).font = Font(name=F, size=9, color="0563C1", underline="single")
     last = HR + max(len(data), 1)
     for sym, color in fills:
-        ws.conditional_formatting.add(f"A{HR+1}:S{last}",
+        ws.conditional_formatting.add(f"A{HR+1}:T{last}",
             FormulaRule(formula=[f'LEFT($C{HR+1},1)="{sym}"'], fill=PatternFill("solid", fgColor=color)))
     dv = DataValidation(type="list", formula1='"' + ",".join(STATUSES) + '"', allow_blank=True)
     ws.add_data_validation(dv)
     dv.add(f"J{HR+1}:J{last}")
     dv.add(f"P{HR+1}:P{last}")
     ws.freeze_panes = f"C{HR+1}"
-    ws.auto_filter.ref = f"A{HR}:S{last}"
+    ws.auto_filter.ref = f"A{HR}:T{last}"
     ranges[pref] = (f"'{pref}'!$C${HR+1}:$C${last}", len(data), f"'{pref}'!$S${HR+1}:$S${last}")
 
 # 集計・設定シート
@@ -168,6 +194,10 @@ notes = [
     ("各県シートの「終期(令和年度)」と「改定状況」（未確認／着手済／策定済／計画なし）を直すと、判定が自動で変わります。", False),
     ("「未確認」は、改定の動きが検索で見つからなかったという意味です。動きがないと確かめたわけではありません。", False),
     ("確度：確認済＝検索結果の本文に期間が書かれていた／推定＝策定時期などから推測（終期のセルは茶色の斜体）／不明＝確認できなかった", False),
+    ("", False),
+    ("■ 国交省一覧との照合（T列）", True),
+    ("国土交通省「地域公共交通計画の作成状況一覧」（令和8年5月末時点）と照合。掲載＝計画作成済み、期間満了＝一覧で灰色（計画期間が満了）。一覧には計画期間の記載がないため、終期は各計画書で確認。", False),
+    ("【当方未把握】＝一覧には計画があるが本調査で計画書を特定できていない／【当方は計画あり】＝本調査では計画を把握したが一覧に未掲載（旧法計画・最近の策定・名称違いの可能性）。", False),
     ("", False),
     ("■ 調査の方法と限界", True),
     ("【重要】検索回数に上限（1セッション200回）があるため、県によっては一部の市町村・計画を調べきれていません。「調査状況」列が「未調査」「交通のみ調査」の行は空欄・？になっていますが、計画がないという意味ではありません。", False),
