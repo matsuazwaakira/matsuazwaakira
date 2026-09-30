@@ -5,10 +5,21 @@ from openpyxl.formatting.rule import FormulaRule
 from openpyxl.worksheet.datavalidation import DataValidation
 
 S = "/home/user/matsuazwaakira/research/data"
-OUT = sys.argv[1] if len(sys.argv) > 1 else "/home/user/matsuazwaakira/research/自治体_公共交通計画_環境基本計画_終期一覧_2026-09.xlsx"
-PREFS = [("栃木県", ["tochigi"]), ("茨城県", ["ibaraki1", "ibaraki2", "ibaraki3", "ibaraki4"]),
-         ("福島県", ["fukushima1", "fukushima2", "fukushima3", "fukushima4", "fukushima5"]),
-         ("青森県", ["aomori1", "aomori2", "aomori3"])]
+REGION = sys.argv[1] if len(sys.argv) > 1 else "all"
+ALL = {
+    "青森県": ["aomori1", "aomori2", "aomori3"], "岩手県": ["iwate"], "宮城県": ["miyagi"],
+    "秋田県": ["akita"], "山形県": ["yamagata"],
+    "福島県": ["fukushima1", "fukushima2", "fukushima3", "fukushima4", "fukushima5"],
+    "茨城県": ["ibaraki1", "ibaraki2", "ibaraki3", "ibaraki4"], "栃木県": ["tochigi"],
+}
+if REGION == "tohoku":
+    PREFS = [(p, ALL[p]) for p in ("青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県")]
+    OUT = "/home/user/matsuazwaakira/research/東北6県_公共交通計画_環境基本計画_終期一覧_2026-09.xlsx"
+    TITLE = "東北6県"
+else:
+    PREFS = list(ALL.items())
+    OUT = "/home/user/matsuazwaakira/research/自治体_公共交通計画_環境基本計画_終期一覧_2026-09.xlsx"
+    TITLE = "自治体"
 
 F = "Arial"
 thin = Side(style="thin", color="BFBFBF")
@@ -109,7 +120,7 @@ for pref, files in PREFS:
     ranges[pref] = (f"'{pref}'!$C${HR+1}:$C${last}", len(data), f"'{pref}'!$S${HR+1}:$S${last}")
 
 # 集計・設定シート
-cfg["A1"] = "自治体 地域公共交通計画・環境基本計画 終期一覧　集計・設定"
+cfg["A1"] = f"{TITLE} 地域公共交通計画・環境基本計画 終期一覧　集計・設定"
 cfg["A1"].font = Font(name=F, bold=True, size=14)
 cfg["A3"] = "■ 営業対象とする終期（令和年度）"
 cfg["A3"].font = Font(name=F, bold=True)
@@ -159,7 +170,7 @@ notes = [
     ("確度：確認済＝検索結果の本文に期間が書かれていた／推定＝策定時期などから推測（終期のセルは茶色の斜体）／不明＝確認できなかった", False),
     ("", False),
     ("■ 調査の方法と限界", True),
-    ("【重要】茨城・福島・青森は、検索回数の上限（1セッション200回）に達したため途中までしか調べられていません。「調査状況」列が「未調査」「交通のみ調査」の行は空欄・？になっていますが、計画がないという意味ではありません。", False),
+    ("【重要】検索回数に上限（1セッション200回）があるため、県によっては一部の市町村・計画を調べきれていません。「調査状況」列が「未調査」「交通のみ調査」の行は空欄・？になっていますが、計画がないという意味ではありません。", False),
     ("2026年9月30日時点でWeb検索して調べました。自治体サイトやPDFを直接開けない環境だったため、期間は検索結果の本文・要約から取っています。", False),
     ("計画リンクはエビデンスとして検索結果に出たURLを載せています。営業に行く前に、リンク先の計画書で計画期間を確かめてください。特に「推定」「不明」の行は必ず確認してください。", False),
 ]
