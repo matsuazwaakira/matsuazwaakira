@@ -73,8 +73,8 @@
   "t_name": "白石市地域公共交通計画",
   "t_period": "R5〜R9（推定）",
   "t_end": 9,
-  "t_conf": "推定",
-  "t_status": "未確認",
+  "t_conf": "確認済",
+  "t_status": "着手済",
   "t_url": "https://www.city.shiroishi.miyagi.jp/uploaded/attachment/22013.pdf",
   "e_name": "第3次白石市環境基本計画",
   "e_period": "不明（H31.4公表）",
@@ -82,7 +82,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": "https://www.city.shiroishi.miyagi.jp/soshiki/18/",
-  "note": "交通：R5.3策定（前身の網形成計画はH29.6）、計画ページ https://www.city.shiroishi.miyagi.jp/soshiki/17/27078.html 。期間は検索で確認できず5年と仮定しR9終期を推定→R9終期なら次期策定はR8〜R9着手見込み（有望・要確認）。環境：第3次計画と第3次温暖化対策実行計画をH31.4.23掲載、期間不明（10年ならR10頃終期）。広域：宮城県地域公共交通計画R8〜R14あり（県計画、検索要約より）。佐賀県白石町・千葉県白井市とは別。"
+  "note": "交通：R5.3策定（前身の網形成計画はH29.6）、計画ページ https://www.city.shiroishi.miyagi.jp/soshiki/17/27078.html 。期間は検索で確認できず5年と仮定しR9終期を推定→R9終期なら次期策定はR8〜R9着手見込み（有望・要確認）。環境：第3次計画と第3次温暖化対策実行計画をH31.4.23掲載、期間不明（10年ならR10頃終期）。広域：宮城県地域公共交通計画R8〜R14あり（県計画、検索要約より）。佐賀県白石町・千葉県白井市とは別。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（令和5年度〜令和9年度の5年間、R5.3策定）／次期: 着手済の可能性高：「白石市地域公共交通計画策定調査に係る公募型プロポーザル」（2026-07-14更新、募集終了）が市サイト まちづくり推進課/入札・契約情報に掲載（https://www.city.shiroishi.miyagi.jp/／根拠: https://www.city.shiroishi.miyagi.jp/soshiki/17/27078.html"
  },
  {
   "pref": "宮城県",
@@ -99,7 +99,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": "https://www.city.natori.miyagi.jp/uploaded/attachment/10172.pdf",
-  "note": "交通：R5.3.28策定、R9終期。次期計画の策定業務・プロポーザルは検索で未確認。R8.8.25にR8年度名取市地域公共交通活性化推進協議会開催 https://www.city.natori.miyagi.jp/page/45227.html （次期計画の議題か要確認・有望）。計画ページ https://www.city.natori.miyagi.jp/page/4327.html 。環境：第二次計画の期間は検索で確認できず（R2開始10年ならR11終期と推定）。"
+  "note": "交通：R5.3.28策定、R9終期。次期計画の策定業務・プロポーザルは検索で未確認。R8.8.25にR8年度名取市地域公共交通活性化推進協議会開催 https://www.city.natori.miyagi.jp/page/45227.html （次期計画の議題か要確認・有望）。計画ページ https://www.city.natori.miyagi.jp/page/4327.html 。環境：第二次計画の期間は検索で確認できず（R2開始10年ならR11終期と推定）。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（令和5年度～令和9年度の5ヶ年、R5.3.28策定）／次期: 確認できず（令和8年度協議会 R8.8.25開催の議題は『計画の取組状況について』のみ／https://www.city.natori.miyagi.jp/page/45227.html）／根拠: https://www.city.natori.miyagi.jp/page/4327.html"
  },
  {
   "pref": "宮城県",

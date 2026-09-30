@@ -71,9 +71,9 @@
   "pref": "青森県",
   "name": "五所川原市",
   "t_name": "五所川原市地域公共交通計画",
-  "t_period": "R5〜R9",
-  "t_end": 9,
-  "t_conf": "推定",
+  "t_period": "R5〜R10",
+  "t_end": 10,
+  "t_conf": "確認済",
   "t_status": "未確認",
   "t_url": "https://www.city.goshogawara.lg.jp/kurashi/machi/chiikikoukyokoutsukeikaku.html",
   "e_name": null,
@@ -82,7 +82,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通：R5.6策定（パブコメR5.4.17〜5.16）。期間は検索結果で未確認のため5年と仮定した推定値（要確認）。R6.3に五所川原市地域公共交通推進計画（R6〜R10、確認済 https://www.city.goshogawara.lg.jp/jouhou/keikaku/files/koutuu_suisin.pdf）。H28.3網形成計画・H30.3再編実施計画あり。環境：環境基本計画は検索で見当たらず。代替として五所川原市地球温暖化対策実行計画（区域施策編）が存在する模様（https://www.city.goshogawara.lg.jp/kurashi/kurashi/files/planR2_gaiyouban.pdf の可能性）。事務事業編相当は環境保全率先行動計画（H21〜H25）。"
+  "note": "交通：R5.6策定（パブコメR5.4.17〜5.16）。期間は検索結果で未確認のため5年と仮定した推定値（要確認）。R6.3に五所川原市地域公共交通推進計画（R6〜R10、確認済 https://www.city.goshogawara.lg.jp/jouhou/keikaku/files/koutuu_suisin.pdf）。H28.3網形成計画・H30.3再編実施計画あり。環境：環境基本計画は検索で見当たらず。代替として五所川原市地球温暖化対策実行計画（区域施策編）が存在する模様（https://www.city.goshogawara.lg.jp/kurashi/kurashi/files/planR2_gaiyouban.pdf の可能性）。事務事業編相当は環境保全率先行動計画（H21〜H25）。 【ファクトチェック 2026-10-01: 誤り】確認期間: R5〜R10（令和5年6月策定、令和10年度までの取組を定める）／次期: 確認できず（次期計画の策定支援業務・パブコメは見当たらず。概要版が gaiyouR7.1/R7.6/R8.1 と更新されており、R8.1時点で計画の変更あり）／根拠: https://www.city.goshogawara.lg.jp/kurashi/machi/files/suishinnkeikaku-gaiyou.ver.pdf"
  },
  {
   "pref": "青森県",
@@ -99,7 +99,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通：計画期間R5〜R9（5か年、検索結果で確認）。概要版 https://www.city.towada.lg.jp/kurashi/koutsu/files/gaiyouban.pdf 。策定支援業務仕様書 https://www.city.towada.lg.jp/kurashi/koutsu/files/shiyousyo.pdf あり（日付不明、現行計画策定時のものの可能性が高い。次期計画分かは要確認）。R9終了のため次期計画はR8〜R9に着手見込み。環境：環境基本計画は検索で見当たらず。R7.3に十和田市地球温暖化対策実行計画（区域施策編）策定（https://www.city.towada.lg.jp/shisei/gyousei/machidukuri/files/keikakugaiyouban.pdf）。"
+  "note": "交通：計画期間R5〜R9（5か年、検索結果で確認）。概要版 https://www.city.towada.lg.jp/kurashi/koutsu/files/gaiyouban.pdf 。策定支援業務仕様書 https://www.city.towada.lg.jp/kurashi/koutsu/files/shiyousyo.pdf あり（日付不明、現行計画策定時のものの可能性が高い。次期計画分かは要確認）。R9終了のため次期計画はR8〜R9に着手見込み。環境：環境基本計画は検索で見当たらず。R7.3に十和田市地球温暖化対策実行計画（区域施策編）策定（https://www.city.towada.lg.jp/shisei/gyousei/machidukuri/files/keikakugaiyouban.pdf）。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（2023〜2027年度）／次期: 確認できず（市サイト内検索で次期計画の策定支援プロポーザル・協議会審議は見当たらず。前回はR4年度にプロポーザル https://www.city.towada.lg.jp/kurashi/koutsuu/koutsuukeikaku.ht／根拠: https://www.city.towada.lg.jp/kurashi/koutsuu/files/keikaku.pdf"
  },
  {
   "pref": "青森県",
@@ -201,7 +201,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通：策定支援業務プロポーザル2022-10（https://www.town.imabetsu.lg.jp/news/gyousei/2022-1017-1745-1.html）、計画公表ページ2023-08-28。期間は検索結果で未確認（R5〜R9推定）。JR津軽線蟹田〜三厩は2027年4月廃止・バス/乗合タクシー転換予定（NPO今別外ヶ浜交通）で計画見直しの可能性あり。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
+  "note": "交通：策定支援業務プロポーザル2022-10（https://www.town.imabetsu.lg.jp/news/gyousei/2022-1017-1745-1.html）、計画公表ページ2023-08-28。期間は検索結果で未確認（R5〜R9推定）。JR津軽線蟹田〜三厩は2027年4月廃止・バス/乗合タクシー転換予定（NPO今別外ヶ浜交通）で計画見直しの可能性あり。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（5年間）／次期: 確認できず（次期計画の策定業務・アンケートは見当たらず。ただしJR津軽線蟹田以北について、代行バス・わんタク・町営バス等を統合した自動車交通を令和9年4月1日から運行予定（広報今別733号 https://www.town.imabetsu／根拠: https://www.town.imabetsu.lg.jp/gyousei/koukai/2023-0828-1639-1.html"
  },
  {
   "pref": "青森県",
