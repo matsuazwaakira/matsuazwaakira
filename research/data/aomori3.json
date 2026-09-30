@@ -14,7 +14,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "町単独の地域公共交通計画は確認できず。下北半島都市圏（広域立地適正化方針）には含まれるが、下北地域公共交通計画の対象は5市町村で横浜町は含まれない模様。町HPに2026-04-10付PDFあり内容未確認 https://www.town.yokohama.lg.jp/index.cfm/6,9299,c,html/9299/20260410-143501.pdf 。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "町単独の地域公共交通計画は確認できず。下北地域公共交通計画（2025年3月策定、下北地域公共交通総合連携協議会）の対象はむつ市・大間町・東通村・風間浦村・佐井村の5市町村で横浜町は含まれない（むつ市資料 https://www.city.mutsu.lg.jp/government/katsudou/kyoudou/files/04kotsu.pdf で確認）。下北半島都市圏広域立地適正化方針（R5.8）には含まれる。町HPに2026-04-10付PDFあり内容未確認 https://www.town.yokohama.lg.jp/index.cfm/6,9299,c,html/9299/20260410-143501.pdf 。環境基本計画・区域施策編も検索で見当たらず（横浜市との再エネ連携協定はあり）。"
  },
  {
   "pref": "青森県",
@@ -31,7 +31,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "東北町地域公共交通会議あり（会議録 https://www.town.tohoku.lg.jp/chousei/info/info_yakuba_03-54.html ）。地域公共交通計画の有無は未確認。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "東北町地域公共交通会議あり（会議録 https://www.town.tohoku.lg.jp/chousei/info/info_yakuba_03-54.html ）。地域公共交通計画の有無は検索で確認できず（東北運輸局の計画一覧PDF https://wwwtb.mlit.go.jp/tohoku/content/000338501.pdf がヒットしたが中身未確認）。環境基本計画も見当たらず、関連は「小川原湖環境再生」計画（地域再生計画、汚水処理）程度。第2期まち・ひと・しごと創生推進計画はR8.4〜R13.3。"
  },
  {
   "pref": "青森県",
@@ -48,7 +48,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "R7.3策定（素案住民意見聴取後）。計画ページ https://www.rokkasho.jp/index.cfm/11,19571,31,177,html 。R7.6に計画に基づく再編・見直し検討及び実証運行支援業務の公募型プロポーザル実施 https://www.rokkasho.jp/index.cfm/14,19918,31,177,html 。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "R7.3策定（素案住民意見聴取後）。計画ページ https://www.rokkasho.jp/index.cfm/11,19571,31,177,html 。R7.6に計画に基づく再編・見直し検討及び実証運行支援業務の公募型プロポーザル実施 https://www.rokkasho.jp/index.cfm/14,19918,31,177,html 。環境基本計画は検索で見当たらず（関連: 水環境保全計画、地域新エネルギービジョン、バイオマスタウン構想）。"
  },
  {
   "pref": "青森県",
@@ -58,14 +58,14 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。環境基本計画は町名検索・ゼロカーボン検索とも該当なし（地域再生計画等のみヒット）。区域施策編も未確認。"
  },
  {
   "pref": "青森県",
@@ -82,7 +82,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "素案意見募集R7.2.17〜3.3、計画期間2025〜2029年度（R6年度末策定とみられる）。旧・下北地域公共交通網形成計画(H30.3)の後継。むつ市は本計画に基づく公共交通再編実施計画(2026〜2029)を作成 https://www.city.mutsu.lg.jp/kurashi/koutsu/koutsu_sisaku/files/mutsu_kokyokotsusaihen_2026.pdf 。URLは素案PDF。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は下北5市町村の圏域共同計画（2025〜2029＝R7〜R11、R7.3策定）。t_urlはむつ市サイト掲載の素案PDF（確定版URLは検索で見つからず）。環境基本計画・温暖化対策実行計画とも検索でヒットせず。"
  },
  {
   "pref": "青森県",
@@ -99,7 +99,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "素案意見募集R7.2.17〜3.3、計画期間2025〜2029年度（R6年度末策定とみられる）。旧・下北地域公共交通網形成計画(H30.3)の後継。むつ市は本計画に基づく公共交通再編実施計画(2026〜2029)を作成 https://www.city.mutsu.lg.jp/kurashi/koutsu/koutsu_sisaku/files/mutsu_kokyokotsusaihen_2026.pdf 。URLは素案PDF。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は下北5市町村の圏域共同計画（2025〜2029＝R7〜R11、R7.3策定）。t_urlはむつ市サイト掲載の素案PDF（確定版URLは検索で見つからず）。環境基本計画は検索でヒットせず（原発モニタリング・風力アセス関連のみ）。"
  },
  {
   "pref": "青森県",
@@ -116,7 +116,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "素案意見募集R7.2.17〜3.3、計画期間2025〜2029年度（R6年度末策定とみられる）。旧・下北地域公共交通網形成計画(H30.3)の後継。むつ市は本計画に基づく公共交通再編実施計画(2026〜2029)を作成 https://www.city.mutsu.lg.jp/kurashi/koutsu/koutsu_sisaku/files/mutsu_kokyokotsusaihen_2026.pdf 。URLは素案PDF。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は下北5市町村の圏域共同計画（2025〜2029＝R7〜R11、R7.3策定）。t_urlはむつ市サイト掲載の素案PDF（確定版URLは検索で見つからず）。環境基本計画・温暖化対策実行計画とも検索でヒットせず。"
  },
  {
   "pref": "青森県",
@@ -133,7 +133,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "素案意見募集R7.2.17〜3.3、計画期間2025〜2029年度（R6年度末策定とみられる）。旧・下北地域公共交通網形成計画(H30.3)の後継。むつ市は本計画に基づく公共交通再編実施計画(2026〜2029)を作成 https://www.city.mutsu.lg.jp/kurashi/koutsu/koutsu_sisaku/files/mutsu_kokyokotsusaihen_2026.pdf 。URLは素案PDF。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は下北5市町村の圏域共同計画（2025〜2029＝R7〜R11、R7.3策定）。t_urlはむつ市サイト掲載の素案PDF（確定版URLは検索で見つからず）。環境基本計画・温暖化対策実行計画とも検索でヒットせず。"
  },
  {
   "pref": "青森県",
@@ -143,14 +143,14 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。環境基本計画・地球温暖化対策実行計画とも検索でヒットせず（地域再生計画・風力アセスのみ）。"
  },
  {
   "pref": "青森県",
@@ -160,14 +160,14 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。環境基本計画は検索でヒットせず。代替として五戸町地球温暖化対策実行計画（区域施策編・地域気候変動適応計画兼ねる、R7.3策定、環境省地域脱炭素実現支援事業で作成）あり：https://www.town.gonohe.aomori.jp/chosei/tikyuondankahonpen.pdf （概要版 https://www.town.gonohe.aomori.jp/chosei/tikyuondankagaiyouban.pdf ）。期間は検索結果で確認できず。環境省策定状況 https://www.env.go.jp/policy/local_keikaku/sakutei2/02/02442.html"
  },
  {
   "pref": "青森県",
@@ -177,14 +177,14 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。環境基本計画・温暖化対策実行計画とも検索でヒットせず。"
  },
  {
   "pref": "青森県",
@@ -194,14 +194,14 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。青森県三戸郡南部町。環境基本計画・温暖化対策実行計画とも検索でヒットせず（地域再生計画のみ）。"
  },
  {
   "pref": "青森県",
@@ -211,14 +211,14 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。環境基本計画・温暖化対策実行計画・ゼロカーボン関連とも検索でヒットせず。"
  },
  {
   "pref": "青森県",
@@ -228,13 +228,13 @@
   "t_end": 10,
   "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://www.city.hachinohe.aomori.jp/section/public_transport/",
+  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000181287.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "八戸圏域連携中枢都市圏8市町村（八戸市・三戸町・五戸町・田子町・南部町・階上町・新郷村・おいらせ町）の共同計画、R5.3策定。次期計画作業は未確認。URLは八戸市公共交通政策課ページ（計画本体PDFは東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000341938.pdf 等で言及）。 環境基本計画は検索予算上限により未調査（要確認）。"
+  "note": "交通計画は八戸圏域8市町村の圏域共同計画（R5〜R10）。環境基本計画・温暖化対策実行計画とも検索でヒットせず。"
  }
 ]

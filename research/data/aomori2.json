@@ -14,41 +14,41 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は2024年2月27日パブコメ実施（URLは同パブコメページ、期間は5年と推定）。JR津軽線蟹田〜三厩の代行・転換が絡む。環境基本計画は確認できず、代替として地球温暖化対策実行計画（区域施策編）令和8年3月策定: https://www.town.sotogahama.lg.jp/gyosei/keikaku/files/01_soto_kuikisesaku_plan.pdf"
+  "note": "交通計画は2024年2月27日パブコメ実施（URLは同パブコメページ、期間は5年と推定）。JR津軽線蟹田〜三厩の代行・転換が絡む。環境基本計画は確認できず（今回検索でも見当たらず）、代替として地球温暖化対策実行計画（区域施策編）令和8年3月策定: https://www.town.sotogahama.lg.jp/gyosei/keikaku/files/01_soto_kuikisesaku_plan.pdf 環境基本計画は検索で確認できず（計画なしの確証なし）。"
  },
  {
   "pref": "青森県",
   "name": "鰺ヶ沢町",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "鰺ヶ沢町地域公共交通計画",
+  "t_period": "R6〜R10",
+  "t_end": 10,
+  "t_conf": "推定",
   "t_status": "未確認",
-  "t_url": null,
+  "t_url": "http://www.town.ajigasawa.lg.jp/gyosei_jyoho/kotsu/kokyokotukeikaku.html",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画の単独計画は検索で確認できず（五所川原圏域定住自立圏の構成町）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：旧メモ「単独計画は確認できず」は誤り。町HPで2024年3月策定を確認（パブコメ http://www.town.ajigasawa.lg.jp/gyosei_jyoho/publiccomment/kokyokotukeikaku.html）。期間は未確認で5年と仮定しR6〜R10推定。五所川原圏域定住自立圏構成町。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
   "name": "深浦町",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "深浦町地域公共交通計画",
+  "t_period": "R6〜R10",
+  "t_end": 10,
+  "t_conf": "推定",
   "t_status": "未確認",
-  "t_url": null,
+  "t_url": "https://www.town.fukaura.lg.jp/doc/2020031800019/file_contents/2020031800019_fixed_docs_2020031800019_file_contents_kotsukeikaku.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は検索で確認できず（公共交通マップ https://www.town.fukaura.lg.jp/fixed_docs/2023040300013/file_contents/koutumap.pdf のみ）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：計画書表紙「令和6年4月」。前計画は深浦町地域公共交通網形成計画（2020年3月策定）。期間は未確認で5年と仮定しR6〜R10推定。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
@@ -65,7 +65,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は確認できず（弘前圏域定住自立圏の構成村、小規模村で計画なしの可能性）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：村HP内検索で地域公共交通計画は見当たらず（コミュニティバスのみ https://www.nishimeya.jp/kurashi_tetsuzuki/kokyokotsu/300.html）。弘前市地域公共交通計画（R6.3）は市単独とみられる。なお青森県地域公共交通計画（R5〜R9、県全域）は県計画として全市町村を対象。環境：村HP内検索で環境基本計画は見当たらず（再生可能エネルギー振興策 https://www.nishimeya.jp/sonseijoho/seisaku_keikaku/5/7/228.html、災害廃棄物処理計画R8.1はあり）。計画なしの可能性が高いが確証なく未確認。"
  },
  {
   "pref": "青森県",
@@ -82,15 +82,15 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は検索で確認できず。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：町名検索・町HP内検索で地域公共交通計画は見当たらず（都市計画マスタープラン・総合計画のみ）。弘前圏域8市町村の弘南鉄道維持活性化基本方針（2020）あり。なお青森県地域公共交通計画（R5〜R9、県全域）は県計画として全市町村を対象。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
   "name": "大鰐町",
   "t_name": "大鰐町地域公共交通計画",
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "推定",
   "t_status": "未確認",
   "t_url": "http://www.town.owani.lg.jp/aboutowani/plan/kokyo-kotsu.html",
   "e_name": null,
@@ -99,7 +99,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "町HPに「大鰐町地域公共交通計画策定について」ページあり（期間・策定年は未確認、サイトはfetch不可）。過去に計画案策定支援業務の公募型プロポーザル実施: http://www.town.owani.lg.jp/news/index.cfm/detail.1.12187.html （日付未確認）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "町HP「大鰐町地域公共交通計画策定について」ページに計画PDF（ファイル名R5.5.pdf）掲載→R5.5策定と見られ、5年計画ならR5〜R9（期間は未確認・推定）。過去に計画案策定支援業務の公募型プロポーザル実施: http://www.town.owani.lg.jp/news/index.cfm/detail.1.12187.html （日付未確認）。弘南鉄道大鰐線は運行休止/廃止方向で交通再編の動きあり。環境基本計画・温対計画は検索で見当たらず。"
  },
  {
   "pref": "青森県",
@@ -116,7 +116,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は確認できず（川部駅周辺都市再生整備計画R5.3のみ）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：村HP内検索で地域公共交通計画は見当たらず。弘南鉄道弘南線・大鰐線 維持活性化支援計画（5市町村、2021年1月）に参加 http://www.vill.inakadate.lg.jp/docs/2021022200016/。なお青森県地域公共交通計画（R5〜R9、県全域）は県計画として全市町村を対象。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
@@ -133,7 +133,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は確認できず。都市計画マスタープラン改定案（令和7年2月）あり: https://www.town.itayanagi.aomori.jp/administration/salary/files/toshimasu.pdf 。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：町名検索・町HP内検索で地域公共交通計画は見当たらず（都市計画マスタープラン案R7.2に公共交通の記述あり https://www.town.itayanagi.aomori.jp/administration/salary/files/toshimasu.pdf）。なお青森県地域公共交通計画（R5〜R9、県全域）は県計画として全市町村を対象。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
@@ -150,24 +150,24 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は検索で確認できず（五所川原圏域定住自立圏の構成町）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：町名検索・町HP内検索で地域公共交通計画は見当たらず（各種計画ページ https://www.town.tsuruta.lg.jp/syoukai/syoukai-kakusyu/index.html に該当表示なし、要目視確認）。なお青森県地域公共交通計画（R5〜R9、県全域）は県計画として全市町村を対象。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
   "name": "中泊町",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "中泊町地域公共交通計画",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "推定",
   "t_status": "未確認",
-  "t_url": null,
+  "t_url": "https://www.town.nakadomari.lg.jp/material/files/group/3/koutuukeikakur6.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は検索で確認できず（五所川原圏域定住自立圏の構成町）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通：計画書表紙「令和5年4月」、計画ページ https://www.town.nakadomari.lg.jp/soshikikarasagasu/sogosenryakuka/gyomuannai/5/1/1/4311.html 。ファイル名にr6とあり令和6年に改訂の可能性。期間は未確認で5年と仮定しR5〜R9推定。環境基本計画は町/村名検索・公式サイト内検索で見当たらず（計画なしの確証はないため未確認）。"
  },
  {
   "pref": "青森県",
@@ -184,7 +184,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は町HP上で確認できず（地域間幹線系統確保維持費補助金交付要綱のみ）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通・環境とも町単独計画は検索で確認できず（町HP「まちの計画」 https://www.town.noheji.aomori.jp/life/chosei/machidukuri/machi-keikaku は存在するが内容未確認、町サイトは取得不可）。地域間幹線系統確保維持費補助金交付要綱あり https://www.town.noheji.aomori.jp/reiki_int/reiki_honbun/c041RG00000724.html 。改定作業の情報なし。"
  },
  {
   "pref": "青森県",
@@ -201,7 +201,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "網形成計画（策定支援プロポ: http://www.town.shichinohe.lg.jp/jigyo/nyuusatsu/post-65.html）。期間未確認で既に期限切れの可能性、後継の地域公共交通計画は未確認。環境基本計画は確認できず、関連として地域省エネルギー重点ビジョン（H22）あり。"
+  "note": "網形成計画（策定支援プロポ: http://www.town.shichinohe.lg.jp/jigyo/nyuusatsu/post-65.html）。期間未確認で既に期限切れの可能性、後継の地域公共交通計画は未確認（H21に地域公共交通会議設置・総合連携計画策定の経緯あり）。環境基本計画は確認できず、関連として地域省エネルギー重点ビジョン（H22）あり（計画なしは弱い根拠）。 環境基本計画は検索で確認できず（計画なしの確証なし）。"
  },
  {
   "pref": "青森県",
@@ -218,6 +218,6 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通計画は未確認だが、2026年8月31日に「交通まちづくりワークショップ」開催告知（町バス利用者・学生・保護者・事業者対象）: https://www.town.rokunohe.aomori.jp/docs/2026083100015 。地域公共交通計画策定に向けた作業と推定（計画名は未確認）。環境基本計画は検索で確認できず（検索予算上限のため未精査）。"
+  "note": "交通計画は未確認だが、2026年8月31日に「交通まちづくりワークショップ」開催告知（町バス利用者・学生・保護者・事業者対象）: https://www.town.rokunohe.aomori.jp/docs/2026083100015 。地域公共交通計画策定に向けた作業と推定（計画名・プロポは未確認）。環境基本計画・温対計画は検索で見当たらず。"
  }
 ]
