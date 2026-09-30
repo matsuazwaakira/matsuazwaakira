@@ -12,9 +12,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "村単独の地域公共交通計画は検索で確認できず（会津圏域計画の対象外）。検索予算切れのため環境基本計画は未調査。"
+  "note": "村単独の地域公共交通計画は検索で確認できず（会津圏域計画の対象外）。再検索でも確認できず（国交省事例:喜多方～裏磐梯バス・桧原湖周遊バス https://www.mlit.go.jp/sogoseisaku/transport/pdf/021_kitashiobara.pdf ）。 【環境】環境基本計画は検索で確認できず。代替として『北塩原村地域まるごと脱炭素計画』（区域施策編＋地域気候変動適応計画を兼ねる） https://www.vill.kitashiobara.fukushima.jp/uploaded/attachment/3387.pdf 、事務事業編あり。ゼロカーボンシティ宣言済。"
  },
  {
   "pref": "福島県",
@@ -29,9 +29,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "町単独の地域公共交通計画は町HPで確認できず（町民バス・デマンドバス運行、会津圏域計画の対象外）。検索予算切れのため環境基本計画は未調査。"
+  "note": "町単独の地域公共交通計画は町HPで確認できず（町民バス・デマンドバス運行、会津圏域計画の対象外）。 【環境】環境基本計画は検索で確認できず。代替として『西会津町地域まるごと省エネ計画（区域施策編）』R3.3策定、事務事業編H30.2策定 https://www.town.nishiaizu.fukushima.jp/soshiki/3/10204.html 。"
  },
  {
   "pref": "福島県",
@@ -46,9 +46,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "町単独の地域公共交通計画は確認できず（AIオンデマンド交通導入 https://www.town.bandai.fukushima.jp/site/kurashi-kankyo/bandai-koukyo-koutuuondemand.html ）。総合計画見直し中(R7審議会)。検索予算切れのため環境基本計画は未調査。"
+  "note": "町単独の地域公共交通計画は確認できず（AIオンデマンド交通導入 https://www.town.bandai.fukushima.jp/site/kurashi-kankyo/bandai-koukyo-koutuuondemand.html ）。総合計画見直し中(R7審議会)。 【環境】環境基本計画は検索で確認できず。代替として『磐梯町地球温暖化対策実行計画（区域施策編・事務事業編）』令和7年9月策定 https://www.town.bandai.fukushima.jp/uploaded/attachment/7725.pdf 。ゼロカーボン宣言・ネイチャーポジティブ宣言済。"
  },
  {
   "pref": "福島県",
@@ -63,9 +63,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "町単独の地域公共交通計画は町HPで確認できず。立地適正化計画策定の動きあり https://www.town.inawashiro.fukushima.jp/cb/hpc/Article-199-15693.html 。検索予算切れのため環境基本計画は未調査。"
+  "note": "町単独の地域公共交通計画は町HP・再検索でも確認できず。立地適正化計画策定の動きあり https://www.town.inawashiro.fukushima.jp/cb/hpc/Article-199-15693.html 。 【環境】町HP『環境計画・構想』に環境基本計画は見当たらず。第3次地球温暖化対策実行計画(R3.3策定、最終R6年度) https://www.town.inawashiro.fukushima.jp/cb/hpc/Article-128-18213.html （次期未確認）、再エネ推進計画(2021〜2040) https://www.town.inawashiro.fukushima.jp/cb/hpc/Article-8-18273.html 。"
  },
  {
   "pref": "福島県",
@@ -80,9 +80,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。環境基本計画は検索予算切れで未調査。"
+  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。 【環境】環境基本計画は検索で確認できず。代替として地球温暖化防止対策実行計画（事務事業編・区域施策編）と農山漁村再生可能エネルギー導入促進基本計画をR8.3.17更新 https://www.town.aizubange.fukushima.jp/life/1/8/29/ 。"
  },
  {
   "pref": "福島県",
@@ -99,7 +99,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。環境基本計画は検索予算切れで未調査。"
+  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。 【環境】環境基本計画は検索で確認できず（村HP各種計画 https://www.vill.yugawa.fukushima.jp/site/gyousei-top/various-plans.html ）。"
  },
  {
   "pref": "福島県",
@@ -116,7 +116,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。環境基本計画は検索予算切れで未調査。"
+  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。 【環境】環境基本計画は検索で確認できず。役場地球温暖化対策実行計画(R4.1改訂) https://www.town.yanaizu.fukushima.jp/docs/2022120500022/file_contents/ondankakeikaku.pdf 、R4.12ゼロカーボンシティ宣言。"
  },
  {
   "pref": "福島県",
@@ -133,7 +133,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "単独/奥会津広域の地域公共交通計画は確認できず（会津圏域計画の対象外）。検索予算切れのため環境基本計画は未調査。"
+  "note": "単独/奥会津広域の地域公共交通計画は再検索でも確認できず（只見線利活用計画のみ）（会津圏域計画の対象外）。 【環境】環境基本計画は検索で確認できず。三島町ゼロカーボンビジョン(2022.5) https://www.town.mishima.fukushima.jp/uploaded/attachment/1087.pdf 、第2次実行計画（事務事業編）R6.3策定・2024〜2030 http://www.town.mishima.fukushima.jp/soshiki/chiiki-seisaku/4267.html 。"
  },
  {
   "pref": "福島県",
@@ -150,7 +150,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "単独/奥会津広域の地域公共交通計画は確認できず（会津圏域計画の対象外）。検索予算切れのため環境基本計画は未調査。"
+  "note": "単独/奥会津広域の地域公共交通計画は再検索でも確認できず（只見線利活用計画のみ）（会津圏域計画の対象外）。 【環境】環境基本計画は検索で確認できず。自然環境等と再エネ発電事業等との調和に関する条例制定(パブコメ) https://www.town.kaneyama.fukushima.jp/soshiki/54/pabukomesizennkannkyou.html 。R7.9議会でゼロカーボン表明検討の質疑。"
  },
  {
   "pref": "福島県",
@@ -167,7 +167,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "単独/奥会津広域の地域公共交通計画は確認できず（会津圏域計画の対象外）。検索予算切れのため環境基本計画は未調査。"
+  "note": "単独/奥会津広域の地域公共交通計画は再検索でも確認できず（只見線利活用計画のみ）（会津圏域計画の対象外）。 【環境】環境基本計画は検索で確認できず（村HP各種計画 https://www.vill.showa.fukushima.jp/procedure/1096/ ）。"
  },
  {
   "pref": "福島県",
@@ -184,23 +184,23 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。環境基本計画は検索予算切れで未調査。 別途、町単独の『会津美里町地域公共交通計画（案）』(令和8年、町地域公共交通会議資料) https://www.town.aizumisato.fukushima.jp/material/files/group/3/keikakuann.pdf が作成中＝着手済（期間未確認）。"
+  "note": "前計画 会津圏域地域公共交通網形成計画(R2.3策定,R8.3終了)の後継として令和8年3月策定、R8〜R13の6年間（対象:会津若松市・喜多方市・会津坂下町・湯川村・柳津町・会津美里町）。パブコメ結果 https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html 。 別途、町単独の『会津美里町地域公共交通計画（案）』(令和8年、町地域公共交通会議資料) https://www.town.aizumisato.fukushima.jp/material/files/group/3/keikakuann.pdf が作成中＝着手済（期間未確認）。 【環境】環境基本計画は検索で確認できず。地球温暖化対策実行計画（事務事業編R4〜R6） https://www.town.aizumisato.fukushima.jp/gyosei/gyoseijoho/8/7/2/3496.html 、再エネ導入目標等策定支援業務プロポーザル https://www.town.aizumisato.fukushima.jp/soshiki/1009/3/10/5800.html 、ゼロカーボン宣言済。"
  },
  {
   "pref": "福島県",
   "name": "西郷村",
   "t_name": "西郷村地域公共交通計画",
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_period": "R8〜R13",
+  "t_end": 13,
+  "t_conf": "確認済",
   "t_status": "策定済",
   "t_url": "https://www.vill.nishigo.fukushima.jp/material/files/group/3/koutsuukeikaku_soan_2026.pdf",
-  "e_name": null,
+  "e_name": "西郷村環境基本計画",
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
-  "e_url": null,
-  "note": "旧 西郷村地域公共交通網形成計画 https://www.vill.nishigo.fukushima.jp/soshiki/kikakuseisakuka/shisaku_keikaku/2/2322.html の後継。策定調査業務をプロポーザル発注 https://www.vill.nishigo.fukushima.jp/soshiki/kikakuseisakuka/shisaku_keikaku/2/5707.html 、素案R8.3、R8.3策定との記載あり（期間は未確認、URLは素案）。AIデマンド交通実証導入も進行。検索予算切れのため環境基本計画は未調査。"
+  "e_status": "着手済",
+  "e_url": "https://www.vill.nishigo.fukushima.jp/soshiki/kankyohozenka/kankyo_gomi/2/4547.html",
+  "note": "旧 西郷村地域公共交通網形成計画 https://www.vill.nishigo.fukushima.jp/soshiki/kikakuseisakuka/shisaku_keikaku/2/2322.html の後継。策定調査業務をプロポーザル発注 https://www.vill.nishigo.fukushima.jp/soshiki/kikakuseisakuka/shisaku_keikaku/2/5707.html 、素案R8.3、R8.3策定、計画期間R8〜R13の6年間（URLは素案）。AIデマンド交通実証導入も進行。 【環境】『西郷村環境基本計画』あり https://www.vill.nishigo.fukushima.jp/soshiki/kankyohozenka/kankyo_gomi/2/4547.html （期間は検索で確認できず）。R8.9.3ゼロ・カーボンシティ宣言ページで環境基本計画の改定・地球温暖化対策実行計画（区域施策編）策定に言及 https://www.vill.nishigo.fukushima.jp/soshiki/juminseikatsuka/kankyo_gomi/2/6556.html （改定版の策定済/作業中かは要確認）。"
  }
 ]
