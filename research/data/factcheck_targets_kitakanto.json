@@ -1,0 +1,110 @@
+[
+ {
+  "pref": "茨城県",
+  "name": "常陸大宮市",
+  "plan": "交通",
+  "plan_name": "常陸大宮市地域公共交通計画",
+  "claimed": "R5〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.hitachiomiya.lg.jp/data/doc/1685520960_doc_100_0.pdf"
+ },
+ {
+  "pref": "茨城県",
+  "name": "常陸大宮市",
+  "plan": "環境",
+  "plan_name": "第2次常陸大宮市環境基本計画（後期計画）",
+  "claimed": "R5〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.hitachiomiya.lg.jp/data/doc/1673312876_doc_1_0.pdf"
+ },
+ {
+  "pref": "茨城県",
+  "name": "阿見町",
+  "plan": "交通",
+  "plan_name": "阿見町地域公共交通計画",
+  "claimed": "R5〜R9",
+  "conf": "確認済",
+  "url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/keikaku.pdf"
+ },
+ {
+  "pref": "茨城県",
+  "name": "五霞町",
+  "plan": "交通",
+  "plan_name": "五霞町地域公共交通計画",
+  "claimed": "R5〜R9",
+  "conf": "推定",
+  "url": "https://www.town.goka.lg.jp/data/doc/1690350530_doc_20_0.pdf"
+ },
+ {
+  "pref": "栃木県",
+  "name": "栃木市",
+  "plan": "交通",
+  "plan_name": "栃木市地域公共交通計画（R6.6改定）",
+  "claimed": "R6.6〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.tochigi.lg.jp/uploaded/attachment/56361.pdf"
+ },
+ {
+  "pref": "栃木県",
+  "name": "鹿沼市",
+  "plan": "交通",
+  "plan_name": "鹿沼市地域公共交通計画",
+  "claimed": "R4〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.kanuma.tochigi.jp/manage/contents/upload/623824c0af645.pdf"
+ },
+ {
+  "pref": "栃木県",
+  "name": "日光市",
+  "plan": "交通",
+  "plan_name": "日光市地域公共交通計画",
+  "claimed": "R5.4〜R10.3",
+  "conf": "確認済",
+  "url": "https://www.city.nikko.lg.jp/material/files/group/33/tiikikoukyoukoutuukeikaku.pdf"
+ },
+ {
+  "pref": "栃木県",
+  "name": "大田原市",
+  "plan": "交通",
+  "plan_name": "大田原市地域公共交通計画",
+  "claimed": "R4〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.ohtawara.tochigi.jp/docs/2026073100056"
+ },
+ {
+  "pref": "栃木県",
+  "name": "那須塩原市",
+  "plan": "交通",
+  "plan_name": "第2次那須塩原市地域公共交通計画／那須地域定住自立圏計画",
+  "claimed": "R5〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.nasushiobara.tochigi.jp/material/files/group/15/nasushiobaracity_2nd_publictransportation.pdf"
+ },
+ {
+  "pref": "栃木県",
+  "name": "さくら市",
+  "plan": "環境",
+  "plan_name": "第2次さくら市環境基本計画",
+  "claimed": "H30〜R9",
+  "conf": "確認済",
+  "url": "https://www.city.tochigi-sakura.lg.jp/life/000014/000121/000403/p001957.html"
+ },
+ {
+  "pref": "栃木県",
+  "name": "那須町",
+  "plan": "交通",
+  "plan_name": "那須町地域公共交通計画／那須地域定住自立圏計画",
+  "claimed": "R4〜R9",
+  "conf": "確認済",
+  "url": "https://www.town.nasu.lg.jp/manage/contents/upload/6243b2b07f368.pdf"
+ },
+ {
+  "pref": "栃木県",
+  "name": "那珂川町",
+  "plan": "交通",
+  "plan_name": "那須地域定住自立圏地域公共交通計画＋町計画（R5.3策定）",
+  "claimed": "R5〜R9（定住自立圏）",
+  "conf": "確認済",
+  "url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5504.html"
+ }
+]
