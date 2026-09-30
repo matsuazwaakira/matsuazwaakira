@@ -105,9 +105,9 @@
   "pref": "秋田県",
   "name": "鹿角市",
   "t_name": "鹿角市地域公共交通計画（令和7年6月改訂版）",
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "推定",
   "t_status": "未確認",
   "t_url": "https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/10092.html",
   "e_name": "第3次鹿角市環境基本計画",
@@ -116,7 +116,7 @@
   "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/1/3/index.html",
-  "note": "交通：R7.6改訂版（秋北バス一部路線廃止・八幡平地区再編 R7.10.1対応）。計画期間は検索結果で確認できず（要確認）。協議会 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/9297.html 。環境：エネルギービジョン（R4.2）が第3次環境基本計画と終期を整合、R13年3月まで（=R12年度末）https://www.city.kazuno.lg.jp/material/files/group/14/energyvision.pdf 。e_urlは市の環境ページ（計画直リンク未取得）。"
+  "note": "交通：R7.6改訂版（秋北バス一部路線廃止・八幡平地区再編 R7.10.1対応）。計画期間は検索結果で未確認だが、R4年度協議会で策定審議（資料 https://www.city.kazuno.lg.jp/material/files/group/8/shiryou3_R4_3.pdf ）→R5年度始期の5年計画（R5〜R9）と推定、要確認。協議会 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/9297.html 。環境：エネルギービジョン（R4.2）が第3次環境基本計画と終期を整合、R13年3月まで（=R12年度末）https://www.city.kazuno.lg.jp/material/files/group/14/energyvision.pdf 。e_urlは市の環境ページ（計画直リンク未取得）。"
  },
  {
   "pref": "秋田県",
@@ -202,6 +202,23 @@
   "e_status": "計画なし",
   "e_url": null,
   "note": "交通：R4.3策定・R7.3修正、R8(2026)年度で終期。「にかほ市地域交通調査分析支援業務委託プロポーザル」実施（受託候補者：博報堂）https://www.city.nikaho.akita.jp/soshikikarasagasu/renkei/gyomuannai/1_1/6279.html ―次期計画に向けた調査の可能性大（時期・計画策定との関係は要確認）。AIオンデマンド交通実証も実施。環境：環境基本計画は検索で見つからず。代替としてにかほ市地球温暖化対策実行計画（区域施策編）R7.3策定・2027年度まで https://www.city.nikaho.akita.jp/material/files/group/8/kuikishisaku.pdf 。"
+ },
+ {
+  "pref": "秋田県",
+  "name": "仙北市",
+  "t_name": "仙北市地域公共交通計画",
+  "t_period": "R4〜R8",
+  "t_end": 8,
+  "t_conf": "確認済",
+  "t_status": "着手済",
+  "t_url": "https://www.city.semboku.akita.jp/government/keikaku/documents/220428_koukyoukoutsuu.pdf",
+  "e_name": null,
+  "e_period": "不明",
+  "e_end": null,
+  "e_conf": "不明",
+  "e_status": "計画なし",
+  "e_url": null,
+  "note": "交通：R4.3策定、R8(2026)年度が最終年度。2026年度部局経営方針シートでR9年度からの新計画を市民意見を反映して準備（公共交通座談会拡充・乗車体験イベント・意見交換会）と記載 https://www.city.semboku.akita.jp/government/keikaku/documents/2026_hoshinsi-to.pdf 。策定支援業務の委託先は未確認（有望）。環境：環境基本計画は検索で見つからず（SDGs未来都市計画・一般廃棄物処理基本計画等のみ）。"
  },
  {
   "pref": "秋田県",
@@ -309,18 +326,18 @@
   "pref": "秋田県",
   "name": "八郎潟町",
   "t_name": "南秋地域公共交通計画（五城目町・八郎潟町・大潟村共同、南秋地域公共交通活性化協議会）",
-  "t_period": "R5〜R9?（R5.6策定、期間は未確認）",
+  "t_period": "R5〜R9",
   "t_end": 9,
-  "t_conf": "推定",
+  "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000305851.pdf",
+  "t_url": "https://www.town.gojome.akita.jp/kurashi/koukyoukoutsu/2085",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：南秋地域公共交通計画はR5.6策定（東北運輸局資料で確認）。井川町は含まれない。計画期間は検索で確認できず、5年間ならR9終期（要確認・有望）。t_urlは東北運輸局の事例紹介資料（計画本体URLは検索結果に出ず）。環境：町独自の環境基本計画は検索で見当たらず。【県計画】秋田県地域公共交通計画はR4〜R8（R4.3策定、R8＝今年度終期）。R8.6.23の令和8年度第1回秋田県地域公共交通活性化協議会で県計画の策定（次期計画）を議論 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf"
+  "note": "交通：南秋地域公共交通計画はR5.6策定（東北運輸局資料で確認）。井川町は含まれない。計画期間R5〜R9（五城目町サイトで確認、計画案PDF https://www.town.gojome.akita.jp/up/files/town/machikeikaku/koutuukeikaku.pdf ）。東北運輸局資料 https://wwwtb.mlit.go.jp/tohoku/content/000305851.pdf 。環境：町独自の環境基本計画は検索で見当たらず。【県計画】秋田県地域公共交通計画はR4〜R8（R4.3策定、R8＝今年度終期）。R8.6.23の令和8年度第1回秋田県地域公共交通活性化協議会で県計画の策定（次期計画）を議論 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf"
  },
  {
   "pref": "秋田県",
@@ -343,18 +360,18 @@
   "pref": "秋田県",
   "name": "大潟村",
   "t_name": "南秋地域公共交通計画（五城目町・八郎潟町・大潟村共同、南秋地域公共交通活性化協議会）",
-  "t_period": "R5〜R9?（R5.6策定、期間は未確認）",
+  "t_period": "R5〜R9",
   "t_end": 9,
-  "t_conf": "推定",
+  "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": "https://wwwtb.mlit.go.jp/tohoku/content/000305851.pdf",
+  "t_url": "https://www.town.gojome.akita.jp/kurashi/koukyoukoutsu/2085",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：八郎潟町と同じ南秋地域公共交通計画（R5.6策定）。期間未確認、5年ならR9終期。t_urlは東北運輸局資料。環境：村独自の環境基本計画は検索で見当たらず。大潟村は環境省の脱炭素先行地域（メガソーラー・地域エネルギー会社等） https://www.env.go.jp/content/900512579.pdf 。第3次大潟村振興計画に「自然にやさしい環境の創造」あり。"
+  "note": "交通：八郎潟町と同じ南秋地域公共交通計画（R5.6策定）。期間R5〜R9（五城目町サイトで確認）。環境：村独自の環境基本計画は検索で見当たらず。大潟村は環境省の脱炭素先行地域（メガソーラー・地域エネルギー会社等） https://www.env.go.jp/content/900512579.pdf 。第3次大潟村振興計画に「自然にやさしい環境の創造」あり。"
  },
  {
   "pref": "秋田県",
