@@ -248,6 +248,7 @@ if REGION == "one":
     sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
     from build_memo import fill_memo
     from build_factcheck import fill_fc
+    import build_maps
     from openpyxl.worksheet.hyperlink import Hyperlink
     ms = wb.create_sheet("営業メモ"); fill_memo(ms)
     fs = wb.create_sheet("ファクトチェック結果"); fill_fc(fs)
@@ -264,8 +265,13 @@ if REGION == "one":
         c = ws.cell(HR, 21, "営業メモ"); c.font = Font(name=F, bold=True, color="FFFFFF")
         c.fill = PatternFill("solid", fgColor="1F4E78"); c.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
         ws.column_dimensions["U"].width = 10
+        c = ws.cell(HR, 22, "位置図"); c.font = Font(name=F, bold=True, color="FFFFFF")
+        c.fill = PatternFill("solid", fgColor="1F4E78"); c.alignment = Alignment(horizontal="center", vertical="center")
+        ws.column_dimensions["V"].width = 13
         for r in range(HR + 1, ws.max_row + 1):
             nm = ws.cell(r, 2).value
+            if nm and build_maps.put(ws, f"V{r}", pref, [nm], size=84):
+                build_maps.fit_height(ws, r, 66, 13)
             mr = memo_row.get((pref, nm))
             if mr is None and "避難地域" in str(ws.cell(r, 6).value or "") and ("福島県", "*避難*") in memo_row:
                 mr = memo_row[("福島県", "*避難*")]

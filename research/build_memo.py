@@ -3,7 +3,9 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 D = "/home/user/matsuazwaakira/research/data"
 OUT = "/home/user/matsuazwaakira/research/営業メモ_R9終期自治体_2026-10.xlsx"
-import os
+import os, sys
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import build_maps
 rows = []
 for _f in ("memos_E.json", "memos_F.json", "memos_G.json"):
     if os.path.exists(f"{D}/{_f}"):
@@ -15,8 +17,8 @@ def fill_memo(ws):
     ws["A1"] = "営業メモ：終期R9年度の計画を持つ自治体（2026年10月作成）"; ws["A1"].font = Font(name=F, bold=True, size=14)
     ws["A2"] = "Web検索で確認できた範囲の情報です。「推定」「要確認」は訪問前に電話・HPで確認してください。次期計画に着手済みの自治体は「着手」列に●。"
     ws["A2"].font = Font(name=F, size=10, color="555555")
-    H = ["No", "県", "自治体", "着手", "対象計画", "計画の概要", "担当課・連絡先", "次期計画の見込みスケジュール", "前回の策定業務（方式・受託者・金額）", "関連する動き", "訪問時の切り口", "根拠URL", "備考"]
-    W = [4, 7, 12, 5, 24, 46, 28, 46, 38, 40, 42, 40, 30]
+    H = ["No", "県", "自治体", "位置図", "着手", "対象計画", "計画の概要", "担当課・連絡先", "次期計画の見込みスケジュール", "前回の策定業務（方式・受託者・金額）", "関連する動き", "訪問時の切り口", "根拠URL", "備考"]
+    W = [4, 7, 12, 17, 5, 24, 46, 28, 46, 38, 40, 42, 40, 30]
     HR = 4
     for c, h in enumerate(H, 1):
         x = ws.cell(HR, c, h); x.font = Font(name=F, bold=True, color="FFFFFF", size=10); x.fill = PatternFill("solid", fgColor="1F4E78")
@@ -29,29 +31,31 @@ def fill_memo(ws):
         ns = r.get("next_schedule") or ""
         started = "●" if ("着手済" in ns[:40] or "【次期計画は着手済】" in ns) else ""
         srcs = r.get("sources") or []
-        vals = [i + 1, r["pref"], r["name"], started, r.get("target_plan"), r.get("plan_summary"), r.get("dept"), ns,
+        vals = [i + 1, r["pref"], r["name"], None, started, r.get("target_plan"), r.get("plan_summary"), r.get("dept"), ns,
                 r.get("past_contract"), r.get("related"), txt(r.get("talking_points")), "\n".join(srcs), r.get("note")]
         for c, v in enumerate(vals, 1):
             x = ws.cell(rr, c, txt(v)); x.font = Font(name=F, size=9); x.alignment = Alignment(vertical="top", wrap_text=True); x.border = bd
         ws.cell(rr, 3).font = Font(name=F, size=10, bold=True)
-        ws.cell(rr, 4).alignment = Alignment(horizontal="center", vertical="top")
+        if build_maps.put(ws, f"D{rr}", r["pref"], build_maps.targets(r["name"])):
+            build_maps.fit_height(ws, rr, 90, 12)
+        ws.cell(rr, 5).alignment = Alignment(horizontal="center", vertical="top")
         if started:
-            ws.cell(rr, 4).font = Font(name=F, size=11, bold=True, color="C00000")
-            ws.cell(rr, 8).fill = PatternFill("solid", fgColor="FFF2CC")
+            ws.cell(rr, 5).font = Font(name=F, size=11, bold=True, color="C00000")
+            ws.cell(rr, 9).fill = PatternFill("solid", fgColor="FFF2CC")
         pc = r.get("past_contract") or ""
         if pc and not pc.startswith("不明"):
-            ws.cell(rr, 9).fill = PatternFill("solid", fgColor="E2EFDA")
+            ws.cell(rr, 10).fill = PatternFill("solid", fgColor="E2EFDA")
         if srcs and str(srcs[0]).startswith("http"):
-            ws.cell(rr, 12).hyperlink = srcs[0]; ws.cell(rr, 12).font = Font(name=F, size=8, color="0563C1", underline="single")
+            ws.cell(rr, 13).hyperlink = srcs[0]; ws.cell(rr, 13).font = Font(name=F, size=8, color="0563C1", underline="single")
         else:
-            ws.cell(rr, 12).font = Font(name=F, size=8)
+            ws.cell(rr, 13).font = Font(name=F, size=8)
     last = HR + len(rows)
-    ws.freeze_panes = "D5"; ws.auto_filter.ref = f"A{HR}:M{last}"
+    ws.freeze_panes = "E5"; ws.auto_filter.ref = f"A{HR}:N{last}"
     ws.print_title_rows = f"{HR}:{HR}"
     ws.page_setup.orientation = "landscape"; ws.page_setup.paperSize = ws.PAPERSIZE_A3
     ws.page_setup.fitToWidth = 1; ws.page_setup.fitToHeight = 0; ws.sheet_properties.pageSetUpPr.fitToPage = True
     ws.cell(last + 2, 2, "凡例").font = Font(name=F, bold=True, size=9)
-    ws.cell(last + 3, 2, "黄色＝次期計画に着手済み（策定業務の公告等を確認）／緑＝前回の策定業務の情報あり／根拠URL列は先頭URLのみリンク").font = Font(name=F, size=9)
+    ws.cell(last + 3, 2, "黄色＝次期計画に着手済み（策定業務の公告等を確認）／緑＝前回の策定業務の情報あり／根拠URL列は先頭URLのみリンク／位置図＝赤が対象市町村（国土数値情報 行政区域N03・2021年をスマートニュース メディア研究所が簡素化したデータから作成）").font = Font(name=F, size=9)
 
     return len(rows)
 
