@@ -63,6 +63,28 @@
  },
  {
   "pref": "茨城県",
+  "name": "美浦村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_conf": "推定",
+   "e_status": "計画なし"
+  },
+  "note_add": "[2026-10-02] 村サイト(vill.miho.lg.jp)限定検索で『環境基本計画』該当ページなし。環境系は『第4次美浦村地球温暖化対策実行計画』 https://www.vill.miho.lg.jp/kurashi-kankyou/kankyou-bika/chikyuondanka/page002301.html 、美浦村環境美化条例(H26.4.1施行) https://www.vill.miho.lg.jp/page/page001333.html 、稲敷市・阿見町・美浦村 地域気候変動適応計画（共同、案の意見募集）のみ確認。環境基本条例も検索で確認できず。以上から環境基本計画は未策定と判断（村サイト・県白書はWebFetchブロックのため直接確認は未実施）。",
+  "evidence_quote": "美浦村役場では…「第4次美浦村地球温暖化対策実行計画」を策定しました"
+ },
+ {
+  "pref": "茨城県",
+  "name": "河内町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_conf": "推定",
+   "e_status": "計画なし"
+  },
+  "note_add": "[2026-10-02] 町サイト(town.ibaraki-kawachi.lg.jp)限定検索で『環境基本計画』『環境基本条例』該当なし。環境系計画は『河内町地球温暖化対策実行計画（事務事業編）』（2030年度に2016年度比50%削減目標）https://www.town.ibaraki-kawachi.lg.jp/page/page001685.html と『河内町ごみ処理基本計画』https://www.town.ibaraki-kawachi.lg.jp/page/page002289.html のみ確認。以上から環境基本計画は未策定と判断（町サイトの直接閲覧は未実施）。大阪府河内長野市のヒットは除外。",
+  "evidence_quote": "河内町地球温暖化対策実行計画（事務事業編）…2030年度までに2016年度比50%削減"
+ },
+ {
+  "pref": "茨城県",
   "name": "八千代町",
   "task": "3:環境基本計画を特定",
   "set": {},
