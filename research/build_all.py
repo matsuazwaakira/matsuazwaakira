@@ -29,7 +29,14 @@ STATUSES = ("未確認", "着手済", "策定済", "計画なし")
 wb = Workbook()
 cfg = wb.active
 cfg.title = "集計・設定"
-MIN, MAX = "'集計・設定'!$C$4", "'集計・設定'!$C$5"
+MIN, MAX = "TGT_MIN", "TGT_MAX"
+from openpyxl.workbook.defined_name import DefinedName
+for _n, _c in (("TGT_MIN", "$C$4"), ("TGT_MAX", "$C$5")):
+    _d = DefinedName(_n, attr_text=f"'集計・設定'!{_c}")
+    try:
+        wb.defined_names[_n] = _d
+    except TypeError:
+        wb.defined_names.append(_d)
 
 def load(files):
     rows = []
@@ -90,7 +97,7 @@ for pref, files in PREFS:
     ws = wb.create_sheet(pref)
     ws["A1"] = f"{pref}　地域公共交通計画・環境基本計画の終期一覧（2026年9月30日時点の調査）"
     ws["A1"].font = Font(name=F, bold=True, size=14)
-    ws["A2"] = "営業判定：どちらかの計画の終期が対象年度（「集計・設定」シートで設定、初期値はR9のみ）→◎。次期計画に着手済→△。期間不明→？。"
+    ws["A2"] = ('="営業判定の対象：終期 R"&' + MIN + '&"〜R"&' + MAX + '&"年度 →◎（着手済は△、期間不明は？）。終期セルの色：緑＝対象年度／橙＝その翌年度（次の候補）。対象年度は「集計・設定」シートのC4・C5のプルダウンで切替。"')
     ws["A2"].font = Font(name=F, size=10, color="555555")
     for c, h in enumerate(H, 1):
         cell = ws.cell(HR, c, h)
@@ -137,6 +144,23 @@ for pref, files in PREFS:
     for sym, color in fills:
         ws.conditional_formatting.add(f"A{HR+1}:T{last}",
             FormulaRule(formula=[f'LEFT($C{HR+1},1)="{sym}"'], fill=PatternFill("solid", fgColor=color)))
+    for col in ("H", "N"):
+        rng = f"{col}{HR+1}:{col}{last}"
+        ws.conditional_formatting.add(rng, FormulaRule(
+            formula=[f'AND(ISNUMBER({col}{HR+1}),{col}{HR+1}>={MIN},{col}{HR+1}<={MAX})'],
+            fill=PatternFill("solid", fgColor="63BE7B"), font=Font(bold=True, color="FFFFFF"), stopIfTrue=True))
+        ws.conditional_formatting.add(rng, FormulaRule(
+            formula=[f'AND(ISNUMBER({col}{HR+1}),{col}{HR+1}={MAX}+1)'],
+            fill=PatternFill("solid", fgColor="F4B183"), font=Font(bold=True)))
+    _pri = 1
+    for _cf in ws.conditional_formatting:
+        if str(_cf.sqref).startswith(("H", "N")):
+            for _r in _cf.rules:
+                _r.priority = _pri; _pri += 1
+    for _cf in ws.conditional_formatting:
+        if not str(_cf.sqref).startswith(("H", "N")):
+            for _r in _cf.rules:
+                _r.priority = _pri; _pri += 1
     dv = DataValidation(type="list", formula1='"' + ",".join(STATUSES) + '"', allow_blank=True)
     ws.add_data_validation(dv)
     dv.add(f"J{HR+1}:J{last}")
@@ -155,7 +179,12 @@ for rr, lab, v in ((4, "下限", 9), (5, "上限", 9)):
     c = cfg.cell(rr, 3, v)
     c.font = Font(name=F, bold=True, color="0000FF")
     c.fill = PatternFill("solid", fgColor="FFFF00")
-cfg["D4"] = "R8年度で終わる計画は作成中のため対象外（下限9）。数字を変えると全シートの判定が再計算されます。"
+yv = DataValidation(type="list", formula1='"7,8,9,10,11,12,13,14,15"', allow_blank=False)
+cfg.add_data_validation(yv)
+yv.add("C4"); yv.add("C5")
+cfg["D4"] = "▼プルダウンで選ぶと全シートの判定（◎）と終期セルの色が切り替わります。例：R10年度に終わる計画も見る→上限を10に／R10だけ見る→下限・上限とも10に。"
+cfg["D5"] = "R8年度で終わる計画は作成中のため対象外（初期値は下限9・上限9）。終期セルの色：緑＝対象年度、橙＝上限の翌年度（次の営業候補）。"
+cfg["D5"].font = Font(name=F, size=9, color="555555")
 cfg["D4"].font = Font(name=F, size=9, color="555555")
 
 cfg["A7"] = "■ 県別の集計"
