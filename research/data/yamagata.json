@@ -70,19 +70,19 @@
  {
   "pref": "山形県",
   "name": "新庄市",
-  "t_name": "山形県地域公共交通計画（県・市町村共同、次期計画R8.3.27策定）",
-  "t_period": "R8〜不明",
-  "t_end": null,
-  "t_conf": "推定",
+  "t_name": "山形県地域公共交通計画（県・市町村共同、R8.3.27策定）",
+  "t_period": "R8〜R12",
+  "t_end": 12,
+  "t_conf": "確認済",
   "t_status": "策定済",
-  "t_url": "https://www.pref.yamagata.jp/020057/kurashi/kendo/kotsuseisaku/ykotsu_kasseikakyougikai.html",
+  "t_url": "https://www.pref.yamagata.jp/documents/50579/keikaku_honpen.pdf",
   "e_name": "第4次新庄市環境基本計画",
   "e_period": "R3〜R12",
   "e_end": 12,
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "http://www.city.shinjo.yamagata.jp/s008/170/010/kankyoukihonkeikakuno4.pdf",
-  "note": "交通：市単独の地域公共交通計画は検索で見当たらず。県計画の最上地域部会で最上管内8市町村の公共交通再編を検討中（R7.11資料 https://www.pref.yamagata.jp/documents/47862/20251125shiryou2-2.pdf ）。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。"
+  "note": "交通：市単独の地域公共交通計画は検索で見当たらず。県計画の最上地域部会で最上管内8市町村の公共交通再編を検討中（R7.11資料 https://www.pref.yamagata.jp/documents/47862/20251125shiryou2-2.pdf ）。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 【追加調査 2026-10】交通(2026-10調査)：市単独の「新庄市地域公共交通計画」は検索で見当たらず。新庄市の地域内フィーダー系統（まちなか循環線）は山形県地域公共交通計画に位置付け（https://www.pref.yamagata.jp/documents/22689/05_shinjo.pdf ）。国交省一覧の「単独・期間満了」は前県計画（R3〜R7、市町村共同作成）を指す可能性が高い。次期県計画は計画期間 令和8〜12年度（本編 https://www.pref.yamagata.jp/documents/50579/keikaku_honpen.pdf 、概要 https://www.pref.yamagata.jp/documents/50579/keikaku_gaiyou.pdf 、策定業務仕様書 https://www300.pref.yamagata.jp/documents/45835/02_shiyousyo.pdf ）。県全域＋全市町村が対象、4地域ブロック（最上ブロック）構成。 根拠: 山形県地域公共交通計画（本編）… 計画期間 令和8～12年度（検索結果本文）"
  },
  {
   "pref": "山形県",
@@ -94,12 +94,12 @@
   "t_status": "未確認",
   "t_url": "https://www.city.sagae.yamagata.jp/shisei/keikaku/toshikankyokeikaku/koutsu_net_sakutei.html",
   "e_name": "寒河江市環境基本計画（R5.3改定）",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "R5〜R14（10年間）",
+  "e_end": 14,
+  "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.sagae.yamagata.jp/shisei/keikaku/toshikankyokeikaku/kankyokeikaku.html",
-  "note": "交通：法定の地域公共交通計画は見当たらず、市の生活交通ネットワーク計画と県計画（山形県地域公共交通計画（県・市町村共同、次期計画R8.3.27策定））で対応。環境：R5.3改定、期間は検索で確認できず。"
+  "note": "交通：法定の地域公共交通計画は見当たらず、市の生活交通ネットワーク計画と県計画（山形県地域公共交通計画（県・市町村共同、次期計画R8.3.27策定））で対応。環境：R5.3改定、期間は検索で確認できず。 【追加調査 2026-10】環境：R5.3改定版の計画期間は2023（R5）〜2032（R14）年度の10年間。旧計画（H26〜R5）を1年前倒しで改定（R4ゼロカーボンシティ宣言を受け）。計画ページ https://www.city.sagae.yamagata.jp/shisei/keikaku/toshikankyokeikaku/kankyokeikaku.html 。 根拠: 計画期間は令和5年度から令和14年度までの10年間（前計画 平成26年度〜令和5年度を1年前倒しで改定）"
  },
  {
   "pref": "山形県",
@@ -179,12 +179,12 @@
   "t_status": "策定済",
   "t_url": "https://www.pref.yamagata.jp/020057/kurashi/kendo/kotsuseisaku/ykotsu_kasseikakyougikai.html",
   "e_name": "第３次東根市大けやき環境基本計画",
-  "e_period": "R5〜不明",
-  "e_end": null,
-  "e_conf": "推定",
+  "e_period": "R5〜R14（10年間）",
+  "e_end": 14,
+  "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.higashine.yamagata.jp/section_list/section008/seikatsukankyo-keikaku/169",
-  "note": "交通：市単独の地域公共交通計画は見当たらず（市民バス運行、県計画を踏まえる）。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：前計画H25〜R4の後継としてR4年度に第3次策定（期間は未確認、R5開始と推定）。"
+  "note": "交通：市単独の地域公共交通計画は見当たらず（市民バス運行、県計画を踏まえる）。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：前計画H25〜R4の後継としてR4年度に第3次策定（期間は未確認、R5開始と推定）。 【追加調査 2026-10】環境：第3次東根市大けやき環境基本計画はR4年度策定、計画期間R5〜R14（2023〜2032年度）の10年間。前計画（改訂版）はH25〜R4。計画ページ https://www.city.higashine.yamagata.jp/section_list/section008/seikatsukankyo-keikaku/169 （本編・概要版PDF掲載）。 根拠: The third version covers the period from R5 to R14 (fiscal year 2023 to fiscal year 2032)"
  },
  {
   "pref": "山形県",
@@ -461,36 +461,36 @@
  {
   "pref": "山形県",
   "name": "高畠町",
-  "t_name": "山形県地域公共交通計画（県・市町村共同、次期計画R8.3.27策定）",
+  "t_name": "高畠町地域公共交通計画",
   "t_period": "R8〜不明",
   "t_end": null,
   "t_conf": "推定",
   "t_status": "策定済",
-  "t_url": "https://www.pref.yamagata.jp/020057/kurashi/kendo/kotsuseisaku/ykotsu_kasseikakyougikai.html",
+  "t_url": "https://www.town.takahata.yamagata.jp/soshikiichiran/kikaku/3/kokyokotsu/4511.html",
   "e_name": "第3次高畠町環境基本計画",
-  "e_period": "R5〜不明",
-  "e_end": null,
+  "e_period": "R5〜（10年ならR14）",
+  "e_end": 14,
   "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.town.takahata.yamagata.jp/kurashi/gyoseijoho/kakushukeikaku/1/2728.html",
-  "note": "交通：町単独の地域公共交通計画は見当たらず（デマンド交通運行）。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：第2次がR4年度で終了→第3次策定（R5開始と推定、終期未確認）。"
+  "note": "交通：町単独の地域公共交通計画は見当たらず（デマンド交通運行）。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：第2次がR4年度で終了→第3次策定（R5開始と推定、終期未確認）。 【追加調査 2026-10】交通(2026-10調査)：町単独の「高畠町地域公共交通計画」を新規策定。計画案のパブリックコメントを令和7年12月17日〜令和8年1月7日に実施（https://www.town.takahata.yamagata.jp/soshikiichiran/kikaku/3/kokyokotsu/4511.html ）、協議の場は高畠町公共交通会議（H22設置 https://www.town.takahata.yamagata.jp/soshikiichiran/kikaku/3/machizukuri/4298.html ）。国交省一覧(R8.5末)に単独計画あり（期間満了でない）ことから、R7年度末頃策定・R8開始と推定。計画期間は検索結果本文で確認できず（計画案PDF・町サイトはWebFetch不可）。参考：山形県地域公共交通計画（次期）はR8〜R12（https://www.pref.yamagata.jp/documents/50579/keikaku_honpen.pdf ）。 根拠: 高畠町地域公共交通計画…意見募集期間は令和7年12月17日（水曜日）～令和8年1月7日（水曜日） 【追加調査 2026-10】環境：第2次（H25.3策定）がR4年度で期間終了→第3次高畠町環境基本計画をR5年度から実施（計画ページ https://www.town.takahata.yamagata.jp/kurashi/gyoseijoho/kakushukeikaku/1/2728.html ）。終期は検索3回で本文に出ず、10年間と仮定しR14と推定。 根拠: 第2次計画の計画期間が令和4年度で終了…令和5年度から第3次計画"
  },
  {
   "pref": "山形県",
   "name": "川西町",
-  "t_name": "山形県地域公共交通計画（県・市町村共同、次期計画R8.3.27策定）",
-  "t_period": "R8〜不明",
-  "t_end": null,
-  "t_conf": "推定",
+  "t_name": "川西町地域公共交通計画",
+  "t_period": "R8〜R12",
+  "t_end": 12,
+  "t_conf": "確認済",
   "t_status": "策定済",
-  "t_url": "https://www.pref.yamagata.jp/020057/kurashi/kendo/kotsuseisaku/ykotsu_kasseikakyougikai.html",
+  "t_url": "https://www.town.kawanishi.yamagata.jp/kurashi/doro/02keikaku.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：町単独計画は見当たらず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：環境基本計画は検索で見当たらず（政策・計画 https://www.town.kawanishi.yamagata.jp/machinojoho/seisaku/ ）。"
+  "note": "交通：町単独計画は見当たらず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：環境基本計画は検索で見当たらず（政策・計画 https://www.town.kawanishi.yamagata.jp/machinojoho/seisaku/ ）。 【追加調査 2026-10】町単独の『川西町地域公共交通計画』を確認（区域：町全域、計画期間R8〜R12の5年間、デマンド型乗合交通等）。町サイト掲載 本編 https://www.town.kawanishi.yamagata.jp/kurashi/doro/02keikaku.pdf 、概要 https://www.town.kawanishi.yamagata.jp/kurashi/doro/01keikakugaiyou.pdf （2026-10-02検索。WebFetchはブロックのため本文直接閲覧不可、検索結果本文で期間確認）。R8開始の新計画のため策定済。広域：フラワー長井線（2市2町）は鉄道事業再構築実施計画R6.4.1〜R16.3.31（https://www.mlit.go.jp/report/press/tetsudo05_hh_000146.html ）。県計画の記載は参考に格下げ。 根拠: 計画期間は令和８年度（2026年度）から令和１２年度（2030年度）までの５年間"
  },
  {
   "pref": "山形県",
@@ -524,7 +524,7 @@
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：町単独計画は見当たらず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：環境基本計画は検索で見当たらず。"
+  "note": "交通：町単独計画は見当たらず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：環境基本計画は検索で見当たらず。 【追加調査 2026-10】国交省一覧の広域計画『フラワー長井線沿線』は、長井市・南陽市・川西町・白鷹町が平成28年2月に作成した『フラワー長井線沿線地域公共交通網形成計画』（H28.4〜R3.3＝H28〜R2、期間満了）と判断（本文PDF：https://www.town.kawanishi.yamagata.jp/machinojoho/seisaku/2017-1017-1735.pdf ）。後継の沿線広域交通計画は検索で確認できず。鉄道部分は鉄道事業再構築実施計画（R6.4.1〜R16.3.31、https://www.mlit.go.jp/report/press/tetsudo05_hh_000146.html ）が継続。町単独の地域公共交通計画は確認できず、白鷹町地域公共交通会議は山形県地域公共交通計画の町部分（デマンドタクシー全町線等、https://www.pref.yamagata.jp/documents/34797/20230628_6-10_31.pdf ）を協議。現行データ（県計画）を維持。2026-10-02検索。 根拠: フラワー長井線沿線地域公共交通網形成計画（平成28年2月、長井市・南陽市・川西町・白鷹町）／計画期間 平成28年4月〜平成33年3月"
  },
  {
   "pref": "山形県",
@@ -563,19 +563,19 @@
  {
   "pref": "山形県",
   "name": "庄内町",
-  "t_name": "山形県地域公共交通計画（県・市町村共同、次期計画R8.3.27策定）",
+  "t_name": "庄内町地域公共交通計画",
   "t_period": "R8〜不明",
   "t_end": null,
   "t_conf": "推定",
   "t_status": "策定済",
-  "t_url": "https://www.pref.yamagata.jp/020057/kurashi/kendo/kotsuseisaku/ykotsu_kasseikakyougikai.html",
+  "t_url": "https://www.town.shonai.lg.jp/kurashi/koutsu/chiikikoukyou/tiikikoukyokotsukaigi.html",
   "e_name": "第3次庄内町環境基本計画",
   "e_period": "R8〜不明",
   "e_end": null,
   "e_conf": "推定",
   "e_status": "策定済",
   "e_url": "https://www.town.shonai.lg.jp/gyousei/shisaku/seisaku/index.html",
-  "note": "交通：町単独の地域公共交通計画は検索で確認できず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：第2次（H29.3策定）の後継として第3次案のパブコメを経てR8.3策定とみられる（期間未確認）。計画一覧 https://www.town.shonai.lg.jp/gyousei/shisaku/index.files/R6_keikaku.pdf 。"
+  "note": "交通：町単独の地域公共交通計画は検索で確認できず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：第2次（H29.3策定）の後継として第3次案のパブコメを経てR8.3策定とみられる（期間未確認）。計画一覧 https://www.town.shonai.lg.jp/gyousei/shisaku/index.files/R6_keikaku.pdf 。 【追加調査 2026-10】町単独の『庄内町地域公共交通計画』をR8.3策定（基本方針「住み続けたいまちの基盤となる交通体系の構築」）。計画（案）のパブコメ R8.2.2〜R8.2.24（https://www.town.shonai.lg.jp/gyousei/public/iken/koutuukeikaku.html ）。計画に基づき既存循環線4路線・デマンド2路線を区域運行型デマンドタクシー「しょうないデマンド」へ転換、AI予約配車システム導入委託をプロポで実施（https://www.town.shonai.lg.jp/kurashi/koutsu/choueibasu/demandtaxi_reservation_system.html ）。計画期間の終期は検索結果本文で確認できず（R8開始、5年ならR8〜R12）。町サイトはWebFetchブロック。2026-10-02検索。 根拠: 令和8年度からの「庄内町地域公共交通計画（案）」…令和8年2月2日から令和8年2月24日までパブリックコメント募集"
  },
  {
   "pref": "山形県",
@@ -587,11 +587,11 @@
   "t_status": "策定済",
   "t_url": "https://www.pref.yamagata.jp/020057/kurashi/kendo/kotsuseisaku/ykotsu_kasseikakyougikai.html",
   "e_name": "第3次遊佐町環境基本計画",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "R4〜R13",
+  "e_end": 13,
+  "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.town.yuza.yamagata.jp/genre/living/environment",
-  "note": "交通：町単独計画は見当たらず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：第3次遊佐町環境基本計画の存在を確認（期間未確認）。R8.1策定の第9次振興計画で環境基本計画に言及。"
+  "note": "交通：町単独計画は見当たらず。山形県地域公共交通計画（前計画R3〜R7）は市町村の利便増進実施計画等を内包する県全域計画。次期計画はR8.2パブコメ（https://www200.pref.yamagata.jp/020057/keikakupabukomepress2.html ）を経てR8.3.27策定（期間は未確認、R8開始）。 環境：第3次遊佐町環境基本計画の存在を確認（期間未確認）。R8.1策定の第9次振興計画で環境基本計画に言及。 【追加調査 2026-10】環境：町ドメイン検索の要約で第3次遊佐町環境基本計画の計画期間は令和4（2022）〜令和13（2031）年度。裏付け検索1回では再現せず、計画PDFのURLも未特定のため推定。 根拠: 第３次遊佐町環境基本計画 計画期間 令和4年度〜令和13年度（検索要約）"
  }
 ]

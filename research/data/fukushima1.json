@@ -94,12 +94,12 @@
   "t_status": "未確認",
   "t_url": "https://www.city.sukagawa.fukushima.jp/kurashi/koutsu/koutsu_keikaku/1015962.html",
   "e_name": "第3次須賀川市環境基本計画（中間改定版）",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "H30〜R9",
+  "e_end": 9,
+  "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.sukagawa.fukushima.jp/kurashi/gomi_recycle/kankyo_hozen/1002334/index.html",
-  "note": "交通：計画ページあり、R7.1.29一部改定。計画期間は検索で確認できず。環境：第3次計画（中間改定版）を公表（計画・条例ページ）、期間は検索で確認できず。区域施策編はR4〜R12。参考：須賀川市の環境（R7.5）https://www.city.sukagawa.fukushima.jp/material/files/group/47/r05shinokankyo.pdf"
+  "note": "交通：計画ページあり、R7.1.29一部改定。計画期間は検索で確認できず。環境：第3次計画（中間改定版）を公表（計画・条例ページ）、期間は検索で確認できず。区域施策編はR4〜R12。参考：須賀川市の環境（R7.5）https://www.city.sukagawa.fukushima.jp/material/files/group/47/r05shinokankyo.pdf 【追加調査 2026-10】市サイト内検索の要約で第3次計画はH30(2018)〜R9(2027)、R4.3中間見直し（出典は『須賀川市の環境』R7.5 https://www.city.sukagawa.fukushima.jp/material/files/group/47/r05shinokankyo.pdf と思われるが本文未確認）。R9終期だが次期（第4次）計画の策定業務・審議会等は市サイト検索で見当たらず。 根拠: Third Environmental Basic Plan covers the period from fiscal year 2018 (Heisei 30) to fiscal year 2027 (Reiwa 9)（検索要約）"
  },
  {
   "pref": "福島県",
@@ -110,13 +110,13 @@
   "t_conf": "確認済",
   "t_status": "策定済",
   "t_url": "https://www.pref.fukushima.lg.jp/sec/16005d/aizukenikimoukeikaku.html",
-  "e_name": "喜多方市環境基本計画（中間見直し版）",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_name": "喜多方市環境基本計画（R4.3中間見直し）",
+  "e_period": "H28〜R8",
+  "e_end": 8,
+  "e_conf": "推定",
   "e_status": "未確認",
-  "e_url": null,
-  "note": "交通：会津圏域6市町村共同計画、パブコメR7.12.15〜R8.1.5、R8〜R13。環境：環境基本計画ありR4.3.29中間見直し（地球温暖化対策総合ビジョン2023-2050を個別方針に位置付け https://www.city.kitakata.fukushima.jp/soshiki/kankyo/49610.html ）、計画期間は検索で確認できず（中間見直しR4から逆算するとR8前後終期の可能性、要確認）。"
+  "e_url": "https://www.city.kitakata.fukushima.jp/life/4/25/125/",
+  "note": "交通：会津圏域6市町村共同計画、パブコメR7.12.15〜R8.1.5、R8〜R13。環境：環境基本計画ありR4.3.29中間見直し（地球温暖化対策総合ビジョン2023-2050を個別方針に位置付け https://www.city.kitakata.fukushima.jp/soshiki/kankyo/49610.html ）、計画期間は検索で確認できず（中間見直しR4から逆算するとR8前後終期の可能性、要確認）。 【追加調査 2026-10】市サイト内検索の要約2件でH28(2016)〜R8(2026)、R4.3中間見直し（パブコメ結果R4.3.2公表）。本文未確認のため推定（e_urlは市の計画一覧ページ）。R8終期だが次期計画の策定業務・審議会・パブコメ等は市サイト検索（R7〜R8）で見当たらず＝未確認。 根拠: planning period spanning fiscal year 2016 (平成28年度) through fiscal year 2026 (令和8年度)（検索要約）"
  },
  {
   "pref": "福島県",
@@ -127,13 +127,13 @@
   "t_conf": "不明",
   "t_status": "未確認",
   "t_url": null,
-  "e_name": null,
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_name": "第2次相馬市環境基本計画",
+  "e_period": "H30〜R9",
+  "e_end": 9,
+  "e_conf": "推定",
   "e_status": "未確認",
-  "e_url": null,
-  "note": "交通・環境とも検索で確認できず（市サイト内検索でも該当ページ出ず、南相馬市の結果に埋もれる）。公共交通情報 https://www.city.soma.fukushima.jp/shinososhiki/kikakuseisakuka/seikatsu/1/1679.html 。参考：福島県地域公共交通計画（R6.3策定）https://www.pref.fukushima.lg.jp/uploaded/attachment/622613.pdf"
+  "e_url": "https://www.city.soma.fukushima.jp/shinososhiki/seikatsukankyoka/keikaku_shisaku/1622.html",
+  "note": "交通・環境とも検索で確認できず（市サイト内検索でも該当ページ出ず、南相馬市の結果に埋もれる）。公共交通情報 https://www.city.soma.fukushima.jp/shinososhiki/kikakuseisakuka/seikatsu/1/1679.html 。参考：福島県地域公共交通計画（R6.3策定）https://www.pref.fukushima.lg.jp/uploaded/attachment/622613.pdf 【追加調査 2026-10】市HP「環境・廃棄物」計画ページ（1622.html）に相馬市環境基本条例に基づく相馬市環境基本計画を掲載。検索要約で第2次計画はH30.3策定・10年間（H30〜R9）、策定5年経過で見直し実施。R9終期だが第3次計画の策定作業は市サイト検索で見当たらず（R8.8に長期総合計画の審議会・市民アンケートは開始）。 根拠: 第2次相馬市環境基本計画は平成30年3月に策定され、10年間を計画期間（検索要約）"
  },
  {
   "pref": "福島県",
@@ -165,9 +165,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：R4〜R8、R6.6一部改訂。R8.3協議会で「第2次田村市地域公共交通計画策定業務」の審査委員会設置を協議→次期計画策定着手（資料 https://www.city.tamura.lg.jp/soshiki/1/assets/%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F%EF%BC%88R7%E7%AC%AC1%E5%9B%9E%EF%BC%89.pdf ほか）。環境：環境基本計画は検索で確認できず（一般廃棄物処理計画等のみヒット）。"
+  "note": "交通：R4〜R8、R6.6一部改訂。R8.3協議会で「第2次田村市地域公共交通計画策定業務」の審査委員会設置を協議→次期計画策定着手（資料 https://www.city.tamura.lg.jp/soshiki/1/assets/%E8%B3%87%E6%96%99%E4%B8%80%E5%BC%8F%EF%BC%88R7%E7%AC%AC1%E5%9B%9E%EF%BC%89.pdf ほか）。環境：環境基本計画は検索で確認できず（一般廃棄物処理計画等のみヒット）。 【追加調査 2026-10】市サイト内検索で環境基本計画は見当たらず、環境分野は第4期田村市地球温暖化対策実行計画【区域施策編・事務事業編】(R4〜R12, https://www.city.tamura.lg.jp/soshiki/8/entry_5.html)・地域新エネルギービジョン・一般廃棄物処理基本計画のみ。第2次総合計画が上位計画。根拠は検索ベースで中程度。 根拠: 第４期田村市地球温暖化対策実行計画【区域施策編・事務事業編】"
  },
  {
   "pref": "福島県",
@@ -179,12 +179,12 @@
   "t_status": "策定済",
   "t_url": "https://www.city.minamisoma.lg.jp/material/files/group/3/202601281245.pdf",
   "e_name": "第三次南相馬市環境基本計画",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "R5〜R12（推定）",
+  "e_end": 12,
+  "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.minamisoma.lg.jp/material/files/group/3/20231024_co148.pdf",
-  "note": "交通：新計画R8〜R12（R8.1資料）。旧計画概要 https://www.city.minamisoma.lg.jp/material/files/group/13/koutuukeikakugaiyou.pdf 。環境：第三次計画R5.10策定（第二次はH36=R6まで）、期間は検索で確認できず（R6開始と推定）。ゼロカーボン推進計画2023〜2030。"
+  "note": "交通：新計画R8〜R12（R8.1資料）。旧計画概要 https://www.city.minamisoma.lg.jp/material/files/group/13/koutuukeikakugaiyou.pdf 。環境：第三次計画R5.10策定（第二次はH36=R6まで）、期間は検索で確認できず（R6開始と推定）。ゼロカーボン推進計画2023〜2030。 【追加調査 2026-10】市サイト内検索の要約で第三次計画は2023〜2030年度（8年間）・4年後中間評価とされる（R5.10策定、第三次総合計画R5〜R12と整合）。ただし別の要約ではR6〜R13とも出ており本文未確認のため推定。終期R12で次期作業は対象外。 根拠: The plan period spans from fiscal year 2023 to fiscal year 2030 (8 years)（検索要約）"
  },
  {
   "pref": "福島県",

@@ -94,12 +94,12 @@
   "t_status": "未確認",
   "t_url": "https://www.city.kuji.lg.jp/material/files/group/19/keikaku.pdf",
   "e_name": "第2次久慈市環境基本計画",
-  "e_period": "10年計画（R3頃〜、終期未確認）",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "H30〜R9",
+  "e_end": 9,
+  "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.kuji.lg.jp/material/files/group/19/2021_kuji_kankyou_1.pdf",
-  "note": "交通：網形成計画（H30〜）をR6.3に地域公共交通計画として策定、計画期間は2018〜2027年度（R9終期）、2028年度以降に見直し予定。計画ページ https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/6/1/1835.html 。次期計画の委託等は未確認。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：10年計画（R10以降に見直しとの記載あり）、正確な期間未確認。区域施策編改訂支援業務プロポーザルあり https://www.city.kuji.iwate.jp/assets/fukushi/siyousyo_ondankapropo.pdf 。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 確認できず／根拠: https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/6/1/1835.html"
+  "note": "交通：網形成計画（H30〜）をR6.3に地域公共交通計画として策定、計画期間は2018〜2027年度（R9終期）、2028年度以降に見直し予定。計画ページ https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/6/1/1835.html 。次期計画の委託等は未確認。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：10年計画（R10以降に見直しとの記載あり）、正確な期間未確認。区域施策編改訂支援業務プロポーザルあり https://www.city.kuji.iwate.jp/assets/fukushi/siyousyo_ondankapropo.pdf 。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 確認できず／根拠: https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/6/1/1835.html 【追加調査 2026-10】【2026-10-02調査】検索3回で計画ページ https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/6/1/1835.html は確認できたが、計画期間（H30〜R9=2018〜2027年度）を示す本文抜粋は得られず推定のまま。市サイトはWebFetch不可（egress blocked）。次期計画の委託等も検索で見当たらず。 【追加調査 2026-10】環境：市サイト限定検索2回で『第1章 計画の基本的事項』(2021_kuji_kankyou_1.pdf)の本文として「2018年度から2027年度までの10年間」を確認（PDF直接取得は不可）。前回メモの『R10以降に見直し』と整合。R9終期のため次期（第3次）計画の策定委託・審議会・パブコメを検索したが見当たらず（着手未確認）。確認日2026-10-02。 根拠: 計画の期間は…2018年度から2027年度までの10年間とします"
  },
  {
   "pref": "岩手県",
@@ -111,12 +111,12 @@
   "t_status": "策定済",
   "t_url": "https://www.city.tono.iwate.jp/index.cfm/50,13281,311,html",
   "e_name": "第5次遠野市環境基本計画",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
-  "e_status": "未確認",
+  "e_period": "R8〜R12",
+  "e_end": 12,
+  "e_conf": "確認済",
+  "e_status": "策定済",
   "e_url": "https://www.city.tono.iwate.jp/index.cfm/45,34797,247,html",
-  "note": "交通：R7〜R12（R7年度開始の新計画）。環境：第5次計画を公開、期間は検索結果で未確認。"
+  "note": "交通：R7〜R12（R7年度開始の新計画）。環境：第5次計画を公開、期間は検索結果で未確認。 【追加調査 2026-10】環境：市サイト限定検索2回（別クエリ）で環境基本計画ページの本文として「第５次遠野市環境基本計画の期間は令和8年から令和12年度まで」を確認。R8開始の新計画（第3次遠野市総合計画R8〜R17と同時期）のため策定済と判断（策定月・パブコメは未確認）。市サイトはWebFetchブロック。確認日2026-10-02。URL https://www.city.tono.iwate.jp/index.cfm/45,34797,247,html 根拠: 第５次遠野市環境基本計画…令和8年から令和12年度まで"
  },
  {
   "pref": "岩手県",
@@ -247,12 +247,12 @@
   "t_status": "策定済",
   "t_url": "https://www.town.shizukuishi.iwate.jp/docs/2021101200012/file_contents/honpen.pdf",
   "e_name": "第二期雫石町環境基本計画",
-  "e_period": "R3〜（終期不明）",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "R3〜R10",
+  "e_end": 10,
+  "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.town.shizukuishi.iwate.jp/docs/2016050600013/file_contents/kankyoukihonkeikaku.pdf",
-  "note": "交通：第1次R3.5〜R6.3、第2次（R7〜R11）はパブコメR7.3.17締切で策定 https://www.town.shizukuishi.iwate.jp/docs/2025021300036/ 。環境：R3.5策定、終期は検索で未確認（10年ならR12）。"
+  "note": "交通：第1次R3.5〜R6.3、第2次（R7〜R11）はパブコメR7.3.17締切で策定 https://www.town.shizukuishi.iwate.jp/docs/2025021300036/ 。環境：R3.5策定、終期は検索で未確認（10年ならR12）。 【追加調査 2026-10】環境：第二期雫石町環境基本計画（R3.5策定）、計画期間R3〜R10（2021〜2028年度、8年間）。町サイト限定検索2回の取得本文で一致して確認。中間見直し規定あり。終期R10のため次期計画の着手状況は未調査。確認日2026-10-02。URL: https://www.town.shizukuishi.iwate.jp/docs/2016050600013/file_contents/kankyoukihonkeikaku.pdf 根拠: 計画期間は2021年度（令和3年度）から2028年度（令和10年度）までの8年間（検索取得本文の要約）"
  },
  {
   "pref": "岩手県",
@@ -297,13 +297,13 @@
   "t_conf": "確認済",
   "t_status": "未確認",
   "t_url": "https://www.town.shiwa.iwate.jp/shiwatown/cms/soshiki/4/2_99/koukyoukoutsukeikaku.pdf",
-  "e_name": "紫波町環境・循環基本計画",
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
-  "e_status": "未確認",
-  "e_url": null,
-  "note": "交通：R6.3策定、R6〜R10。環境：環境・循環基本計画（2021年関連）の存在は示唆されるが期間・URLは確認できず。"
+  "e_name": "紫波2100 2026環境・循環基本計画（2021環境・循環基本計画の中間見直し版）",
+  "e_period": "R8〜R12",
+  "e_end": 12,
+  "e_conf": "確認済",
+  "e_status": "策定済",
+  "e_url": "https://www.town.shiwa.iwate.jp/shiwatown/cms/soshiki/2_1/2_3/2026%E7%92%B0%E5%A2%83%E3%83%BB%E5%BE%AA%E7%92%B0%E5%9F%BA%E6%9C%AC%E8%A8%88%E7%94%BB%EF%BC%88%E6%9C%80%E7%B5%82%E8%AA%BF%E6%95%B4%EF%BC%89_20260316_%E7%A2%BA%E5%AE%9A.pdf",
+  "note": "交通：R6.3策定、R6〜R10。環境：環境・循環基本計画（2021年関連）の存在は示唆されるが期間・URLは確認できず。 【追加調査 2026-10】環境：2021環境・循環基本計画（R3.3策定、R3〜R12）の中間見直しとして2026版を策定。意見公募R7.11.14〜R7.12.3（https://www.town.shiwa.iwate.jp/soshiki/2_1/2_3/173492829222563-2/ ）、確定版PDF（20260316確定）。計画期間R8〜R12（5年間）。計画一覧 https://www.town.shiwa.iwate.jp/soshiki/2_1/2_3/452.html/ に2011版(H23〜R2)・2016版・2021版(R3〜R12)・2026版(R8〜R12)。確認日2026-10-02。 根拠: 計画期間は5年間とし、令和8（2026）年度を初年度、令和12（2030）年度を目標年度とします（意見公募ページ取得本文の要約）"
  },
  {
   "pref": "岩手県",
@@ -383,12 +383,12 @@
   "t_status": "策定済",
   "t_url": "https://www.town.sumita.iwate.jp/docs/2025040400014/files/tiikikoukyoukoutuukeikaku2025.pdf",
   "e_name": "第5次住田町環境基本計画",
-  "e_period": "R5〜（終期不明）",
-  "e_end": null,
-  "e_conf": "不明",
+  "e_period": "R4〜R8",
+  "e_end": 8,
+  "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.town.sumita.iwate.jp/docs/2023061500010/files/04_dai4syou.pdf",
-  "note": "交通：2025〜2029年度。環境：R5.6策定、期間は未確認。区域施策編策定支援業務（R7.5）あり https://www.town.sumita.iwate.jp/docs/2025052000011/files/shinsakijun.pdf 。"
+  "note": "交通：2025〜2029年度。環境：R5.6策定、期間は未確認。区域施策編策定支援業務（R7.5）あり https://www.town.sumita.iwate.jp/docs/2025052000011/files/shinsakijun.pdf 。 【追加調査 2026-10】環境：第5次住田町環境基本計画、町の計画・方針一覧（https://www.town.sumita.iwate.jp/docs/2016050600013/ ）の検索要約で『R5.3策定、計画期間R4〜R8』と3回一致して出たが原文スニペットは未取得。計画書公開はR5.6（docs/2023061500010）で、策定時期と始期の整合に疑問が残るため推定（R5〜R9の可能性も残る）。5年計画。次期（第6次）計画の策定業務委託・審議会・パブコメは町サイト検索で見当たらず（未着手か未公表）。関連：地球温暖化対策実行計画（区域施策編）作成支援業務プロポーザルR7.5 https://www.town.sumita.iwate.jp/docs/2025052000011/ 。町HPへの直接取得はプロキシでブロック。確認日2026-10-02。"
  },
  {
   "pref": "岩手県",
@@ -450,30 +450,30 @@
   "t_conf": "不明",
   "t_status": "未確認",
   "t_url": "https://www.vill.tanohata.iwate.jp/bunya/keikaku/tanohata/",
-  "e_name": "田野畑村環境基本計画（H16.11策定）",
+  "e_name": "田野畑村環境基本計画",
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": "https://www.vill.tanohata.iwate.jp/docs/2015081800027/",
-  "note": "交通：R5.9.15公開、期間は検索で確認できず（5年ならR5〜R9の可能性）。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：H16策定の計画ページあり、期間・改定状況不明。"
+  "note": "交通：R5.9.15公開、期間は検索で確認できず（5年ならR5〜R9の可能性）。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：H16策定の計画ページあり、期間・改定状況不明。 【追加調査 2026-10】環境：村サイト限定検索で『田野畑村環境基本計画』ページ（https://www.vill.tanohata.iwate.jp/docs/2015081800027/ 、ページ更新2017-02-08）を確認。『環境の保全と創造に関する基本条例』に基づきH16.11策定と記載。計画期間・改定（第2次等）の記載は検索結果で確認できず、改定・次期策定の動きも見当たらない（H16策定のまま期間不明）。各種計画一覧 https://www.vill.tanohata.iwate.jp/bunya/keikaku/tanohata/ 。村HP直接取得はブロック。確認日2026-10-02。"
  },
  {
   "pref": "岩手県",
   "name": "普代村",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
-  "t_status": "計画なし",
-  "t_url": null,
+  "t_name": "三陸鉄道沿線地域等公共交通計画（岩手県・沿線市町村の広域計画）",
+  "t_period": "R6〜R10",
+  "t_end": 10,
+  "t_conf": "確認済",
+  "t_status": "未確認",
+  "t_url": "https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：村独自の地域公共交通計画は確認できず（村営バス無料運行 https://www.vill.fudai.iwate.jp/lifescene/koutsu.html ）。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：確認できず。"
+  "note": "交通：村独自の地域公共交通計画は確認できず（村営バス無料運行 https://www.vill.fudai.iwate.jp/lifescene/koutsu.html ）。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：確認できず。 【追加調査 2026-10】交通(2026-10調査)：国交省一覧(R8.5末)の広域計画「三陸鉄道沿線地域等」＝三陸鉄道沿線地域等公共交通計画。検索結果本文で計画期間「令和６年度（2024年度）から令和10年度（2028年度）」を確認（前身の三陸鉄道沿線地域等公共交通網形成計画をR6.3中間評価を踏まえ改定、岩手県地域公共交通計画R6〜R10と整合）。PDF https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf 。終期R10のため次期計画の着手情報なし。普代村独自の地域公共交通計画は引き続き見当たらず。 根拠: 三陸鉄道沿線地域等公共交通計画の計画期間は令和６年度（2024年度）から令和10年度（2028年度）"
  },
  {
   "pref": "岩手県",
@@ -495,19 +495,19 @@
  {
   "pref": "岩手県",
   "name": "野田村",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
-  "t_status": "計画なし",
-  "t_url": null,
+  "t_name": "三陸鉄道沿線地域等公共交通計画（岩手県・沿線市町村の広域計画）",
+  "t_period": "R6〜R10",
+  "t_end": 10,
+  "t_conf": "確認済",
+  "t_status": "未確認",
+  "t_url": "https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：村独自の計画は確認できず（村営バス https://www.vill.noda.iwate.jp/soshiki/miraizukurisuishinka/miraizukurisuishinhan/doro_kotsu/642.html ）。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：確認できず。"
+  "note": "交通：村独自の計画は確認できず（村営バス https://www.vill.noda.iwate.jp/soshiki/miraizukurisuishinka/miraizukurisuishinhan/doro_kotsu/642.html ）。三陸鉄道沿線地域等公共交通計画（岩手県・沿線12市町村の広域計画、2024策定） https://www.city.miyako.iwate.jp/gyosei/soshiki/kokyokotsuusuishin/2/1/605.html もカバー。環境：確認できず。 【追加調査 2026-10】交通(2026-10調査)：国交省一覧(R8.5末)の広域計画「三陸鉄道沿線地域等」＝三陸鉄道沿線地域等公共交通計画。検索結果本文で計画期間「令和６年度（2024年度）から令和10年度（2028年度）」を確認（前身の三陸鉄道沿線地域等公共交通網形成計画をR6.3中間評価を踏まえ改定、岩手県地域公共交通計画R6〜R10と整合）。PDF https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf 。終期R10のため次期計画の着手情報なし。野田村独自の地域公共交通計画は引き続き見当たらず。 根拠: 三陸鉄道沿線地域等公共交通計画の計画期間は令和６年度（2024年度）から令和10年度（2028年度）"
  },
  {
   "pref": "岩手県",

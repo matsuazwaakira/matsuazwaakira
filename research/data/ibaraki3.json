@@ -14,7 +14,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "「第2次筑西市地域公共交通計画策定支援業務委託」公募型プロポーザル実施（事業者選定済）https://www.city.chikusei.lg.jp/jigyousha/proposal/proposal-project/page012557.html 。現行交通計画の期間は検索結果で確認できず（目標達成状況をR6末時点で公表）。環境基本計画は第2次策定済だが期間・URL未確認（所管：環境課）。 【R8.9再調査】環境：筑西市環境基本条例（平成27年3月25日条例第6号）は確認（https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/254.pdf）が、第2次環境基本計画の期間・URL・次期計画作業は検索結果で確認できず（6回検索、筑後市等の類似名のみ）。"
+  "note": "「第2次筑西市地域公共交通計画策定支援業務委託」公募型プロポーザル実施（事業者選定済）https://www.city.chikusei.lg.jp/jigyousha/proposal/proposal-project/page012557.html 。現行交通計画の期間は検索結果で確認できず（目標達成状況をR6末時点で公表）。環境基本計画は第2次策定済だが期間・URL未確認（所管：環境課）。 【R8.9再調査】環境：筑西市環境基本条例（平成27年3月25日条例第6号）は確認（https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/254.pdf）が、第2次環境基本計画の期間・URL・次期計画作業は検索結果で確認できず（6回検索、筑後市等の類似名のみ）。 【追加調査 2026-10】【2026-10-02 task3再調査】市サイト内検索で「第２次筑西市環境基本計画を策定しました」の記載を確認（環境課環境保全係所管、https://www.city.chikusei.lg.jp/section.php?code=18 、https://www.city.chikusei.lg.jp/news.php?code=3736 、筑西市の環境 https://www.city.chikusei.lg.jp/gyousei/measures/page000196.html）。検索要約で掲載日2024-04-01との記述が1回あり（R6年度開始の可能性、未確認）。計画期間は検索結果で確認できず。市サイトはWebFetch不可（egress blocked）。次期計画作業は該当なし（R6策定なら終期は先）。筑後市等の類似名は除外。"
  },
  {
   "pref": "茨城県",
@@ -43,12 +43,12 @@
   "t_status": "未確認",
   "t_url": "https://www.city.inashiki.lg.jp/page/page004756.html",
   "e_name": "稲敷市環境基本計画",
-  "e_period": "R3〜",
-  "e_end": null,
+  "e_period": "R3〜R12",
+  "e_end": 12,
   "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.inashiki.lg.jp/page/page007577.html",
-  "note": "交通計画はH28網形成計画の後継として策定、R5.4一部改訂（あずまコミュニティバス再編）。期間未確認。環境基本計画はR3.3策定（期間未確認）。次期計画作業は未確認（検索上限で深掘り不可）。"
+  "note": "交通計画はH28網形成計画の後継として策定、R5.4一部改訂（あずまコミュニティバス再編）。期間未確認。環境基本計画はR3.3策定（期間未確認）。次期計画作業は未確認（検索上限で深掘り不可）。 【追加調査 2026-10】[2026-10-02] 内閣官房 水循環計画公表資料(稲敷市)で『稲敷市環境基本計画(R3.3策定)』を確認 https://www.kantei.go.jp/jp/singi/mizu_junkan/kouhyou2/pdf/plan13-02.pdf 。期間は検索本文で確認できず、10年計画と仮定しR3〜R12を推定。市サイト・官邸PDFはWebFetchブロック。終期R12推定のため次期着手は対象外（未調査）。 根拠: 稲敷市環境基本計画（R3.3）"
  },
  {
   "pref": "茨城県",
@@ -121,53 +121,53 @@
  {
   "pref": "茨城県",
   "name": "鉾田市",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
-  "t_status": "未確認",
-  "t_url": null,
+  "t_name": "鉾田市地域公共交通計画",
+  "t_period": "R7〜R11",
+  "t_end": 11,
+  "t_conf": "確認済",
+  "t_status": "策定済",
+  "t_url": "https://www.city.hokota.lg.jp/page/page007091.html",
   "e_name": "鉾田市環境基本計画（改定）",
   "e_period": "H29〜R8",
   "e_end": 8,
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.hokota.lg.jp/data/doc/1654669803_doc_37_0.pdf",
-  "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：H29〜R8（2017〜2026年度）の10年間、R4.3に中間見直し・地域気候変動適応計画(R4〜R8)を策定 https://www.city.hokota.lg.jp/page/page004956.html 。R8年度末で満了→次期計画の作業がR8に進行中の可能性大だが検索では未確認。"
+  "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：H29〜R8（2017〜2026年度）の10年間、R4.3に中間見直し・地域気候変動適応計画(R4〜R8)を策定 https://www.city.hokota.lg.jp/page/page004956.html 。R8年度末で満了→次期計画の作業がR8に進行中の可能性大だが検索では未確認。 【追加調査 2026-10】交通：鉾田市地域公共交通計画（令和7年度から令和11年度）。前計画（地域公共交通網形成計画）がR6年度末で満了し更新。デマンド型乗合「ほこまる」等。 根拠: 鉾田市地域公共交通計画（令和7年度から令和11年度）"
  },
  {
   "pref": "茨城県",
   "name": "つくばみらい市",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "つくばみらい市地域公共交通計画",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": null,
+  "t_url": "https://www.city.tsukubamirai.lg.jp/jyumin/shisetu-koutsu/koukyoukoutsu/page004893.html",
   "e_name": "つくばみらい市環境基本計画（改訂版）",
   "e_period": "H29〜R8（推定）",
   "e_end": 8,
   "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.tsukubamirai.lg.jp/jyumin/gomi-kankyou-doubutsu/kankyouhozen/page000080.html",
-  "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：H19.3策定、10年経過でH28年度に見直し改訂（改訂版の期間は10年と推定＝R8終了の可能性）。区域施策編はR8.3策定・R8〜R12 https://www.city.tsukubamirai.lg.jp/data/doc/1772670871_doc_25_0.pdf 。次期環境基本計画の作業は未確認。"
+  "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：H19.3策定、10年経過でH28年度に見直し改訂（改訂版の期間は10年と推定＝R8終了の可能性）。区域施策編はR8.3策定・R8〜R12 https://www.city.tsukubamirai.lg.jp/data/doc/1772670871_doc_25_0.pdf 。次期環境基本計画の作業は未確認。 【追加調査 2026-10】交通：つくばみらい市地域公共交通計画、期間2023〜2027年度（R5〜R9、5年間）。H30.3策定の網形成計画を継承。R4年度にパブコメ実施 https://www.city.tsukubamirai.lg.jp/gyousei/public-comment/r04/page004683.html 計画書 https://www.city.tsukubamirai.lg.jp/data/doc/1683698412_doc_39_0.pdf 。次期計画の委託等は検索で確認できず（2026-10-02）。 計画書に「計画期間の満了時に本計画の更新を予定」。R8年度予算ページ（https://www.city.tsukubamirai.lg.jp/gyousei/zaisei/yosan/r08/page007397.html）検索でも改定予算の記述は確認できず。 根拠: 計画期間は2023年度から2027年度までの5年間"
  },
  {
   "pref": "茨城県",
   "name": "小美玉市",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
-  "t_status": "未確認",
-  "t_url": null,
+  "t_name": "小美玉市地域公共交通計画",
+  "t_period": "R7〜R11",
+  "t_end": 11,
+  "t_conf": "確認済",
+  "t_status": "策定済",
+  "t_url": "https://www.city.omitama.lg.jp/0102/info-0000010942-0.html",
   "e_name": "小美玉市環境基本計画",
   "e_period": "R3〜R12（推定）",
   "e_end": 12,
   "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.omitama.lg.jp/manage/contents/upload/602de700e73ca.pdf",
-  "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：R3年3月策定（期間は10年と推定、原文未確認）。"
+  "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：R3年3月策定（期間は10年と推定、原文未確認）。 【追加調査 2026-10】交通：小美玉市地域公共交通計画、期間R7〜R11（5年間）。案のパブコメ2025/1/16〜2/17 https://www.city.omitama.lg.jp/0045/info-0000011224-0.html 。R7.4からコミュニティバス「おみたん号」再編。 根拠: 令和7年度～令和11年度（5年間）"
  },
  {
   "pref": "茨城県",

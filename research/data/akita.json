@@ -116,7 +116,7 @@
   "e_conf": "推定",
   "e_status": "未確認",
   "e_url": "https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/1/3/index.html",
-  "note": "交通：R7.6改訂版（秋北バス一部路線廃止・八幡平地区再編 R7.10.1対応）。計画期間は検索結果で未確認だが、R4年度協議会で策定審議（資料 https://www.city.kazuno.lg.jp/material/files/group/8/shiryou3_R4_3.pdf ）→R5年度始期の5年計画（R5〜R9）と推定、要確認。協議会 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/9297.html 。環境：エネルギービジョン（R4.2）が第3次環境基本計画と終期を整合、R13年3月まで（=R12年度末）https://www.city.kazuno.lg.jp/material/files/group/14/energyvision.pdf 。e_urlは市の環境ページ（計画直リンク未取得）。 【ファクトチェック 2026-10-01: 確認できず】確認期間: R5〜R9（要約のみ）／次期: 確認できず／根拠: https://realtime-nippon.com/archives/052094230123001/"
+  "note": "交通：R7.6改訂版（秋北バス一部路線廃止・八幡平地区再編 R7.10.1対応）。計画期間は検索結果で未確認だが、R4年度協議会で策定審議（資料 https://www.city.kazuno.lg.jp/material/files/group/8/shiryou3_R4_3.pdf ）→R5年度始期の5年計画（R5〜R9）と推定、要確認。協議会 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/9297.html 。環境：エネルギービジョン（R4.2）が第3次環境基本計画と終期を整合、R13年3月まで（=R12年度末）https://www.city.kazuno.lg.jp/material/files/group/14/energyvision.pdf 。e_urlは市の環境ページ（計画直リンク未取得）。 【ファクトチェック 2026-10-01: 確認できず】確認期間: R5〜R9（要約のみ）／次期: 確認できず／根拠: https://realtime-nippon.com/archives/052094230123001/ 【追加調査 2026-10】【2026-10-02調査】検索3回の要約がいずれも「計画期間は令和5年度から令和9年度まで」と回答（出典候補: 計画ページ https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/10092.html 、協議会 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/9297.html ）が、本文抜粋は表示されず要約のみのため推定のまま（R5〜R9の確度は高い）。市サイト・realtime-nipponはWebFetch不可。関連: R7.10.1八幡平地区公共交通再編 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/13627.html 。次期計画の委託・審議は検索で見当たらず。"
  },
  {
   "pref": "秋田県",
@@ -252,7 +252,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "交通：村単独の地域公共交通計画は確認できず。以前は北秋田市・上小阿仁村の地域公共交通網形成計画（H29〜H34）が検索要約に出たが未確証。現行の北秋田市地域公共交通計画（R5〜R9、R5.3策定 https://www.city.kitaakita.akita.jp/uploads/public/news_0000015700_00/koukyoukoutsukeikaku.pdf ）の計画区域に上小阿仁村が含まれるかは未確認（要確認、含まれればt_end=9）。環境：環境基本計画・温対計画とも村HP検索で確認できず（計画なしの可能性大）。参考：秋田県地域公共交通計画（R4.3策定、R4〜R8）が県全域を対象、R8終期のため次期計画はR8年度に策定作業中と見込まれる（R8第1回県活性化協議会 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf ）。"
+  "note": "交通：村単独の地域公共交通計画は確認できず。以前は北秋田市・上小阿仁村の地域公共交通網形成計画（H29〜H34）が検索要約に出たが未確証。現行の北秋田市地域公共交通計画（R5〜R9、R5.3策定 https://www.city.kitaakita.akita.jp/uploads/public/news_0000015700_00/koukyoukoutsukeikaku.pdf ）の計画区域に上小阿仁村が含まれるかは未確認（要確認、含まれればt_end=9）。環境：環境基本計画・温対計画とも村HP検索で確認できず（計画なしの可能性大）。参考：秋田県地域公共交通計画（R4.3策定、R4〜R8）が県全域を対象、R8終期のため次期計画はR8年度に策定作業中と見込まれる（R8第1回県活性化協議会 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf ）。 【追加調査 2026-10】環境：村サイト限定検索で、村議会会議録（R6第6回12月 https://www.vill.kamikoani.akita.jp/div/gikai/pdf/R6-6-3.pdf 、R7第2回3月 https://www.vill.kamikoani.akita.jp/div/gikai/pdf/R7-2-1.pdf 等）に『上小阿仁村環境基本計画』を自然エネルギーによる脱炭素戦略の村全体の総合行動計画として策定する旨の言及が要約で出た（どの会議録かは原文未確認）。小水力発電可能性調査（2023）を踏まえ再エネ設備基本設計を進行中との記載。策定済の計画書・期間・URLは検索で見当たらず（策定中または未公表の可能性）。未確認のまま。確認日2026-10-02。"
  },
  {
   "pref": "秋田県",
@@ -269,7 +269,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": "https://www.env.go.jp/press/files/jp/3487.pdf",
-  "note": "交通：R6.6.18作成、前計画は藤里町地域公共交通網形成計画（H27〜H31）。計画PDF http://www.town.fujisato.akita.jp/up/files/town/soshiki/c52/c74/%E8%97%A4%E9%87%8C%E7%94%BA%E5%9C%B0%E5%9F%9F%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E8%A8%88%E7%94%BB.pdf 。能代山本地域の広域計画は確認できず（R6.10秋北バス路線再編で町内デマンド拡充）。環境：環境省資料でH12.3策定の記載のみ、現行版・改定状況は町HPで確認できず（実質計画なしの可能性）。参考：秋田県地域公共交通計画（R4.3策定、R4〜R8）が県全域を対象、R8終期のため次期計画はR8年度に策定作業中と見込まれる（R8第1回県活性化協議会 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf ）。"
+  "note": "交通：R6.6.18作成、前計画は藤里町地域公共交通網形成計画（H27〜H31）。計画PDF http://www.town.fujisato.akita.jp/up/files/town/soshiki/c52/c74/%E8%97%A4%E9%87%8C%E7%94%BA%E5%9C%B0%E5%9F%9F%E5%85%AC%E5%85%B1%E4%BA%A4%E9%80%9A%E8%A8%88%E7%94%BB.pdf 。能代山本地域の広域計画は確認できず（R6.10秋北バス路線再編で町内デマンド拡充）。環境：環境省資料でH12.3策定の記載のみ、現行版・改定状況は町HPで確認できず（実質計画なしの可能性）。参考：秋田県地域公共交通計画（R4.3策定、R4〜R8）が県全域を対象、R8終期のため次期計画はR8年度に策定作業中と見込まれる（R8第1回県活性化協議会 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf ）。 【追加調査 2026-10】環境：町サイト限定（town.fujisato.akita.jp）で『環境基本計画』検索→過疎計画・国土強靱化・総合戦略・まちづくり計画（H26.3）・公共施設等総合管理計画のみヒットし、環境基本計画（H12.3策定、環境省資料 https://www.env.go.jp/press/files/jp/3487.pdf ）の現行版・改定版は町HP上に見当たらず。計画が実質失効の可能性大だが計画なしの明示根拠はないため未確認のまま。確認日2026-10-02。"
  },
  {
   "pref": "秋田県",
@@ -410,18 +410,18 @@
  {
   "pref": "秋田県",
   "name": "東成瀬村",
-  "t_name": "秋田県地域公共交通計画（県計画、村独自計画は見当たらず）",
-  "t_period": "R4〜R8",
-  "t_end": 8,
-  "t_conf": "確認済",
-  "t_status": "未確認",
-  "t_url": "https://www.pref.akita.lg.jp/uploads/public/archive_0000062825_00/観スポ_所管事項関連　別冊２（秋田県地域公共交通計画（案）について）.pdf",
+  "t_name": "東成瀬村地域公共交通計画",
+  "t_period": "R8〜R12",
+  "t_end": 12,
+  "t_conf": "推定",
+  "t_status": "策定済",
+  "t_url": "https://vill.higashinaruse.lg.jp/villager/lifework/post-36197/",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "計画なし",
   "e_url": null,
-  "note": "交通：村独自の地域公共交通計画・湯沢雄勝広域共同計画とも検索で確認できず。環境：環境基本計画見当たらず（まち・ひと・しごと創生推進計画のみ確認）。【県計画】秋田県地域公共交通計画はR4〜R8（R4.3策定、R8＝今年度終期）。R8.6.23の令和8年度第1回秋田県地域公共交通活性化協議会で県計画の策定（次期計画）を議論 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf"
+  "note": "交通：村独自の地域公共交通計画・湯沢雄勝広域共同計画とも検索で確認できず。環境：環境基本計画見当たらず（まち・ひと・しごと創生推進計画のみ確認）。【県計画】秋田県地域公共交通計画はR4〜R8（R4.3策定、R8＝今年度終期）。R8.6.23の令和8年度第1回秋田県地域公共交通活性化協議会で県計画の策定（次期計画）を議論 https://www.pref.akita.lg.jp/uploads/public/archive_0000098833_00/R8活性化協議会①/令和８年度第１回秋田県地域公共交通活性化協議会_会議概要.pdf 【追加調査 2026-10】交通(2026-10調査)：村単独の東成瀬村地域公共交通計画をR8.3策定（村HP「東成瀬村地域公共交通計画を策定しました」 https://vill.higashinaruse.lg.jp/villager/lifework/post-36197/ ）。計画期間 令和8年度〜令和12年度（2026〜2030年度）、検索結果本文で2回確認。東成瀬村地域公共交通活性化協議会を設置（R6年度第1回協議会R7.1.30 https://vill.higashinaruse.lg.jp/wp-content/uploads/2025/03/a47c589c-621f-42c3-b67e-b4f7bba572f4.pdf ）、「交通空白」解消に向けた調査・検討業務を公募（https://vill.higashinaruse.lg.jp/villager/news/post-33178/ ）。R8.10.1から公共ライドシェア実証開始（https://vill.higashinaruse.lg.jp/villager/post-38003/ ）。従来記載の秋田県計画は参考扱いに。 ※期間は英語の検索要約でのみ確認（本文未確認）のため推定に留める。 根拠: formulated in March 2026 (Reiwa 8). The plan covers the period from fiscal year 2026 to fiscal year 2030 (Reiwa 8 to Reiwa 12)"
  }
 ]

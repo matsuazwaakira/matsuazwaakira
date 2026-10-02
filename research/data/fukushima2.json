@@ -9,12 +9,12 @@
   "t_status": "着手済",
   "t_url": "https://www.city.motomiya.lg.jp/soshiki/10/tiikikoukyoukoutsuukeikaku.html",
   "e_name": "本宮市第2次環境基本計画",
-  "e_period": "不明",
+  "e_period": "不明（R1〜R10と推定）",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "2026-07-06 「本宮市第2期地域公共交通計画策定支援業務委託」公募型プロポーザル実施を市が公表（生活環境課、https://www.city.motomiya.lg.jp/soshiki/10/tiikikoukyoukoutsuukeikaku.html）。現行計画期間は未確認（第2期がR9開始と推定）。環境基本計画は「本宮市第2次環境基本計画」（市HP掲載、2019-05-13更新と検索結果に表示、計画・事業ページ https://www.city.motomiya.lg.jp/life/6/25/ ）だが計画期間は再検索でも確認できず。ゼロカーボンシティ宣言2021年3月（https://www.city.motomiya.lg.jp/soshiki/10/2050zerocarboncity.html）。"
+  "note": "2026-07-06 「本宮市第2期地域公共交通計画策定支援業務委託」公募型プロポーザル実施を市が公表（生活環境課、https://www.city.motomiya.lg.jp/soshiki/10/tiikikoukyoukoutsuukeikaku.html）。現行計画期間は未確認（第2期がR9開始と推定）。環境基本計画は「本宮市第2次環境基本計画」（市HP掲載、2019-05-13更新と検索結果に表示、計画・事業ページ https://www.city.motomiya.lg.jp/life/6/25/ ）だが計画期間は再検索でも確認できず。ゼロカーボンシティ宣言2021年3月（https://www.city.motomiya.lg.jp/soshiki/10/2050zerocarboncity.html）。 【追加調査 2026-10】市サイト内検索の要約で第1次本宮市環境基本計画はH21〜H30の10年間→第2次（2019.5掲載）はR1〜R10の可能性が高いが本文で確認できず。計画・事業ページ https://www.city.motomiya.lg.jp/life/6/25/ 。 根拠: 本宮市環境基本計画の計画期間は平成21年度から平成30年度までの10年間（検索要約、第1次）"
  },
  {
   "pref": "福島県",
@@ -46,26 +46,26 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "地域公共交通計画は町HP内検索でも確認できず。「地域公共交通あり方協議会」設置、国見まちなかタクシー・ももたんパス（タクシー助成実証、https://www.town.kunimi.fukushima.jp/soshiki/4/16576.html）等を実施。広報くにみR3.4号特集、町資料「これからの公共交通のカタチ」（https://www.town.kunimi.fukushima.jp/uploaded/attachment/6659.pdf）。環境基本計画は検索で確認できず。代替として地球温暖化対策実行計画をR6.1.9公表（住民防災課所管）。第6次総合計画（KuniMirai2030）あり。"
+  "note": "地域公共交通計画は町HP内検索でも確認できず。「地域公共交通あり方協議会」設置、国見まちなかタクシー・ももたんパス（タクシー助成実証、https://www.town.kunimi.fukushima.jp/soshiki/4/16576.html）等を実施。広報くにみR3.4号特集、町資料「これからの公共交通のカタチ」（https://www.town.kunimi.fukushima.jp/uploaded/attachment/6659.pdf）。環境基本計画は検索で確認できず。代替として地球温暖化対策実行計画をR6.1.9公表（住民防災課所管）。第6次総合計画（KuniMirai2030）あり。 【追加調査 2026-10】町サイト内検索で環境基本計画は見当たらず。環境分野は地球温暖化対策実行計画（R6.1公表）、自然環境等と再エネ発電事業との調和条例（https://www.town.kunimi.fukushima.jp/soshiki/4/18511.html）、第6次総合計画（R3〜R12）のみ。根拠は検索ベース。"
  },
  {
   "pref": "福島県",
   "name": "川俣町",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_name": "福島県避難地域広域公共交通計画（県・避難12市町村の広域計画）",
+  "t_period": "R5〜R9",
+  "t_end": 9,
+  "t_conf": "確認済",
   "t_status": "未確認",
-  "t_url": null,
+  "t_url": "https://www.pref.fukushima.lg.jp/sec/16005d/hinankeikaku.html",
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "地域公共交通計画は検索で確認できず。川俣町地域公共交通会議（H20.3設置、https://www.town.kawamata.lg.jp/site/kurashi-tetsuzuki/kawamatakoukyokotsu.html）がH21.3に地域公共交通総合連携計画を策定（デマンド型乗合タクシー導入、国交省資料）—旧法計画で現行計画は未確認。環境基本計画も検索で確認できず（各種計画一覧 https://www.town.kawamata.lg.jp/site/chosei-shisetsu/list74.html 要確認）。循環型社会形成推進地域計画（R3〜R7）あり。"
+  "note": "地域公共交通計画は検索で確認できず。川俣町地域公共交通会議（H20.3設置、https://www.town.kawamata.lg.jp/site/kurashi-tetsuzuki/kawamatakoukyokotsu.html）がH21.3に地域公共交通総合連携計画を策定（デマンド型乗合タクシー導入、国交省資料）—旧法計画で現行計画は未確認。環境基本計画も検索で確認できず（各種計画一覧 https://www.town.kawamata.lg.jp/site/chosei-shisetsu/list74.html 要確認）。循環型社会形成推進地域計画（R3〜R7）あり。 【追加調査 2026-10】国交省一覧の広域計画『福島県避難地域』＝福島県避難地域広域公共交通計画（前身はH30.3.28策定の避難地域広域公共交通網形成計画）。対象は田村市・南相馬市・川俣町・広野町・楢葉町・富岡町・川内村・大熊町・双葉町・浪江町・葛尾村・飯舘村の12市町村。計画期間R5.4〜R10.3。次期計画：R8年度に最終評価・次期計画の方向性決定、R9年度に次期計画策定（R10.4開始）予定。R8.6.25福島県地域公共交通活性化協議会で避難地域広域公共交通検討協議会の今年度スケジュールを報告（資料 https://www.pref.fukushima.lg.jp/uploaded/attachment/756354.pdf 、協議会 https://www.pref.fukushima.lg.jp/sec/16005d/chiikikoukyoukasseikakyougikai.html ）。策定委託・パブコメは未確認のため着手済とはせず。町単独計画は確認できず（H21.3旧法連携計画のみ）。2026-10-02検索。 根拠: 避難地域広域公共交通計画は令和5年4月から令和10年3月までの計画期間…令和８年度に最終評価 【追加調査 2026-10】町サイト内検索で環境基本計画は見当たらず、環境分野は「川俣町地域まるごと脱炭素計画（地球温暖化対策実行計画 区域施策編）」（https://www.town.kawamata.lg.jp/site/chosei-shisetsu/chiikimarugotodathutansokeikaku.html）と循環型社会形成推進地域計画のみ。 根拠: 川俣町地域まるごと脱炭素計画～川俣町地球温暖化対策実行計画（区域施策編）"
  },
  {
   "pref": "福島県",
@@ -82,7 +82,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "地域公共交通計画は素案パブコメR4.1.28〜2.25実施（結果 https://www.vill.otama.fukushima.jp/file/contents/527/25641/koukyoukoutuu_kekka.pdf）→R3年度末策定、期間は5年と推定（R8度末終了なら次期計画作業の可能性、ただし検索で確認できず）。デマンド型乗合タクシー（AI配車）・通勤通学バス運行。環境基本計画は検索で確認できず（各種計画一覧に見当たらず、第5次総合振興計画・立地適正化計画R6.8等のみ）。"
+  "note": "地域公共交通計画は素案パブコメR4.1.28〜2.25実施（結果 https://www.vill.otama.fukushima.jp/file/contents/527/25641/koukyoukoutuu_kekka.pdf）→R3年度末策定、期間は5年と推定（R8度末終了なら次期計画作業の可能性、ただし検索で確認できず）。デマンド型乗合タクシー（AI配車）・通勤通学バス運行。環境基本計画は検索で確認できず（各種計画一覧に見当たらず、第5次総合振興計画・立地適正化計画R6.8等のみ）。 【追加調査 2026-10】大玉村環境基本条例（https://www.vill.otama.fukushima.jp/reiki_int/reiki_honbun/c522RG00000647.html）で村長に環境基本計画策定を規定しているが、計画本体は村サイト検索・一般検索とも見当たらず（総合振興計画・都市マス等のみ）。条例があるため計画なしとは断定せず未確認のまま。"
  },
  {
   "pref": "福島県",
@@ -97,9 +97,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "地域公共交通計画は町HP内検索でも確認できず（都市計画マスタープラン、鏡石駅周辺将来まちづくりビジョンR7.3のみ）。環境基本計画も検索で確認できず。各種まちづくり計画一覧: https://www.town.kagamiishi.fukushima.jp/kurashi/chousei/008285.html"
+  "note": "地域公共交通計画は町HP内検索でも確認できず（都市計画マスタープラン、鏡石駅周辺将来まちづくりビジョンR7.3のみ）。環境基本計画も検索で確認できず。各種まちづくり計画一覧: https://www.town.kagamiishi.fukushima.jp/kurashi/chousei/008285.html 【追加調査 2026-10】町サイト内検索で環境基本計画は見当たらず、環境分野は第3次鏡石町地球温暖化対策実行計画（区域施策編・事務事業編）（https://www.town.kagamiishi.fukushima.jp/kurashi/kurashi_tetuzuki/kankyo/011647.html）のみ。 根拠: 第３次鏡石町地球温暖化対策実行計画（区域施策編、事務事業編）"
  },
  {
   "pref": "福島県",
@@ -114,9 +114,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "地域公共交通計画・環境基本計画とも検索で確認できず（村HPはほぼ検索インデックスなし）。小規模村で計画なしの可能性。"
+  "note": "地域公共交通計画・環境基本計画とも検索で確認できず（村HPはほぼ検索インデックスなし）。小規模村で計画なしの可能性。 【追加調査 2026-10】村HP計画一覧（https://www.vill.tenei.fukushima.jp/life/4/16/120/）・サイト内検索で環境基本計画は見当たらず、第1次天栄村地球温暖化対策実行計画（区域施策編）・ゼロカーボンシティ宣言（https://www.vill.tenei.fukushima.jp/soshiki/3/zero-co2.html）・第五次総合計画のみ。"
  },
  {
   "pref": "福島県",
@@ -131,9 +131,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "町単独の地域公共交通計画・環境基本計画は検索で確認できず。会津線沿線（会津若松市・下郷町・南会津町）で会津線活性化連携協議会が地域公共交通総合連携計画を策定（旧法）、会津鉄道の鉄道事業再構築実施計画はR7.4〜R17.3。会津地域の広域公共交通計画（2026〜2031、6市町村）の記載が検索要約にあるが対象市町村・名称は要確認。過疎地域持続的発展計画（R3〜R7）あり。"
+  "note": "町単独の地域公共交通計画・環境基本計画は検索で確認できず。会津線沿線（会津若松市・下郷町・南会津町）で会津線活性化連携協議会が地域公共交通総合連携計画を策定（旧法）、会津鉄道の鉄道事業再構築実施計画はR7.4〜R17.3。会津地域の広域公共交通計画（2026〜2031、6市町村）の記載が検索要約にあるが対象市町村・名称は要確認。過疎地域持続的発展計画（R3〜R7）あり。 【追加調査 2026-10】町サイト内検索で環境基本計画・温暖化対策実行計画とも見当たらず。総合計画等ページ（https://www.town.shimogo.fukushima.jp/organization/sougouseisaku/kikakuseisaku/1/820.html）は第7次総合計画中心で、環境は総合計画の基本目標「住み続けたいまち（生活環境）」で扱う。根拠は検索ベースで弱め。"
  },
  {
   "pref": "福島県",
@@ -150,7 +150,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "地域公共交通計画・環境基本計画とも検索で確認できず。小規模村で計画なしの可能性（南会津地域4町村の共同交通計画も確認できず）。"
+  "note": "地域公共交通計画・環境基本計画とも検索で確認できず。小規模村で計画なしの可能性（南会津地域4町村の共同交通計画も確認できず）。 【追加調査 2026-10】環境基本計画・地球温暖化対策実行計画とも検索で確認できず（ヒットは循環型社会形成推進地域計画 H29〜R3 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/07_fukushima/06_hinoemata_h29.pdf のみ）。人口約500人の小規模村で計画なしの可能性高いが、村HPの計画一覧で否定確認できず未確認のまま。"
  },
  {
   "pref": "福島県",
@@ -165,9 +165,9 @@
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
-  "e_status": "未確認",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "地域公共交通計画は町HP内検索でも確認できず（只見駅周回バス、雪んこタクシー等運行）。環境基本計画も検索で確認できず（ユネスコエコパーク関連の取組はあり）。"
+  "note": "地域公共交通計画は町HP内検索でも確認できず（只見駅周回バス、雪んこタクシー等運行）。環境基本計画も検索で確認できず（ユネスコエコパーク関連の取組はあり）。 【追加調査 2026-10】町HP「環境関連の計画」ページ https://www.town.tadami.lg.jp/lifeguide/cat01/cat5/000082.html に掲載されるのは生活排水処理基本計画・一般廃棄物処理実施計画・地球温暖化対策実行計画等で、環境基本計画は無し（検索結果要約ベース）。環境施策は第七次只見町振興計画・野生動植物を保護する条例(H28.6)・ユネスコエコパークで対応。 根拠: 只見町は生活排水処理基本計画、一般廃棄物処理実施計画、地球温暖化対策実行計画などを策定（『環境関連の計画』ページ）"
  },
  {
   "pref": "福島県",
@@ -184,6 +184,6 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": "https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/kankyosuidoka/kakushukeikaku/1/450.html",
-  "note": "交通計画はR6.3策定（R6.6改訂、本編 https://www.town.minamiaizu.lg.jp/material/files/group/3/6gatukaiteibann.pdf ）。会津線沿線3市町の連携計画・会津鉄道再構築（R7.4〜R17.3）にも関係。環境基本条例H19.12、第1次計画H21.3、第2次計画の期間は確認できず。地球温暖化対策実行計画（区域施策編）をR7.3策定（https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/kankyosuidoka/kakushukeikaku/1/3540.html）、ゼロカーボン宣言済、エスプールとゼロカーボンタウン連携協定。"
+  "note": "交通計画はR6.3策定（R6.6改訂、本編 https://www.town.minamiaizu.lg.jp/material/files/group/3/6gatukaiteibann.pdf ）。会津線沿線3市町の連携計画・会津鉄道再構築（R7.4〜R17.3）にも関係。環境基本条例H19.12、第1次計画H21.3、第2次計画の期間は確認できず。地球温暖化対策実行計画（区域施策編）をR7.3策定（https://www.town.minamiaizu.lg.jp/official/soshikikarasagasu/kankyosuidoka/kakushukeikaku/1/3540.html）、ゼロカーボン宣言済、エスプールとゼロカーボンタウン連携協定。 【追加調査 2026-10】第2次計画の期間は検索で確認できず（町HP 450.htmlの要約：『2009年3月に南会津町環境基本計画を策定…前計画の策定から10年が経過したため第2次を策定』）。H31(2019)頃策定・10年計画ならR1〜R10頃と推測されるが未確認のため不明のまま。町は令和元〜6年度の環境年次報告書を公表。WebFetchは町HPブロック。 根拠: 前計画の策定から10年が経過したため、「第2次南会津町環境基本計画」を策定"
  }
 ]

@@ -87,19 +87,19 @@
  {
   "pref": "茨城県",
   "name": "結城市",
-  "t_name": null,
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
-  "t_status": "未確認",
-  "t_url": null,
+  "t_name": "結城市地域公共交通計画",
+  "t_period": "R4〜R8",
+  "t_end": 8,
+  "t_conf": "確認済",
+  "t_status": "着手済",
+  "t_url": "https://www.city.yuki.lg.jp/shisei/keikaku/keikaku-gaiyou/page007919.html",
   "e_name": "第2次結城市環境基本計画",
   "e_period": "R3〜R12",
   "e_end": 12,
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.yuki.lg.jp/shisei/publiccomment/r02/page006785.html",
-  "note": "検索（計7回）で結城市の交通計画・環境基本計画とも該当資料がヒットせず。県地域交通政策推進協議会の構成員（企画政策課）であることのみ確認（https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/14_r4_1_kyougikai_houkoku.pdf）。環境基本計画の有無自体未確認、要直接確認。 環境：第2次はR3.4〜R13.3（R3〜R12年度）。e_urlは計画案パブコメ結果ページ（計画本体PDFのURLは検索に出ず）。第1次はH25.3〜R3.3。"
+  "note": "検索（計7回）で結城市の交通計画・環境基本計画とも該当資料がヒットせず。県地域交通政策推進協議会の構成員（企画政策課）であることのみ確認（https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/14_r4_1_kyougikai_houkoku.pdf）。環境基本計画の有無自体未確認、要直接確認。 環境：第2次はR3.4〜R13.3（R3〜R12年度）。e_urlは計画案パブコメ結果ページ（計画本体PDFのURLは検索に出ず）。第1次はH25.3〜R3.3。 【追加調査 2026-10】2026-10-02再調査：市単独の「結城市地域公共交通計画」（企画政策課、結城市地域公共交通会議）を市HPで確認。計画期間は令和4年度〜令和8年度の5年間（R3年度にパブコメ実施 https://www.city.yuki.lg.jp/shisei/publiccomment/r03/page007718.html）。次期：結城市地域公共交通会議（R7.7.22開催）の審議事項に「第2次結城市地域公共交通計画の策定について」あり（https://www.city.yuki.lg.jp/shisei/singikai/kikakuzaiseibu/kikakuseisakuka/page007005.html）→着手済。委託先・第2次計画のパブコメは検索で未確認。市内は無料巡回バス（7〜8ルート）・民間路線バス1路線・JR水戸線。 根拠: 計画期間は令和4年度から令和8年度までの5年間（市HP計画ページ・検索本文）"
  },
  {
   "pref": "茨城県",
@@ -127,13 +127,13 @@
   "t_conf": "不明",
   "t_status": "未確認",
   "t_url": null,
-  "e_name": "第2次下妻市環境基本計画",
+  "e_name": "第2次下妻市環境基本計画（地球温暖化対策実行計画〔事務事業編・区域施策編〕を包含）",
   "e_period": "不明",
   "e_end": null,
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "H28.3に網形成計画を策定した記録あり（関東運輸局資料 https://wwwtb.mlit.go.jp/kanto/content/000164544.pdf）。下妻市地域公共交通活性化協議会あり。後継の地域公共交通計画の期間は未確認。環境基本条例(H24.9制定, https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/235.pdf)に計画規定はあるが計画本体・期間は検索で未発見。 環境：第2次下妻市環境基本計画（温暖化対策実行計画を包含）の存在のみ確認、期間・本体URLは検索で確認できず。関連：下妻市環境アクションプラン https://www.city.shimotsuma.lg.jp/kurashi-tetsuzuki/kankyo/page003292.html"
+  "note": "H28.3に網形成計画を策定した記録あり（関東運輸局資料 https://wwwtb.mlit.go.jp/kanto/content/000164544.pdf）。下妻市地域公共交通活性化協議会あり。後継の地域公共交通計画の期間は未確認。環境基本条例(H24.9制定, https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/235.pdf)に計画規定はあるが計画本体・期間は検索で未発見。 環境：第2次下妻市環境基本計画（温暖化対策実行計画を包含）の存在のみ確認、期間・本体URLは検索で確認できず。関連：下妻市環境アクションプラン https://www.city.shimotsuma.lg.jp/kurashi-tetsuzuki/kankyo/page003292.html 【追加調査 2026-10】【2026-10-02 task3再調査】市サイト内検索で「第2次下妻市環境基本計画【地球温暖化対策実行計画（事務事業編）（区域施策編）】」の掲載を確認（基本目標3つ「快適な住環境づくり」「緑と清流のまちづくり」「循環型のまちづくり」・基本施策16）。計画期間・本体URLは検索結果で確認できず（H29年度改定とする要約が1回出たのみで根拠不十分）。次期計画の策定委託・パブコメ等も検索で見つからず。市サイトはWebFetch不可（egress blocked）。関連：環境アクションプラン https://www.city.shimotsuma.lg.jp/kurashi-tetsuzuki/kankyo/page003292.html 、環境基本条例 https://www.city.shimotsuma.lg.jp/reiki_int/reiki_honbun/e010RG00000943.html 、再エネ導入計画 https://www.city.shimotsuma.lg.jp/page/page005135.html"
  },
  {
   "pref": "茨城県",
@@ -150,7 +150,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "関東運輸局の策定状況一覧(https://wwwtb.mlit.go.jp/kanto/content/000354212.pdf)に常総市の計画が掲載されている旨のみ確認、期間不明。環境基本条例(H25.3制定, https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/236.pdf)はあるが環境基本計画の本体・期間は未発見。 環境：H30年度策定との検索結果のみ（期間・URL未確認）。10年計画ならR9〜R10終了の可能性があり要確認。区域施策編R6.3策定。"
+  "note": "関東運輸局の策定状況一覧(https://wwwtb.mlit.go.jp/kanto/content/000354212.pdf)に常総市の計画が掲載されている旨のみ確認、期間不明。環境基本条例(H25.3制定, https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/236.pdf)はあるが環境基本計画の本体・期間は未発見。 環境：H30年度策定との検索結果のみ（期間・URL未確認）。10年計画ならR9〜R10終了の可能性があり要確認。区域施策編R6.3策定。 【追加調査 2026-10】【2026-10-02 task3再調査】生活環境課の所管業務に「常総市環境基本計画」の掲載あり（https://www.city.joso.lg.jp/kurashi_gyousei/shisei/soshiki/section_work/page001996.html 、https://www.city.joso.lg.jp/section.php?code=18）。計画期間・本体URLは検索結果で確認できず（H30策定・10年ならR9〜R10終期の可能性は従前どおり推測の域）。次期計画の審議会・委託等も見つからず。区域施策編はR6.3策定との検索結果あり。環境年報 http://www.city.joso.lg.jp/jumin/gomi_kankyo_pet/kogai/1459125187330.html 。市サイトはWebFetch未試行（他市でegress blocked）。"
  },
  {
   "pref": "茨城県",
@@ -172,18 +172,18 @@
  {
   "pref": "茨城県",
   "name": "高萩市",
-  "t_name": null,
+  "t_name": "高萩市地域公共交通計画",
   "t_period": "不明",
   "t_end": null,
   "t_conf": "不明",
   "t_status": "未確認",
-  "t_url": null,
+  "t_url": "https://www.city.takahagi.ibaraki.jp/kurashi/koutsu/page005493.html",
   "e_name": "第2次高萩市環境基本計画",
   "e_period": "R3〜R12",
   "e_end": 12,
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.takahagi.ibaraki.jp/kurashi/sumai/kankyou/ondanka/page004519.html",
-  "note": "交通計画・環境基本計画とも検索で該当資料なし（日高市・高崎市等の類似名ばかり）。計画の有無自体未確認、要直接確認。 環境：第2次はR3〜R12年度、ゼロカーボンシティ宣言を受け策定（e_urlのページに本編・概要版PDFあり）。第5次地球温暖化対策実行計画R7〜R12。"
+  "note": "交通計画・環境基本計画とも検索で該当資料なし（日高市・高崎市等の類似名ばかり）。計画の有無自体未確認、要直接確認。 環境：第2次はR3〜R12年度、ゼロカーボンシティ宣言を受け策定（e_urlのページに本編・概要版PDFあり）。第5次地球温暖化対策実行計画R7〜R12。 【追加調査 2026-10】2026-10-02再調査（検索6回）：市単独の「高萩市地域公共交通計画」を市HPで確認（本編・概要版PDFあり、市基本政策に基づく各種計画一覧 https://www.city.takahagi.ibaraki.jp/gyousei/keikaku/page005000.html にも掲載）。策定支援業務は「3委第23号 高萩市地域公共交通計画策定支援業務委託」（2021/08/10公告、https://nsearch.jp/nyusatsu_ankens/60fe3d222fc2250fa7b23207）→R3年度策定（R4.3頃）と推定されるが、計画期間は検索本文で確認できず（市HPはWebFetchブロック）。5年計画ならR4〜R8で今年度終期の可能性あり、要PDF確認。次期計画の着手情報は見つからず。デマンド型乗合タクシーを山間地域(H30.8〜)・高戸・徳富線東/赤浜地区(R2.2〜)で運行。"
  }
 ]

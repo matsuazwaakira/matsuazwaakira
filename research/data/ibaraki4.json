@@ -53,19 +53,19 @@
  {
   "pref": "茨城県",
   "name": "大子町",
-  "t_name": null,
+  "t_name": "大子町地域公共交通計画（及び大子町地域公共交通再編計画）",
   "t_period": "不明",
   "t_end": null,
   "t_conf": "不明",
   "t_status": "未確認",
-  "t_url": null,
-  "e_name": null,
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
+  "t_url": "https://www.town.daigo.ibaraki.jp/page/page002515.html",
+  "e_name": "大子町環境基本計画",
+  "e_period": "H30〜R9",
+  "e_end": 9,
+  "e_conf": "推定",
   "e_status": "未確認",
-  "e_url": null,
-  "note": "検索では町独自の地域公共交通計画・環境基本計画とも確認できず（町サイトはインデックス少）。環境関連は循環型社会形成推進地域計画(H29〜R3)のみ確認 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/08_ibaraki/10_daigo_h29.pdf 。環境基本計画は未策定の可能性。要町サイト直接確認。"
+  "e_url": "https://www.town.daigo.ibaraki.jp/page/page003178.html",
+  "note": "検索では町独自の地域公共交通計画・環境基本計画とも確認できず（町サイトはインデックス少）。環境関連は循環型社会形成推進地域計画(H29〜R3)のみ確認 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/08_ibaraki/10_daigo_h29.pdf 。環境基本計画は未策定の可能性。要町サイト直接確認。 【追加調査 2026-10】【2026-10-02調査】町HP「大子町地域公共交通計画及び再編計画について」 https://www.town.daigo.ibaraki.jp/page/page002515.html に、公共交通政策のマスタープランとして大子町地域公共交通計画、具体的な実施計画として再編計画を作成した旨の記載あり（検索要約ではページ日付2023/3/27との記載があるが、計画期間は本文で確認できず）。前身として地域公共交通網形成計画あり（大子町地域公共交通会議 https://www.town.daigo.ibaraki.jp/page/page000713.html 、H26.11第1回）。公共交通トップ https://www.town.daigo.ibaraki.jp/page/page001206.html 。町サイトはWebFetch不可（egress blocked）。次期計画の着手状況は未確認。関連：AI乗合タクシーたくまるR6.10リニューアル。 【追加調査 2026-10】[2026-10-02] 町サイトに『大子町環境基本計画』ページあり（H28.9制定の大子町環境基本条例に基づき策定、本編PDF・概要版あり）https://www.town.daigo.ibaraki.jp/page/page003178.html 。素案PDF『大子町環境基本計画 素案 平成30年3月』https://www.town.daigo.ibaraki.jp/data/doc/1525765232_doc_99_1.pdf 。期間は本文確認できず（町サイトWebFetch/curlブロック）、H30.3策定・10年と仮定しH30〜R9を推定（要確認）。次期計画：『第2次環境基本計画』の策定委託・審議会・パブコメは検索で見当たらず（未確認）。関連：ゼロカーボンシティ宣言(R4.8.31) https://www.town.daigo.ibaraki.jp/page/page006483.html 、大子町地域脱炭素ビジョン https://www.town.daigo.ibaraki.jp/page/page007352.html 。旧noteの『環境基本計画は未策定の可能性』は誤り。 根拠: 大子町環境基本計画 素案 平成30年3月 大子町／「大子町環境基本条例」の規定に基づき…「大子町環境基本計画」を策定しました"
  },
  {
   "pref": "茨城県",
@@ -79,10 +79,10 @@
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
-  "e_conf": "不明",
-  "e_status": "未確認",
+  "e_conf": "推定",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "村独自の地域公共交通計画・環境基本計画とも検索で確認できず（「美浦村環境基本計画」ヒットなし、未策定の可能性）。要村サイト直接確認。"
+  "note": "村独自の地域公共交通計画・環境基本計画とも検索で確認できず（「美浦村環境基本計画」ヒットなし、未策定の可能性）。要村サイト直接確認。 【追加調査 2026-10】[2026-10-02] 村サイト(vill.miho.lg.jp)限定検索で『環境基本計画』該当ページなし。環境系は『第4次美浦村地球温暖化対策実行計画』 https://www.vill.miho.lg.jp/kurashi-kankyou/kankyou-bika/chikyuondanka/page002301.html 、美浦村環境美化条例(H26.4.1施行) https://www.vill.miho.lg.jp/page/page001333.html 、稲敷市・阿見町・美浦村 地域気候変動適応計画（共同、案の意見募集）のみ確認。環境基本条例も検索で確認できず。以上から環境基本計画は未策定と判断（村サイト・県白書はWebFetchブロックのため直接確認は未実施）。 根拠: 美浦村役場では…「第4次美浦村地球温暖化対策実行計画」を策定しました"
  },
  {
   "pref": "茨城県",
@@ -99,7 +99,7 @@
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000012/12659/1syou.pdf",
-  "note": "交通計画はR5.2策定・R5〜R9年度でR9終了＝次期計画はR8〜R9に策定作業が必要。R8第1回活性化協議会(2026/6/1)資料 https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/R8_dai1kaikyougikai_siryo.pdf ・会議録 R8_dai1kai_kaigiroku.pdf の検索要約ではR9確保維持事業計画が議題で、次期計画策定の明記は確認できず（資料内に含まれる可能性大、要確認）。環境基本計画は第1次がR3.3終了、第2次はR3年度から10年間。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 未確認（手がかりあり）：令和8年6月1日の令和8年度第1回阿見町地域公共交通活性化協議会で公共交通に関するアンケート調査結果を報告、R9確保維持事業計画を審議（https://www.town.ami.lg.jp/cmsfiles/cont／根拠: https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/gaiyo.pdf"
+  "note": "交通計画はR5.2策定・R5〜R9年度でR9終了＝次期計画はR8〜R9に策定作業が必要。R8第1回活性化協議会(2026/6/1)資料 https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/R8_dai1kaikyougikai_siryo.pdf ・会議録 R8_dai1kai_kaigiroku.pdf の検索要約ではR9確保維持事業計画が議題で、次期計画策定の明記は確認できず（資料内に含まれる可能性大、要確認）。環境基本計画は第1次がR3.3終了、第2次はR3年度から10年間。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 未確認（手がかりあり）：令和8年6月1日の令和8年度第1回阿見町地域公共交通活性化協議会で公共交通に関するアンケート調査結果を報告、R9確保維持事業計画を審議（https://www.town.ami.lg.jp/cmsfiles/cont／根拠: https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/gaiyo.pdf 【追加調査 2026-10】【2026-10-02調査】検索4回で、町HP「阿見町の公共交通」 https://www.town.ami.lg.jp/0000009640.html にR5.2策定の記載は確認できたが、計画期間（R5〜R9）の本文抜粋は得られず推定のまま。町サイトはWebFetch不可。次期計画: R8予算の主な事業 https://www.town.ami.lg.jp/cmsfiles/contents/0000014/14878/04_R8_yosannoomonajigyo.pdf で「公共交通推進事業」（継続）28,689千円（前年23,227千円、約540万円増）、内容は公共交通推進に必要な調査研究・活性化協議会での協議と要約され、次期計画策定費を含む可能性があるが計画策定の明記は未確認。委託プロポ・パブコメは検索で見当たらず。"
  },
  {
   "pref": "茨城県",
@@ -113,10 +113,10 @@
   "e_name": null,
   "e_period": "不明",
   "e_end": null,
-  "e_conf": "不明",
-  "e_status": "未確認",
+  "e_conf": "推定",
+  "e_status": "計画なし",
   "e_url": null,
-  "note": "町独自の地域公共交通計画・環境基本計画とも検索で確認できず（県計画・地域再生計画のみヒット）。未策定の可能性。大阪府河内長野市等の誤ヒットに注意。"
+  "note": "町独自の地域公共交通計画・環境基本計画とも検索で確認できず（県計画・地域再生計画のみヒット）。未策定の可能性。大阪府河内長野市等の誤ヒットに注意。 【追加調査 2026-10】[2026-10-02] 町サイト(town.ibaraki-kawachi.lg.jp)限定検索で『環境基本計画』『環境基本条例』該当なし。環境系計画は『河内町地球温暖化対策実行計画（事務事業編）』（2030年度に2016年度比50%削減目標）https://www.town.ibaraki-kawachi.lg.jp/page/page001685.html と『河内町ごみ処理基本計画』https://www.town.ibaraki-kawachi.lg.jp/page/page002289.html のみ確認。以上から環境基本計画は未策定と判断（町サイトの直接閲覧は未実施）。大阪府河内長野市のヒットは除外。 根拠: 河内町地球温暖化対策実行計画（事務事業編）…2030年度までに2016年度比50%削減"
  },
  {
   "pref": "茨城県",
@@ -133,7 +133,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "関東運輸局「地域公共交通計画策定事業」一覧に八千代町公共交通会議が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf（R6.1頃）→計画策定作業中または策定済の可能性。計画期間・本文URLは未確認。千葉県八千代市（計画R6〜R10）の誤ヒット多数に注意。環境基本計画は検索で確認できず。"
+  "note": "関東運輸局「地域公共交通計画策定事業」一覧に八千代町公共交通会議が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf（R6.1頃）→計画策定作業中または策定済の可能性。計画期間・本文URLは未確認。千葉県八千代市（計画R6〜R10）の誤ヒット多数に注意。環境基本計画は検索で確認できず。 【追加調査 2026-10】環境基本計画：2026-10-02 再調査（WebSearch約6回）でも茨城県八千代町（公式 https://www.town.ibaraki-yachiyo.lg.jp/ ）の環境基本計画・環境基本条例・区域施策編は検索で確認できず。総合計画ページ https://www.town.ibaraki-yachiyo.lg.jp/page/dir000252.html の検索要約では第6次総合計画（R3〜R12）、公共施設等総合管理計画、男女共同参画プラン等は掲載されるが環境基本計画の記載なし→未策定の可能性が高いが計画一覧全体は未確認のため計画なしとは断定せず。千葉県八千代市（環境保全計画・区域施策編）の誤ヒット多数に注意。町サイトは取得ブロック。"
  },
  {
   "pref": "茨城県",
@@ -150,7 +150,7 @@
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.town.goka.lg.jp/data/doc/1684388643_doc_20_0.pdf",
-  "note": "交通計画はR5.3策定・R6.5変更（変更版とみられるPDF https://www.town.goka.lg.jp/data/doc/1737593680_doc_20_0.pdf ）。期間は5年と推定しR9終了の可能性→要確認。前身はH26網形成計画。環境基本計画はH25版を改定しR5〜R14の10年間（検索要約で確認、根拠PDFはgoka.lg.jp内の候補の一つで特定不十分）。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 確認できず／根拠: https://www.town.goka.lg.jp/kurashi-machi-shigoto/kurashi/kurashi-tetsuzuki/lifeline/koukyoukoutsuu/page005231.html"
+  "note": "交通計画はR5.3策定・R6.5変更（変更版とみられるPDF https://www.town.goka.lg.jp/data/doc/1737593680_doc_20_0.pdf ）。期間は5年と推定しR9終了の可能性→要確認。前身はH26網形成計画。環境基本計画はH25版を改定しR5〜R14の10年間（検索要約で確認、根拠PDFはgoka.lg.jp内の候補の一つで特定不十分）。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 確認できず／根拠: https://www.town.goka.lg.jp/kurashi-machi-shigoto/kurashi/kurashi-tetsuzuki/lifeline/koukyoukoutsuu/page005231.html 【追加調査 2026-10】【2026-10-02調査】検索3回で「五霞町地域公共交通計画を策定しました」の存在は確認できたが、計画期間の本文抜粋は得られず推定のまま（検索要約に出た2025/4/1〜2030/3/31は第2期まち・ひと・しごと創生推進計画（地域再生計画）の期間で交通計画ではない）。町サイトはWebFetch不可。関連: ごかりん号にR6.1新たな移動サービス導入 https://www.town.goka.lg.jp/page/page005160.html 。次期計画の委託・パブコメ等は検索で見当たらず。"
  },
  {
   "pref": "茨城県",
@@ -167,7 +167,7 @@
   "e_conf": "不明",
   "e_status": "未確認",
   "e_url": null,
-  "note": "茨城県猿島郡境町。町独自の地域公共交通計画・環境基本計画とも検索で確認できず。自動運転バス定常運行(2020.11〜)の先進事例だが法定計画は未確認。鳥取県境港市・大阪府堺市の誤ヒットに注意。"
+  "note": "茨城県猿島郡境町。町独自の地域公共交通計画・環境基本計画とも検索で確認できず。自動運転バス定常運行(2020.11〜)の先進事例だが法定計画は未確認。鳥取県境港市・大阪府堺市の誤ヒットに注意。 【追加調査 2026-10】環境基本計画：2026-10-02 再調査（WebSearch約6回）でも茨城県境町の環境基本計画・環境基本条例は確認できず。町の「環境」カテゴリ https://www.town.ibaraki-sakai.lg.jp/page/dir000035.html ・「環境について」 https://www.town.ibaraki-sakai.lg.jp/page/page000392.html の検索要約ではキョン目撃情報、野焼き禁止、ゼロカーボンシティ宣言、太陽光発電設備の適正設置条例等のみで環境基本計画の掲載なし（担当は環境対策室）。第6次境町総合計画（2019〜2030）第3部第3章「環境づくり」が環境施策の上位計画。未策定の可能性が高いが断定根拠不足のため未確認のまま。鳥取県境港市・大阪府堺市の誤ヒットに注意。町サイトは取得ブロック。"
  },
  {
   "pref": "茨城県",
@@ -178,12 +178,12 @@
   "t_conf": "不明",
   "t_status": "着手済",
   "t_url": null,
-  "e_name": null,
-  "e_period": "不明",
-  "e_end": null,
-  "e_conf": "不明",
-  "e_status": "未確認",
-  "e_url": null,
-  "note": "関東運輸局「地域公共交通計画策定事業」一覧(R6.1.26付)に利根町地域公共交通活性化協議会が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf →R6〜R7頃に計画策定作業（策定済の可能性あり）。計画期間・本文URLは未確認。環境基本計画は検索で確認できず。"
+  "e_name": "利根町環境基本計画（R7案公表・初の計画）",
+  "e_period": "R8〜R17",
+  "e_end": 17,
+  "e_conf": "推定",
+  "e_status": "着手済",
+  "e_url": "https://www.town.tone.ibaraki.jp/data/doc/1766025418_doc_182_0.pdf",
+  "note": "関東運輸局「地域公共交通計画策定事業」一覧(R6.1.26付)に利根町地域公共交通活性化協議会が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf →R6〜R7頃に計画策定作業（策定済の可能性あり）。計画期間・本文URLは未確認。環境基本計画は検索で確認できず。 【追加調査 2026-10】環境基本計画：利根町環境基本条例（R5.9.19制定、条例案パブコメ https://www.town.tone.ibaraki.jp/page/page005600.html ）第8条に基づく初の環境基本計画。「利根町環境基本計画(案)」PDF https://www.town.tone.ibaraki.jp/data/doc/1766025418_doc_182_0.pdf が検索に出現（ファイルID時刻から2025年12月頃公表、パブコメ用と推定）。検索要約で計画期間R8〜R17（10年間）。R8.3策定済かは確認できず（パブコメ結果一覧 https://www.town.tone.ibaraki.jp/chosei/kouhou-kouchou/kouhou-publiccomment/publiccomment-keeka/ 未取得）→確定版が出ていれば策定済に更新要。担当は環境対策課。確認日2026-10-02。 根拠: 計画期間は令和8(2026)年度から令和17(2035)年度までの10年間（検索要約・案PDF）"
  }
 ]
