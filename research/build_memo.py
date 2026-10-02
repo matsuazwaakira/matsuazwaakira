@@ -3,7 +3,11 @@ from openpyxl import Workbook
 from openpyxl.styles import Font, PatternFill, Alignment, Border, Side
 D = "/home/user/matsuazwaakira/research/data"
 OUT = "/home/user/matsuazwaakira/research/営業メモ_R9終期自治体_2026-10.xlsx"
-rows = json.load(open(f"{D}/memos_E.json")) + json.load(open(f"{D}/memos_F.json"))
+import os
+rows = []
+for _f in ("memos_E.json", "memos_F.json", "memos_G.json"):
+    if os.path.exists(f"{D}/{_f}"):
+        rows += json.load(open(f"{D}/{_f}"))
 order = ["青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県", "茨城県", "栃木県"]
 rows.sort(key=lambda r: order.index(r["pref"]) if r["pref"] in order else 99)
 F = "Arial"; thin = Side(style="thin", color="BFBFBF"); bd = Border(left=thin, right=thin, top=thin, bottom=thin)
