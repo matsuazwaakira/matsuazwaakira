@@ -1,0 +1,396 @@
+[
+ {
+  "pref": "岩手県",
+  "name": "普代村",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "三陸鉄道沿線地域等公共交通計画（岩手県・沿線市町村の広域計画）",
+   "t_period": "R6〜R10",
+   "t_end": 10,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf"
+  },
+  "note_add": "交通(2026-10調査)：国交省一覧(R8.5末)の広域計画「三陸鉄道沿線地域等」＝三陸鉄道沿線地域等公共交通計画。検索結果本文で計画期間「令和６年度（2024年度）から令和10年度（2028年度）」を確認（前身の三陸鉄道沿線地域等公共交通網形成計画をR6.3中間評価を踏まえ改定、岩手県地域公共交通計画R6〜R10と整合）。PDF https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf 。終期R10のため次期計画の着手情報なし。普代村独自の地域公共交通計画は引き続き見当たらず。",
+  "evidence_quote": "三陸鉄道沿線地域等公共交通計画の計画期間は令和６年度（2024年度）から令和10年度（2028年度）"
+ },
+ {
+  "pref": "岩手県",
+  "name": "野田村",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "三陸鉄道沿線地域等公共交通計画（岩手県・沿線市町村の広域計画）",
+   "t_period": "R6〜R10",
+   "t_end": 10,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf"
+  },
+  "note_add": "交通(2026-10調査)：国交省一覧(R8.5末)の広域計画「三陸鉄道沿線地域等」＝三陸鉄道沿線地域等公共交通計画。検索結果本文で計画期間「令和６年度（2024年度）から令和10年度（2028年度）」を確認（前身の三陸鉄道沿線地域等公共交通網形成計画をR6.3中間評価を踏まえ改定、岩手県地域公共交通計画R6〜R10と整合）。PDF https://www.city.miyako.iwate.jp/material/files/group/8/sanntetsukoutuukeikaku2024.pdf 。終期R10のため次期計画の着手情報なし。野田村独自の地域公共交通計画は引き続き見当たらず。",
+  "evidence_quote": "三陸鉄道沿線地域等公共交通計画の計画期間は令和６年度（2024年度）から令和10年度（2028年度）"
+ },
+ {
+  "pref": "宮城県",
+  "name": "松島町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "松島町の交通関係計画（H29年度策定、正式名称未確認・期間満了）",
+   "t_period": "不明",
+   "t_conf": "不明",
+   "t_status": "未確認"
+  },
+  "note_add": "交通(2026-10調査)：国交省一覧(R8.5末)では町単独計画あり・期間満了（灰色）。R7.3.4第1回定例会会議録（https://www.town.miyagi-matsushima.lg.jp/uploaded/attachment/2895.pdf ）の検索要約で、町当局が「交通関係の計画はH29年度に策定、現時点で見直しの具体的予定なし」と答弁（北部地区デマンド交通実証H30〜R1は利用低迷で導入見送り）。計画名・期間は検索で特定できず（町サイトに計画書の掲載見当たらず）。次期計画の着手（委託・パブコメ等）も確認できず。宮城県地域公共交通計画（R8〜R14）が町域をカバー。",
+  "evidence_quote": "（検索要約）a transportation-related plan was formulated in fiscal year 2017 ... no specific plans for revision"
+ },
+ {
+  "pref": "秋田県",
+  "name": "東成瀬村",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "東成瀬村地域公共交通計画",
+   "t_period": "R8〜R12",
+   "t_end": 12,
+   "t_conf": "推定",
+   "t_status": "策定済",
+   "t_url": "https://vill.higashinaruse.lg.jp/villager/lifework/post-36197/"
+  },
+  "note_add": "交通(2026-10調査)：村単独の東成瀬村地域公共交通計画をR8.3策定（村HP「東成瀬村地域公共交通計画を策定しました」 https://vill.higashinaruse.lg.jp/villager/lifework/post-36197/ ）。計画期間 令和8年度〜令和12年度（2026〜2030年度）、検索結果本文で2回確認。東成瀬村地域公共交通活性化協議会を設置（R6年度第1回協議会R7.1.30 https://vill.higashinaruse.lg.jp/wp-content/uploads/2025/03/a47c589c-621f-42c3-b67e-b4f7bba572f4.pdf ）、「交通空白」解消に向けた調査・検討業務を公募（https://vill.higashinaruse.lg.jp/villager/news/post-33178/ ）。R8.10.1から公共ライドシェア実証開始（https://vill.higashinaruse.lg.jp/villager/post-38003/ ）。従来記載の秋田県計画は参考扱いに。 ※期間は英語の検索要約でのみ確認（本文未確認）のため推定に留める。",
+  "evidence_quote": "formulated in March 2026 (Reiwa 8). The plan covers the period from fiscal year 2026 to fiscal year 2030 (Reiwa 8 to Reiwa 12)"
+ },
+ {
+  "pref": "山形県",
+  "name": "新庄市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "山形県地域公共交通計画（県・市町村共同、R8.3.27策定）",
+   "t_period": "R8〜R12",
+   "t_end": 12,
+   "t_conf": "確認済",
+   "t_status": "策定済",
+   "t_url": "https://www.pref.yamagata.jp/documents/50579/keikaku_honpen.pdf"
+  },
+  "note_add": "交通(2026-10調査)：市単独の「新庄市地域公共交通計画」は検索で見当たらず。新庄市の地域内フィーダー系統（まちなか循環線）は山形県地域公共交通計画に位置付け（https://www.pref.yamagata.jp/documents/22689/05_shinjo.pdf ）。国交省一覧の「単独・期間満了」は前県計画（R3〜R7、市町村共同作成）を指す可能性が高い。次期県計画は計画期間 令和8〜12年度（本編 https://www.pref.yamagata.jp/documents/50579/keikaku_honpen.pdf 、概要 https://www.pref.yamagata.jp/documents/50579/keikaku_gaiyou.pdf 、策定業務仕様書 https://www300.pref.yamagata.jp/documents/45835/02_shiyousyo.pdf ）。県全域＋全市町村が対象、4地域ブロック（最上ブロック）構成。",
+  "evidence_quote": "山形県地域公共交通計画（本編）… 計画期間 令和8～12年度（検索結果本文）"
+ },
+ {
+  "pref": "山形県",
+  "name": "高畠町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "高畠町地域公共交通計画",
+   "t_period": "R8〜不明",
+   "t_end": null,
+   "t_conf": "推定",
+   "t_status": "策定済",
+   "t_url": "https://www.town.takahata.yamagata.jp/soshikiichiran/kikaku/3/kokyokotsu/4511.html"
+  },
+  "note_add": "交通(2026-10調査)：町単独の「高畠町地域公共交通計画」を新規策定。計画案のパブリックコメントを令和7年12月17日〜令和8年1月7日に実施（https://www.town.takahata.yamagata.jp/soshikiichiran/kikaku/3/kokyokotsu/4511.html ）、協議の場は高畠町公共交通会議（H22設置 https://www.town.takahata.yamagata.jp/soshikiichiran/kikaku/3/machizukuri/4298.html ）。国交省一覧(R8.5末)に単独計画あり（期間満了でない）ことから、R7年度末頃策定・R8開始と推定。計画期間は検索結果本文で確認できず（計画案PDF・町サイトはWebFetch不可）。参考：山形県地域公共交通計画（次期）はR8〜R12（https://www.pref.yamagata.jp/documents/50579/keikaku_honpen.pdf ）。",
+  "evidence_quote": "高畠町地域公共交通計画…意見募集期間は令和7年12月17日（水曜日）～令和8年1月7日（水曜日）"
+ },
+ {
+  "pref": "山形県",
+  "name": "川西町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "川西町地域公共交通計画",
+   "t_period": "R8〜R12",
+   "t_end": 12,
+   "t_conf": "確認済",
+   "t_status": "策定済",
+   "t_url": "https://www.town.kawanishi.yamagata.jp/kurashi/doro/02keikaku.pdf"
+  },
+  "note_add": "町単独の『川西町地域公共交通計画』を確認（区域：町全域、計画期間R8〜R12の5年間、デマンド型乗合交通等）。町サイト掲載 本編 https://www.town.kawanishi.yamagata.jp/kurashi/doro/02keikaku.pdf 、概要 https://www.town.kawanishi.yamagata.jp/kurashi/doro/01keikakugaiyou.pdf （2026-10-02検索。WebFetchはブロックのため本文直接閲覧不可、検索結果本文で期間確認）。R8開始の新計画のため策定済。広域：フラワー長井線（2市2町）は鉄道事業再構築実施計画R6.4.1〜R16.3.31（https://www.mlit.go.jp/report/press/tetsudo05_hh_000146.html ）。県計画の記載は参考に格下げ。",
+  "evidence_quote": "計画期間は令和８年度（2026年度）から令和１２年度（2030年度）までの５年間"
+ },
+ {
+  "pref": "山形県",
+  "name": "白鷹町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {},
+  "note_add": "国交省一覧の広域計画『フラワー長井線沿線』は、長井市・南陽市・川西町・白鷹町が平成28年2月に作成した『フラワー長井線沿線地域公共交通網形成計画』（H28.4〜R3.3＝H28〜R2、期間満了）と判断（本文PDF：https://www.town.kawanishi.yamagata.jp/machinojoho/seisaku/2017-1017-1735.pdf ）。後継の沿線広域交通計画は検索で確認できず。鉄道部分は鉄道事業再構築実施計画（R6.4.1〜R16.3.31、https://www.mlit.go.jp/report/press/tetsudo05_hh_000146.html ）が継続。町単独の地域公共交通計画は確認できず、白鷹町地域公共交通会議は山形県地域公共交通計画の町部分（デマンドタクシー全町線等、https://www.pref.yamagata.jp/documents/34797/20230628_6-10_31.pdf ）を協議。現行データ（県計画）を維持。2026-10-02検索。",
+  "evidence_quote": "フラワー長井線沿線地域公共交通網形成計画（平成28年2月、長井市・南陽市・川西町・白鷹町）／計画期間 平成28年4月〜平成33年3月"
+ },
+ {
+  "pref": "山形県",
+  "name": "庄内町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "庄内町地域公共交通計画",
+   "t_period": "R8〜不明",
+   "t_end": null,
+   "t_conf": "推定",
+   "t_status": "策定済",
+   "t_url": "https://www.town.shonai.lg.jp/kurashi/koutsu/chiikikoukyou/tiikikoukyokotsukaigi.html"
+  },
+  "note_add": "町単独の『庄内町地域公共交通計画』をR8.3策定（基本方針「住み続けたいまちの基盤となる交通体系の構築」）。計画（案）のパブコメ R8.2.2〜R8.2.24（https://www.town.shonai.lg.jp/gyousei/public/iken/koutuukeikaku.html ）。計画に基づき既存循環線4路線・デマンド2路線を区域運行型デマンドタクシー「しょうないデマンド」へ転換、AI予約配車システム導入委託をプロポで実施（https://www.town.shonai.lg.jp/kurashi/koutsu/choueibasu/demandtaxi_reservation_system.html ）。計画期間の終期は検索結果本文で確認できず（R8開始、5年ならR8〜R12）。町サイトはWebFetchブロック。2026-10-02検索。",
+  "evidence_quote": "令和8年度からの「庄内町地域公共交通計画（案）」…令和8年2月2日から令和8年2月24日までパブリックコメント募集"
+ },
+ {
+  "pref": "福島県",
+  "name": "川俣町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "福島県避難地域広域公共交通計画（県・避難12市町村の広域計画）",
+   "t_period": "R5〜R9",
+   "t_end": 9,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.pref.fukushima.lg.jp/sec/16005d/hinankeikaku.html"
+  },
+  "note_add": "国交省一覧の広域計画『福島県避難地域』＝福島県避難地域広域公共交通計画（前身はH30.3.28策定の避難地域広域公共交通網形成計画）。対象は田村市・南相馬市・川俣町・広野町・楢葉町・富岡町・川内村・大熊町・双葉町・浪江町・葛尾村・飯舘村の12市町村。計画期間R5.4〜R10.3。次期計画：R8年度に最終評価・次期計画の方向性決定、R9年度に次期計画策定（R10.4開始）予定。R8.6.25福島県地域公共交通活性化協議会で避難地域広域公共交通検討協議会の今年度スケジュールを報告（資料 https://www.pref.fukushima.lg.jp/uploaded/attachment/756354.pdf 、協議会 https://www.pref.fukushima.lg.jp/sec/16005d/chiikikoukyoukasseikakyougikai.html ）。策定委託・パブコメは未確認のため着手済とはせず。町単独計画は確認できず（H21.3旧法連携計画のみ）。2026-10-02検索。",
+  "evidence_quote": "避難地域広域公共交通計画は令和5年4月から令和10年3月までの計画期間…令和８年度に最終評価"
+ },
+ {
+  "pref": "福島県",
+  "name": "北塩原村",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "北塩原村地域公共交通計画",
+   "t_period": "R7〜R11",
+   "t_end": 11,
+   "t_conf": "確認済",
+   "t_status": "策定済",
+   "t_url": "https://www.vill.kitashiobara.fukushima.jp/soshiki/somukikaku/6805.html"
+  },
+  "note_add": "村ページ『北塩原村地域公共交通計画を策定しました』（総務企画課、https://www.vill.kitashiobara.fukushima.jp/soshiki/somukikaku/6805.html ）で確認。従前の公共交通網形成計画を踏まえリ・デザインを目的に策定、計画期間R7〜R11の5年間。基本方針5本（村民の移動利便性向上、周辺都市へのアクセス性向上、安定的な提供体制、情報発信、利用機会創出）。R7開始の新計画のため策定済。前回の『会津圏域対象外・確認できず』の記載を訂正。2026-10-02検索。",
+  "evidence_quote": "本計画の実施期間は令和７年度から令和１１年度までの５年間"
+ },
+ {
+  "pref": "福島県",
+  "name": "棚倉町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {},
+  "note_add": "国交省一覧では町単独計画あり・期間満了（灰色）だが、町単独の地域公共交通計画（網形成計画・旧連携計画含む）は4回の検索（『棚倉町地域公共交通計画』『地域公共交通網形成計画』『地域公共交通会議』等）で確認できず。町サイトで見つかったのはタクシー・バス利用料金助成事業（https://www.town.tanagura.fukushima.jp/jumin/sumai-kankyo-eisei/page001281.html ）のみ。期間満了の旧計画が残存、次期計画の着手も未確認。現行データ（福島県地域公共交通計画R6〜R12）を維持。要：町総務課/企画担当へ照会。2026-10-02検索。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "塙町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "塙町地域公共交通網形成計画（H30.3策定、国交省一覧の単独計画はこれと推定）",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_url": "https://www.town.hanawa.fukushima.jp/page/page000688.html"
+  },
+  "note_add": "2026-10-02再調査（検索5回）：国交省一覧(R8.5末)の単独計画は、町HPでH30.3策定とされる塙町地域公共交通網形成計画と推定（網形成計画は地域公共交通計画とみなし扱い）。計画期間・後継の地域公共交通計画は検索本文で確認できず。町HPはWebFetchブロック。協議会議事録はH30年度第2回(H31.3.27, https://www.town.hanawa.fukushima.jp/data/doc/1554963460_doc_11_0.pdf)まで検索でヒット、次期計画の策定委託・パブコメ等の着手情報は見つからず。旧総合連携計画はH23〜R2年度相当。県計画(R6〜R12)は参考として既存noteどおり。要町への直接確認。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "玉川村",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "玉川村地域公共交通網形成計画（R1.6策定、期間満了）",
+   "t_period": "R1〜R6",
+   "t_end": 6,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.vill.tamakawa.fukushima.jp/guide/plan/000055.html"
+  },
+  "note_add": "2026-10-02再調査：村単独計画は「玉川村地域公共交通網形成計画」（企画政策課、玉川村地域公共交通活性化協議会で審議し令和元年6月策定、対象区域は村全域、期間2019〜2024年度の6年間）で、国交省一覧の「期間満了」と整合。後継の地域公共交通計画・策定委託・パブコメ等は村HPドメイン指定検索でも確認できず（村HPはWebFetchブロック）。現状は県計画(R6〜R12)と県中・県南圏域地域公共交通利便増進実施計画(R7.10〜R13.3, https://www.mlit.go.jp/sogoseisaku/transport/content/001895410.pdf)の対象。第7次総合計画を策定中（https://www.vill.tamakawa.fukushima.jp/guide/plan/005944.html）で、次期交通計画の検討が連動する可能性あり、要直接確認。",
+  "evidence_quote": "計画の期間は2019年度から2024年度までの6年間"
+ },
+ {
+  "pref": "福島県",
+  "name": "三春町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "三春町地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_end": 9,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.town.miharu.fukushima.jp/soshiki/4/kokyoukotsu.html"
+  },
+  "note_add": "2026-10-02再調査：町単独の「三春町地域公共交通計画」（住民課所管、三春町地域公共交通活性化協議会）を町HPで確認。計画期間は令和5年度〜令和9年度の5年間。R6.6の協議会で一部改定、R7.8の協議会で再改定（町HPドメイン検索の本文より）。町営バスはR8.4から運行見直し（https://www.town.miharu.fukushima.jp/soshiki/4/tyoueibasu.html）、福島交通路線バスもR7.10から再編（https://www.town.miharu.fukushima.jp/soshiki/4/fukushimakotsubus.html）。次期計画（R10〜）の策定委託・パブコメ等は検索で確認できず（町HPはWebFetchブロック）。終期R9のためR8〜R9に次期策定が見込まれる。前回noteの「町単独計画確認できず」は訂正。",
+  "evidence_quote": "計画期間は令和5年度から令和9年度までの5年間（三春町地域公共交通計画を策定しました・町HP）"
+ },
+ {
+  "pref": "福島県",
+  "name": "小野町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "小野町地域公共交通計画",
+   "t_period": "R6〜R10",
+   "t_end": 10,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.town.ono.fukushima.jp/soshiki/3/entry_9.html"
+  },
+  "note_add": "2026-10-02再調査：町単独の「小野町地域公共交通計画」（企画政策課まちづくり推進室）を町HPで確認。小野町総合計画(2023〜2027)・福島県地域公共交通計画(2024〜2030)を踏まえ策定、計画期間は令和6年度〜令和10年度の5年間。路線バス（郡山・石川・いわき方面）とタクシー利用料金助成が柱。終期R10のため次期計画の着手情報は未調査（現時点で該当なしと想定）。前回noteの「町単独計画確認できず」は訂正。",
+  "evidence_quote": "計画期間：令和６年度から令和10年度（５年間）"
+ },
+ {
+  "pref": "茨城県",
+  "name": "結城市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "結城市地域公共交通計画",
+   "t_period": "R4〜R8",
+   "t_end": 8,
+   "t_conf": "確認済",
+   "t_status": "着手済",
+   "t_url": "https://www.city.yuki.lg.jp/shisei/keikaku/keikaku-gaiyou/page007919.html"
+  },
+  "note_add": "2026-10-02再調査：市単独の「結城市地域公共交通計画」（企画政策課、結城市地域公共交通会議）を市HPで確認。計画期間は令和4年度〜令和8年度の5年間（R3年度にパブコメ実施 https://www.city.yuki.lg.jp/shisei/publiccomment/r03/page007718.html）。次期：結城市地域公共交通会議（R7.7.22開催）の審議事項に「第2次結城市地域公共交通計画の策定について」あり（https://www.city.yuki.lg.jp/shisei/singikai/kikakuzaiseibu/kikakuseisakuka/page007005.html）→着手済。委託先・第2次計画のパブコメは検索で未確認。市内は無料巡回バス（7〜8ルート）・民間路線バス1路線・JR水戸線。",
+  "evidence_quote": "計画期間は令和4年度から令和8年度までの5年間（市HP計画ページ・検索本文）"
+ },
+ {
+  "pref": "茨城県",
+  "name": "高萩市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "高萩市地域公共交通計画",
+   "t_period": "不明",
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": "https://www.city.takahagi.ibaraki.jp/kurashi/koutsu/page005493.html"
+  },
+  "note_add": "2026-10-02再調査（検索6回）：市単独の「高萩市地域公共交通計画」を市HPで確認（本編・概要版PDFあり、市基本政策に基づく各種計画一覧 https://www.city.takahagi.ibaraki.jp/gyousei/keikaku/page005000.html にも掲載）。策定支援業務は「3委第23号 高萩市地域公共交通計画策定支援業務委託」（2021/08/10公告、https://nsearch.jp/nyusatsu_ankens/60fe3d222fc2250fa7b23207）→R3年度策定（R4.3頃）と推定されるが、計画期間は検索本文で確認できず（市HPはWebFetchブロック）。5年計画ならR4〜R8で今年度終期の可能性あり、要PDF確認。次期計画の着手情報は見つからず。デマンド型乗合タクシーを山間地域(H30.8〜)・高戸・徳富線東/赤浜地区(R2.2〜)で運行。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "茨城県",
+  "name": "潮来市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "潮来市地域公共交通計画",
+   "t_period": "R4〜R8",
+   "t_end": 8,
+   "t_conf": "推定",
+   "t_status": "未確認",
+   "t_url": "https://www.city.itako.lg.jp/page/page006375.html"
+  },
+  "note_add": "交通：潮来市地域公共交通計画（R4.3策定、R6.8変更）。前計画の網形成計画(H29.3)がR3年度満了のため策定。期間はR4〜R8（2022〜2026年度、5年）と検索要約で確認（本文直接は未見→推定）。R8年度末満了のため次期計画作業がR8に進行中の可能性大だが、検索では次期策定の委託・協議会審議を確認できず（2026-10-02検索）。変更ページ https://www.city.itako.lg.jp/page/page007746.html R8年度予算・協議会・入札情報を検索したが次期計画策定の記述なし（R8年度はコミュニティバス実証運行を実施）。",
+  "evidence_quote": "計画期間：令和4年度～令和8年度（5年間）（検索要約）"
+ },
+ {
+  "pref": "茨城県",
+  "name": "守谷市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "守谷市地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_end": 9,
+   "t_conf": "確認済",
+   "t_status": "着手済",
+   "t_url": "https://www.city.moriya.ibaraki.jp/kurashi_tetsuzuki/koutsu/1002163/1002204.html"
+  },
+  "note_add": "交通：守谷市地域公共交通計画（R5.3策定、R7.5変更）、計画期間R5〜R9（2023〜2027年度、5年間）。前計画は守谷市地域公共交通網形成計画（H30.7）。計画書案 https://www.city.moriya.ibaraki.jp/_res/projects/default_project/_page_/001/002/191/r4_4_03_gian1.pdf 。次期：令和8年度施政方針で「第1次計画のアップデートとなる第2次守谷市地域公共交通計画を策定」と明記 https://www.city.moriya.ibaraki.jp/shisei/mayor/1005682/1011702.html （委託プロポ公告・パブコメは検索で未確認、2026-10-02）。協議会ページ https://www.city.moriya.ibaraki.jp/kurashi_tetsuzuki/koutsu/1002163/1002164/1002189/1002191.html",
+  "evidence_quote": "計画期間は令和5年度から令和9年度までの5年間"
+ },
+ {
+  "pref": "茨城県",
+  "name": "那珂市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "那珂市地域公共交通計画",
+   "t_period": "R6〜R10",
+   "t_end": 10,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.city.naka.lg.jp/gyousei/keikaku/page009950.html"
+  },
+  "note_add": "交通：那珂市地域公共交通計画（前身は那珂市地域公共交通連携計画）。計画区域は市全域、期間R6〜R10（2024〜2028年度、5年間）。案（R5.12） https://www.city.naka.lg.jp/data/doc/1707093979_doc_734_0.pdf 。終期R10のため次期は未着手と見られる。",
+  "evidence_quote": "令和6年度から令和10年度までの5年間"
+ },
+ {
+  "pref": "茨城県",
+  "name": "鉾田市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "鉾田市地域公共交通計画",
+   "t_period": "R7〜R11",
+   "t_end": 11,
+   "t_conf": "確認済",
+   "t_status": "策定済",
+   "t_url": "https://www.city.hokota.lg.jp/page/page007091.html"
+  },
+  "note_add": "交通：鉾田市地域公共交通計画（令和7年度から令和11年度）。前計画（地域公共交通網形成計画）がR6年度末で満了し更新。デマンド型乗合「ほこまる」等。",
+  "evidence_quote": "鉾田市地域公共交通計画（令和7年度から令和11年度）"
+ },
+ {
+  "pref": "茨城県",
+  "name": "つくばみらい市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "つくばみらい市地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_end": 9,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.city.tsukubamirai.lg.jp/jyumin/shisetu-koutsu/koukyoukoutsu/page004893.html"
+  },
+  "note_add": "交通：つくばみらい市地域公共交通計画、期間2023〜2027年度（R5〜R9、5年間）。H30.3策定の網形成計画を継承。R4年度にパブコメ実施 https://www.city.tsukubamirai.lg.jp/gyousei/public-comment/r04/page004683.html 計画書 https://www.city.tsukubamirai.lg.jp/data/doc/1683698412_doc_39_0.pdf 。次期計画の委託等は検索で確認できず（2026-10-02）。 計画書に「計画期間の満了時に本計画の更新を予定」。R8年度予算ページ（https://www.city.tsukubamirai.lg.jp/gyousei/zaisei/yosan/r08/page007397.html）検索でも改定予算の記述は確認できず。",
+  "evidence_quote": "計画期間は2023年度から2027年度までの5年間"
+ },
+ {
+  "pref": "茨城県",
+  "name": "小美玉市",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "小美玉市地域公共交通計画",
+   "t_period": "R7〜R11",
+   "t_end": 11,
+   "t_conf": "確認済",
+   "t_status": "策定済",
+   "t_url": "https://www.city.omitama.lg.jp/0102/info-0000010942-0.html"
+  },
+  "note_add": "交通：小美玉市地域公共交通計画、期間R7〜R11（5年間）。案のパブコメ2025/1/16〜2/17 https://www.city.omitama.lg.jp/0045/info-0000011224-0.html 。R7.4からコミュニティバス「おみたん号」再編。",
+  "evidence_quote": "令和7年度～令和11年度（5年間）"
+ },
+ {
+  "pref": "茨城県",
+  "name": "大子町",
+  "task": "1:国交省一覧に計画あり・交通計画を特定",
+  "set": {
+   "t_name": "大子町地域公共交通計画（及び大子町地域公共交通再編計画）",
+   "t_conf": "不明",
+   "t_url": "https://www.town.daigo.ibaraki.jp/page/page002515.html"
+  },
+  "note_add": "【2026-10-02調査】町HP「大子町地域公共交通計画及び再編計画について」 https://www.town.daigo.ibaraki.jp/page/page002515.html に、公共交通政策のマスタープランとして大子町地域公共交通計画、具体的な実施計画として再編計画を作成した旨の記載あり（検索要約ではページ日付2023/3/27との記載があるが、計画期間は本文で確認できず）。前身として地域公共交通網形成計画あり（大子町地域公共交通会議 https://www.town.daigo.ibaraki.jp/page/page000713.html 、H26.11第1回）。公共交通トップ https://www.town.daigo.ibaraki.jp/page/page001206.html 。町サイトはWebFetch不可（egress blocked）。次期計画の着手状況は未確認。関連：AI乗合タクシーたくまるR6.10リニューアル。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "大鰐町",
+  "task": "2:交通計画の終期R9を本文で確定",
+  "set": {},
+  "note_add": "【2026-10-02調査】検索3回（計画期間・次期計画/プロポ）で、町HP http://www.town.owani.lg.jp/aboutowani/plan/kokyo-kotsu.html のPDF（R5.5.pdf）以外に期間を示す本文は得られず、R5〜R9は推定のまま。町サイトはWebFetch不可（egress blocked）。次期計画の委託・パブコメ等は検索で見当たらず。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "岩手県",
+  "name": "久慈市",
+  "task": "2:交通計画の終期R9を本文で確定",
+  "set": {},
+  "note_add": "【2026-10-02調査】検索3回で計画ページ https://www.city.kuji.lg.jp/soshiki/chiikizukurishinko/1/6/1/1835.html は確認できたが、計画期間（H30〜R9=2018〜2027年度）を示す本文抜粋は得られず推定のまま。市サイトはWebFetch不可（egress blocked）。次期計画の委託等も検索で見当たらず。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "秋田県",
+  "name": "鹿角市",
+  "task": "2:交通計画の終期R9を本文で確定",
+  "set": {},
+  "note_add": "【2026-10-02調査】検索3回の要約がいずれも「計画期間は令和5年度から令和9年度まで」と回答（出典候補: 計画ページ https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/10092.html 、協議会 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/9297.html ）が、本文抜粋は表示されず要約のみのため推定のまま（R5〜R9の確度は高い）。市サイト・realtime-nipponはWebFetch不可。関連: R7.10.1八幡平地区公共交通再編 https://www.city.kazuno.lg.jp/soshiki/shiminkyodo/kankyoseikatsu/gyomu/2/3/13627.html 。次期計画の委託・審議は検索で見当たらず。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "茨城県",
+  "name": "阿見町",
+  "task": "2:交通計画の終期R9を本文で確定",
+  "set": {},
+  "note_add": "【2026-10-02調査】検索4回で、町HP「阿見町の公共交通」 https://www.town.ami.lg.jp/0000009640.html にR5.2策定の記載は確認できたが、計画期間（R5〜R9）の本文抜粋は得られず推定のまま。町サイトはWebFetch不可。次期計画: R8予算の主な事業 https://www.town.ami.lg.jp/cmsfiles/contents/0000014/14878/04_R8_yosannoomonajigyo.pdf で「公共交通推進事業」（継続）28,689千円（前年23,227千円、約540万円増）、内容は公共交通推進に必要な調査研究・活性化協議会での協議と要約され、次期計画策定費を含む可能性があるが計画策定の明記は未確認。委託プロポ・パブコメは検索で見当たらず。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "茨城県",
+  "name": "五霞町",
+  "task": "2:交通計画の終期R9を本文で確定",
+  "set": {},
+  "note_add": "【2026-10-02調査】検索3回で「五霞町地域公共交通計画を策定しました」の存在は確認できたが、計画期間の本文抜粋は得られず推定のまま（検索要約に出た2025/4/1〜2030/3/31は第2期まち・ひと・しごと創生推進計画（地域再生計画）の期間で交通計画ではない）。町サイトはWebFetch不可。関連: ごかりん号にR6.1新たな移動サービス導入 https://www.town.goka.lg.jp/page/page005160.html 。次期計画の委託・パブコメ等は検索で見当たらず。",
+  "evidence_quote": ""
+ }
+]
