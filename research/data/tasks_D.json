@@ -1,0 +1,322 @@
+[
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "下妻市",
+  "current": {
+   "t_name": "下妻市地域公共交通網形成計画（現行計画不明）",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": "第2次下妻市環境基本計画",
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "H28.3に網形成計画を策定した記録あり（関東運輸局資料 https://wwwtb.mlit.go.jp/kanto/content/000164544.pdf）。下妻市地域公共交通活性化協議会あり。後継の地域公共交通計画の期間は未確認。環境基本条例(H24.9制定, https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/235.pdf)に計画規定はあるが計画本体・期間は検索で未発見。 環境：第2次下妻市環境基本計画（温暖化対策実行計画を包含）の存在のみ確認、期間・本体URLは検索で確認できず。関連：下妻市環境アクションプラン https://www.city.shimotsuma.lg.jp/kurashi-tetsuzuki/kankyo/page003292.html"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "常総市",
+  "current": {
+   "t_name": "常総市地域公共交通計画",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": "常総市環境基本計画",
+   "e_period": "H30〜（期間不明）",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "関東運輸局の策定状況一覧(https://wwwtb.mlit.go.jp/kanto/content/000354212.pdf)に常総市の計画が掲載されている旨のみ確認、期間不明。環境基本条例(H25.3制定, https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/236.pdf)はあるが環境基本計画の本体・期間は未発見。 環境：H30年度策定との検索結果のみ（期間・URL未確認）。10年計画ならR9〜R10終了の可能性があり要確認。区域施策編R6.3策定。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "潮来市",
+  "current": {
+   "t_name": null,
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "検索で潮来市の地域公共交通計画・環境基本計画とも情報が得られず（検索インデックスに市サイトがほぼ出ない）。要公式サイト直接確認。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "筑西市",
+  "current": {
+   "t_name": "筑西市地域公共交通計画",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "着手済",
+   "t_url": "https://www.city.chikusei.lg.jp/machidukuri/traffic/page009177.html",
+   "e_name": "第2次筑西市環境基本計画",
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "「第2次筑西市地域公共交通計画策定支援業務委託」公募型プロポーザル実施（事業者選定済）https://www.city.chikusei.lg.jp/jigyousha/proposal/proposal-project/page012557.html 。現行交通計画の期間は検索結果で確認できず（目標達成状況をR6末時点で公表）。環境基本計画は第2次策定済だが期間・URL未確認（所管：環境課）。 【R8.9再調査】環境：筑西市環境基本条例（平成27年3月25日条例第6号）は確認（https://www.cas.go.jp/jp/seisaku/gmpp/pdf/activities/ordinances/cases/254.pdf）が、第2次環境基本計画の期間・URL・次期計画作業は検索結果で確認できず（6回検索、筑後市等の類似名のみ）。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "稲敷市",
+  "current": {
+   "t_name": "稲敷市地域公共交通計画",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": "https://www.city.inashiki.lg.jp/page/page004756.html",
+   "e_name": "稲敷市環境基本計画",
+   "e_period": "R3〜",
+   "e_end": null,
+   "e_conf": "推定",
+   "e_status": "未確認",
+   "e_url": "https://www.city.inashiki.lg.jp/page/page007577.html",
+   "note": "交通計画はH28網形成計画の後継として策定、R5.4一部改訂（あずまコミュニティバス再編）。期間未確認。環境基本計画はR3.3策定（期間未確認）。次期計画作業は未確認（検索上限で深掘り不可）。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "大子町",
+  "current": {
+   "t_name": null,
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "検索では町独自の地域公共交通計画・環境基本計画とも確認できず（町サイトはインデックス少）。環境関連は循環型社会形成推進地域計画(H29〜R3)のみ確認 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/08_ibaraki/10_daigo_h29.pdf 。環境基本計画は未策定の可能性。要町サイト直接確認。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "美浦村",
+  "current": {
+   "t_name": null,
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "村独自の地域公共交通計画・環境基本計画とも検索で確認できず（「美浦村環境基本計画」ヒットなし、未策定の可能性）。要村サイト直接確認。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "河内町",
+  "current": {
+   "t_name": null,
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "町独自の地域公共交通計画・環境基本計画とも検索で確認できず（県計画・地域再生計画のみヒット）。未策定の可能性。大阪府河内長野市等の誤ヒットに注意。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "八千代町",
+  "current": {
+   "t_name": "八千代町地域公共交通計画（策定事業・名称未確認）",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "着手済",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "関東運輸局「地域公共交通計画策定事業」一覧に八千代町公共交通会議が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf（R6.1頃）→計画策定作業中または策定済の可能性。計画期間・本文URLは未確認。千葉県八千代市（計画R6〜R10）の誤ヒット多数に注意。環境基本計画は検索で確認できず。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "境町",
+  "current": {
+   "t_name": null,
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "茨城県猿島郡境町。町独自の地域公共交通計画・環境基本計画とも検索で確認できず。自動運転バス定常運行(2020.11〜)の先進事例だが法定計画は未確認。鳥取県境港市・大阪府堺市の誤ヒットに注意。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "茨城県",
+  "name": "利根町",
+  "current": {
+   "t_name": "利根町地域公共交通計画（策定事業・名称未確認）",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "着手済",
+   "t_url": null,
+   "e_name": null,
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": null,
+   "note": "関東運輸局「地域公共交通計画策定事業」一覧(R6.1.26付)に利根町地域公共交通活性化協議会が掲載 https://wwwtb.mlit.go.jp/kanto/content/000322403.pdf →R6〜R7頃に計画策定作業（策定済の可能性あり）。計画期間・本文URLは未確認。環境基本計画は検索で確認できず。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "栃木県",
+  "name": "矢板市",
+  "current": {
+   "t_name": "矢板市地域公共交通計画（R8.4策定）",
+   "t_period": "R8〜（終期不明）",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "策定済",
+   "t_url": "https://www.city.yaita.tochigi.jp/soshiki/toshiseibi/koukyoukoutsu-plan.html",
+   "e_name": "矢板市環境基本計画（R4.3策定）",
+   "e_period": "R4〜（終期不明）",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": "https://www.city.yaita.tochigi.jp/soshiki/seikatsukankyou/kankyo-kihon.html",
+   "note": "交通：新計画をR8.4策定済。環境：期間を確認できず（温暖化対策は別の気候変動対策計画 R5〜R13）。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "栃木県",
+  "name": "那須烏山市",
+  "current": {
+   "t_name": "那須烏山市地域公共交通計画",
+   "t_period": "R3〜R7（推定）",
+   "t_end": 7,
+   "t_conf": "推定",
+   "t_status": "未確認",
+   "t_url": "https://www.city.nasukarasuyama.lg.jp/page/page000722.html",
+   "e_name": "第2次那須烏山市環境基本計画（R4頃策定）",
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": "https://www.city.nasukarasuyama.lg.jp/page/page000773.html",
+   "note": "交通：R7で終了とみられるが、次の計画の状況（策定済・延長・作業中）を確認できず。直接確認が必要。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "栃木県",
+  "name": "下野市",
+  "current": {
+   "t_name": "下野市地域公共交通計画（R8.3策定）",
+   "t_period": "R8〜R12（推定）",
+   "t_end": 12,
+   "t_conf": "推定",
+   "t_status": "策定済",
+   "t_url": "https://www.city.shimotsuke.lg.jp/0170/info-0000005122-3.html",
+   "e_name": "第2次下野市環境基本計画",
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": "https://www.city.shimotsuke.lg.jp/office0109/section-3.html",
+   "note": "交通：新計画をR8.3策定済。環境：期間を確認できず。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "栃木県",
+  "name": "市貝町",
+  "current": {
+   "t_name": "市貝町地域公共交通計画（R6.3頃策定）",
+   "t_period": "不明",
+   "t_end": null,
+   "t_conf": "不明",
+   "t_status": "未確認",
+   "t_url": "https://www.town.ichikai.tochigi.jp/info/785",
+   "e_name": "市貝町環境基本計画及び地球温暖化対策実行計画",
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": "https://www.town.ichikai.tochigi.jp/info/1814",
+   "note": "どちらも期間を確認できず。"
+  }
+ },
+ {
+  "task": "3:環境基本計画を特定",
+  "pref": "栃木県",
+  "name": "那珂川町",
+  "current": {
+   "t_name": "那須地域定住自立圏地域公共交通計画＋町計画（R5.3策定）",
+   "t_period": "R5〜R9（定住自立圏）",
+   "t_end": 9,
+   "t_conf": "確認済",
+   "t_status": "未確認",
+   "t_url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5504.html",
+   "e_name": "第2次那珂川町環境基本計画（後期計画）",
+   "e_period": "不明",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_status": "未確認",
+   "e_url": "https://www.town.tochigi-nakagawa.lg.jp/35kankyo/01keikaku/index.html",
+   "note": "交通：定住自立圏計画はR9で終了。町計画の期間は不明。環境：期間を確認できず。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（定住自立圏計画: 令和5年4月〜令和10年3月）。町単独計画（R5.3策定）の期間は未確認／次期: 確認できず／根拠: https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5504.html"
+  }
+ }
+]

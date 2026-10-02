@@ -1,0 +1,197 @@
+[
+ {
+  "pref": "宮城県",
+  "name": "白石市",
+  "current": {
+   "t_name": "白石市地域公共交通計画",
+   "t_period": "R5〜R9（推定）",
+   "t_status": "着手済",
+   "t_url": "https://www.city.shiroishi.miyagi.jp/uploaded/attachment/22013.pdf",
+   "e_name": "第3次白石市環境基本計画",
+   "e_period": "不明（H31.4公表）",
+   "e_status": "未確認",
+   "e_url": "https://www.city.shiroishi.miyagi.jp/soshiki/18/",
+   "note": "交通：R5.3策定（前身の網形成計画はH29.6）、計画ページ https://www.city.shiroishi.miyagi.jp/soshiki/17/27078.html 。期間は検索で確認できず5年と仮定しR9終期を推定→R9終期なら次期策定はR8〜R9着手見込み（有望・要確認）。環境：第3次計画と第3次温暖化対策実行計画をH31.4.23掲載、期間不明（10年ならR10頃終期）。広域：宮城県地域公共交通計画R8〜R14あり（県計画、検索要約より）。佐賀県白石町・千葉県白井市とは別。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（令和5年度〜令和9年度の5年間、R5.3策定）／次期: 着手済の可能性高：「白石市地域公共交通計画策定調査に係る公募型プロポーザル」（2026-07-14更新、募集終了）が市サイト まちづくり推進課/入札・契約情報に掲載（https://www.city.shiroishi.miyagi.jp/／根拠: https://www.city.shiroishi.miyagi.jp/soshiki/17/27078.html"
+  }
+ },
+ {
+  "pref": "宮城県",
+  "name": "名取市",
+  "current": {
+   "t_name": "名取市地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.city.natori.miyagi.jp/uploaded/attachment/9510.pdf",
+   "e_name": "第二次名取市環境基本計画",
+   "e_period": "不明（H30〜R1の2か年で策定）",
+   "e_status": "未確認",
+   "e_url": "https://www.city.natori.miyagi.jp/uploaded/attachment/10172.pdf",
+   "note": "交通：R5.3.28策定、R9終期。次期計画の策定業務・プロポーザルは検索で未確認。R8.8.25にR8年度名取市地域公共交通活性化推進協議会開催 https://www.city.natori.miyagi.jp/page/45227.html （次期計画の議題か要確認・有望）。計画ページ https://www.city.natori.miyagi.jp/page/4327.html 。環境：第二次計画の期間は検索で確認できず（R2開始10年ならR11終期と推定）。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（令和5年度～令和9年度の5ヶ年、R5.3.28策定）／次期: 確認できず（令和8年度協議会 R8.8.25開催の議題は『計画の取組状況について』のみ／https://www.city.natori.miyagi.jp/page/45227.html）／根拠: https://www.city.natori.miyagi.jp/page/4327.html"
+  }
+ },
+ {
+  "pref": "茨城県",
+  "name": "常陸大宮市",
+  "current": {
+   "t_name": "常陸大宮市地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.city.hitachiomiya.lg.jp/data/doc/1685520960_doc_100_0.pdf",
+   "e_name": "第2次常陸大宮市環境基本計画（後期計画）",
+   "e_period": "R5〜R9",
+   "e_status": "未確認",
+   "e_url": "https://www.city.hitachiomiya.lg.jp/data/doc/1673312876_doc_1_0.pdf",
+   "note": "【交通・環境ともR9終了】交通：網形成計画満了に伴い策定、令和5年度〜令和9年度（概要版 1685520956_doc_100_0.pdf も）。環境：第2次環境基本計画はH30〜R9、前期満了により後期計画R5〜R9を策定（関連PDF https://www.city.hitachiomiya.lg.jp/data/doc/1703489725_doc_27_0.pdf）。R8.9時点で次期計画（策定支援委託・アンケート等）の情報は検索で見つからず→R8〜R9に改定作業発生見込み。 【ファクトチェック 2026-10-01: 正しい】確認期間: 令和5年度〜令和9年度（5年間、令和5年2月策定）／次期: 確認できず／根拠: https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/gyousei/plan/r0/page003126.html 【ファクトチェック 2026-10-01: 正しい】確認期間: 第2次計画全体 平成30年度〜令和9年度（10年間）、後期計画 令和5年度〜令和9年度／次期: 確認できず／根拠: https://www.city.hitachiomiya.lg.jp/data/doc/1673312876_doc_1_0.pdf"
+  }
+ },
+ {
+  "pref": "茨城県",
+  "name": "阿見町",
+  "current": {
+   "t_name": "阿見町地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/keikaku.pdf",
+   "e_name": "第2次阿見町環境基本計画",
+   "e_period": "R3〜R12",
+   "e_status": "未確認",
+   "e_url": "https://www.town.ami.lg.jp/cmsfiles/contents/0000012/12659/1syou.pdf",
+   "note": "交通計画はR5.2策定・R5〜R9年度でR9終了＝次期計画はR8〜R9に策定作業が必要。R8第1回活性化協議会(2026/6/1)資料 https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/R8_dai1kaikyougikai_siryo.pdf ・会議録 R8_dai1kai_kaigiroku.pdf の検索要約ではR9確保維持事業計画が議題で、次期計画策定の明記は確認できず（資料内に含まれる可能性大、要確認）。環境基本計画は第1次がR3.3終了、第2次はR3年度から10年間。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 未確認（手がかりあり）：令和8年6月1日の令和8年度第1回阿見町地域公共交通活性化協議会で公共交通に関するアンケート調査結果を報告、R9確保維持事業計画を審議（https://www.town.ami.lg.jp/cmsfiles/cont／根拠: https://www.town.ami.lg.jp/cmsfiles/contents/0000009/9640/gaiyo.pdf"
+  }
+ },
+ {
+  "pref": "茨城県",
+  "name": "五霞町",
+  "current": {
+   "t_name": "五霞町地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.town.goka.lg.jp/data/doc/1690350530_doc_20_0.pdf",
+   "e_name": "五霞町環境基本計画（改定版）",
+   "e_period": "R5〜R14",
+   "e_status": "未確認",
+   "e_url": "https://www.town.goka.lg.jp/data/doc/1684388643_doc_20_0.pdf",
+   "note": "交通計画はR5.3策定・R6.5変更（変更版とみられるPDF https://www.town.goka.lg.jp/data/doc/1737593680_doc_20_0.pdf ）。期間は5年と推定しR9終了の可能性→要確認。前身はH26網形成計画。環境基本計画はH25版を改定しR5〜R14の10年間（検索要約で確認、根拠PDFはgoka.lg.jp内の候補の一つで特定不十分）。 【ファクトチェック 2026-10-01: 確認できず】確認期間: None／次期: 確認できず／根拠: https://www.town.goka.lg.jp/kurashi-machi-shigoto/kurashi/kurashi-tetsuzuki/lifeline/koukyoukoutsuu/page005231.html"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "栃木市",
+  "current": {
+   "t_name": "栃木市地域公共交通計画（R6.6改定）",
+   "t_period": "R6.6〜R9",
+   "t_status": "着手済",
+   "t_url": "https://www.city.tochigi.lg.jp/uploaded/attachment/56361.pdf",
+   "e_name": "第2次栃木市環境基本計画",
+   "e_period": "R5〜R14",
+   "e_status": "未確認",
+   "e_url": "https://www.city.tochigi.lg.jp/uploaded/attachment/60576.pdf",
+   "note": "交通：次期「第2次」をR10〜R14で予定。策定業務の公告はまだ見つからず。 【ファクトチェック 2026-10-01: 正しい】確認期間: 令和6年6月24日（改訂）〜令和9年度末（2028年3月）／次期: 着手済：令和7年度に第2次栃木市地域公共交通計画（R10〜R14予定）の策定を進行。令和7年5月に策定業務を入札で特定非営利活動法人まちづくり支援センターに委託、令和7年度第4回栃木市地域公共交通会議で進捗報告（https://www.ci／根拠: https://www.city.tochigi.lg.jp/uploaded/attachment/63013.pdf"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "鹿沼市",
+  "current": {
+   "t_name": "鹿沼市地域公共交通計画",
+   "t_period": "R4〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.city.kanuma.tochigi.jp/manage/contents/upload/623824c0af645.pdf",
+   "e_name": "第5次鹿沼市環境基本計画",
+   "e_period": "R4〜R8",
+   "e_status": "未確認",
+   "e_url": "https://www.city.kanuma.tochigi.jp/0097/info-0000007871-1.html",
+   "note": "環境は今年度（R8）で終了。第6次の業務委託・パブコメ等は見つからず（延長の可能性もあり、環境課に要確認）。交通は予約バス運行事業者選定プロポ（R9〜R11）のみ。 【ファクトチェック 2026-10-01: 正しい】確認期間: R4年度〜R9年度（6年間。R6.10・R8.6に一部改定）／次期: 確認できず（次期計画策定支援業務の公告・地域公共交通会議での次期計画審議は検索で見当たらず）／根拠: https://www.city.kanuma.tochigi.jp/manage/contents/upload/6a3b627349ac7.pdf 【ファクトチェック 2026-10-01: 正しい】確認期間: R4年度〜R8年度／次期: 確認できず（第6次計画の策定支援業務プロポ/入札、環境審議会への諮問、市民アンケート、パブコメはいずれも検索で見当たらず。延長の記述も見当たらず）／根拠: https://www.city.kanuma.tochigi.jp/manage/contents/upload/6976cd070c260.pdf"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "日光市",
+  "current": {
+   "t_name": "日光市地域公共交通計画",
+   "t_period": "R5.4〜R10.3",
+   "t_status": "未確認",
+   "t_url": "https://www.city.nikko.lg.jp/material/files/group/33/tiikikoukyoukoutuukeikaku.pdf",
+   "e_name": "第2次日光市環境基本計画（R1.12策定）",
+   "e_period": "R2〜R11（推定）",
+   "e_status": "未確認",
+   "e_url": "https://www.city.nikko.lg.jp/soshiki/6/1031/5/1/1/125.html",
+   "note": "交通：R8施政方針は現計画の継続のみ。次期計画の業務委託は見つからず。 【ファクトチェック 2026-10-01: 確認できず】確認期間: R5.4〜R10.3（5ヵ年）※検索要約1回のみ／次期: 確認できず（策定支援業務プロポ・協議会での次期計画審議は検索で見当たらず）／根拠: https://www.city.nikko.lg.jp/material/files/group/33/tiikikoukyoukoutuukeikaku.pdf"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "大田原市",
+  "current": {
+   "t_name": "大田原市地域公共交通計画",
+   "t_period": "R4〜R9",
+   "t_status": "着手済",
+   "t_url": "https://www.city.ohtawara.tochigi.jp/docs/2026073100056",
+   "e_name": "大田原市環境基本計画（第三次計画）",
+   "e_period": "R8〜（終期はR17と推定）",
+   "e_status": "策定済",
+   "e_url": "https://www.city.ohtawara.tochigi.jp/docs/2026013000019",
+   "note": "【改定作業中】交通：次期計画（R10〜5年間）の策定調査業務の公募型プロポを2026-07-31に公告。環境：第三次をR8策定済。 【ファクトチェック 2026-10-01: 正しい】確認期間: R4〜R9（令和4(2022)年度〜令和9(2027)年度の6か年）／次期: 着手済: 次期計画策定調査業務委託の公募型プロポーザル（公告ページ https://www.city.ohtawara.tochigi.jp/docs/2026073100056 、ID上2026-07-31）→審査結果公表 https:/／根拠: https://www.city.ohtawara.tochigi.jp/docs/2022032900019/"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "那須塩原市",
+  "current": {
+   "t_name": "第2次那須塩原市地域公共交通計画／那須地域定住自立圏計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.city.nasushiobara.tochigi.jp/material/files/group/15/nasushiobaracity_2nd_publictransportation.pdf",
+   "e_name": "第2期那須塩原市環境基本計画【改定版】",
+   "e_period": "H29〜R12（延長）",
+   "e_status": "策定済",
+   "e_url": "https://www.city.nasushiobara.tochigi.jp/material/files/group/13/dai2ki_kankyokihonkeikaku_an.pdf",
+   "note": "環境：改定版で終期をR9からR12へ延長（R7.11審議会報告。最終策定は要確認）。交通：第3次の策定業務は見つからず。定住自立圏計画（4市町共同）もR9で終了。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（令和5年4月〜令和10年3月の5年間）／次期: 確認できず（次期=第3次の策定支援プロポ等は検索で見当たらず。R5・R7に「那須地域定住自立圏及び那須塩原市地域公共交通計画推進(等)支援業務」の公募あり https://labid.jp/projects/ad86a7ca-1570-43／根拠: https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5506.html 【ファクトチェック 2026-10-01: 確認できず】確認期間: H29〜R12（2017〜2030年度）※改定版（案）段階の記述。最終策定は未確認／次期: 改定作業中: R7年度環境審議会（第1回9/3、第2回11/27）で改定版（案）とパブコメ結果を審議 https://www.city.nasushiobara.tochigi.jp/shiseijoho/shingikai/8439.ht／根拠: https://www.city.nasushiobara.tochigi.jp/material/files/group/13/dai2ki_kankyokihonkeikaku_an.pdf"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "さくら市",
+  "current": {
+   "t_name": "さくら市地域公共交通計画（R6.3策定）",
+   "t_period": "R6〜R10（推定）",
+   "t_status": "未確認",
+   "t_url": "https://www.city.tochigi-sakura.lg.jp/life/000017/p003140.html",
+   "e_name": "第2次さくら市環境基本計画",
+   "e_period": "H30〜R9",
+   "e_status": "未確認",
+   "e_url": "https://www.city.tochigi-sakura.lg.jp/life/000014/000121/000403/p001957.html",
+   "note": "環境はR9で終了。第3次の業務委託・アンケートは見つからず。 【ファクトチェック 2026-10-01: 正しい】確認期間: H30年度〜R9年度（10年間）／次期: 確認できず（第3次さくら市環境基本計画・策定支援業務プロポの情報は検索で見当たらず）／根拠: https://www.city.tochigi-sakura.lg.jp/life/000014/000121/000403/p001957.html"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "那須町",
+  "current": {
+   "t_name": "那須町地域公共交通計画／那須地域定住自立圏計画",
+   "t_period": "R4〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.town.nasu.lg.jp/manage/contents/upload/6243b2b07f368.pdf",
+   "e_name": "第3次那須町環境基本計画",
+   "e_period": "R8〜R17",
+   "e_status": "策定済",
+   "e_url": "http://www.town.nasu.lg.jp/0076/info-0000004347-1.html",
+   "note": "交通：次期計画の業務委託は見つからず。環境：第3次をR8策定済。 【ファクトチェック 2026-10-01: 正しい】確認期間: R4〜R9（6か年）／次期: 確認できず（町の次期交通計画策定プロポは検索で見当たらず。関連: 栃木県「令和８（2026）年度広域公共交通連携検討業務委託」プロポ https://www.pref.tochigi.lg.jp/h03/r8gyoumuitaku_lrt.／根拠: https://www.town.nasu.lg.jp/0242/info-0000002729-1.html"
+  }
+ },
+ {
+  "pref": "栃木県",
+  "name": "那珂川町",
+  "current": {
+   "t_name": "那須地域定住自立圏地域公共交通計画＋町計画（R5.3策定）",
+   "t_period": "R5〜R9（定住自立圏）",
+   "t_status": "未確認",
+   "t_url": "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5504.html",
+   "e_name": "第2次那珂川町環境基本計画（後期計画）",
+   "e_period": "不明",
+   "e_status": "未確認",
+   "e_url": "https://www.town.tochigi-nakagawa.lg.jp/35kankyo/01keikaku/index.html",
+   "note": "交通：定住自立圏計画はR9で終了。町計画の期間は不明。環境：期間を確認できず。 【ファクトチェック 2026-10-01: 正しい】確認期間: R5〜R9（定住自立圏計画: 令和5年4月〜令和10年3月）。町単独計画（R5.3策定）の期間は未確認／次期: 確認できず／根拠: https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5504.html"
+  }
+ }
+]
