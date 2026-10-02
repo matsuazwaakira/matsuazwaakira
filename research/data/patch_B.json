@@ -4,7 +4,33 @@
   "name": "黒石市",
   "task": "3:環境基本計画を特定",
   "set": {},
-  "note_add": "環境：一般検索・市サイト限定検索とも第二次黒石市環境基本計画のページ（http://www.city.kuroishi.aomori.jp/shisei/keikaku/kankyou-kihon-keikaku.html）は出るが計画期間の記載は検索結果に出ず。『第3次』の存在は検索要約に一度言及あったが裏付け検索で見当たらず（誤りの可能性）。市サイトはWebFetchブロック。確認日2026-10-02。",
+  "note_add": "環境：一般検索・市サイト限定検索（計4回）とも第二次黒石市環境基本計画のページ（http://www.city.kuroishi.aomori.jp/shisei/keikaku/kankyou-kihon-keikaku.html）は出るが計画期間の記載は検索結果に出ず。検索要約に『第3次黒石市環境基本計画』が掲載されている旨の言及が2回あったが、完全一致検索ではヒットせず未確認（同ページに第3次が追加された可能性あり、要確認）。R2.3頃のパブコメページ http://www.city.kuroishi.aomori.jp/shisei/comments/2020-0327-2054-15.html あり（内容未確認）。市サイトはWebFetchブロック。確認日2026-10-02。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "五所川原市",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：市サイト限定検索・完全一致検索とも『五所川原市環境基本計画』『環境基本条例』は見当たらず。環境関連は一般廃棄物処理基本計画（R3〜R12, https://www.city.goshogawara.lg.jp/kurashi/kurashi/files/pianR2.pdf）、生活排水基本計画、環境保全率先行動計画、ゼロカーボンシティ宣言のみヒット。計画なしの明示的根拠はないため未確認のまま。確認日2026-10-02。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "十和田市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "環境：市サイト限定検索で環境基本計画は見当たらず。十和田市地球温暖化対策実行計画（区域施策編）案（2025/1/16版、計画期間2025〜2030年度 https://www.city.towada.lg.jp/shisei/gyousei/machidukuri/files/kuikisesakuhenan.pdf）の整合・連携先として第2次総合計画・都市計画MP・森林整備計画・国土強靭化計画・地域公共交通計画等が列挙されるが環境基本計画は挙がっておらず、環境分野の総合計画は区域施策編＋事務事業編（とわだエコ・オフィスプラン）で代替とみられる。確認日2026-10-02。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "むつ市",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：市サイト限定検索・完全一致検索（『むつ市環境基本計画』『むつ市環境基本条例』）とも該当なし。生活環境ページ https://www.city.mutsu.lg.jp/kurashi/kankyo/kankyo/ には地球温暖化対策推進実行計画・緑の基本計画等のみ。計画なしの明示的根拠はないため未確認のまま。確認日2026-10-02。",
   "evidence_quote": ""
  },
  {
@@ -12,7 +38,7 @@
   "name": "つがる市",
   "task": "3:環境基本計画を特定",
   "set": {},
-  "note_add": "環境：市サイト限定検索で『つがる市環境基本計画』一覧 https://www.city.tsugaru.aomori.jp/soshiki/minsei/shimin/kankyoeisei/gomi/kankyoukihonkeikaku/index.html と第2次計画ページ（10184.html）を確認。つがる市環境基本条例に基づく計画との記載はあるが計画期間は検索結果で確認できず。市サイトはWebFetchブロック。確認日2026-10-02。",
+  "note_add": "環境：市サイト限定検索で『つがる市環境基本計画』一覧 https://www.city.tsugaru.aomori.jp/soshiki/minsei/shimin/kankyoeisei/gomi/kankyoukihonkeikaku/index.html と第2次計画ページ（10184.html、PDF約10MB公開、つがる市環境基本条例に基づく計画）を確認。計画期間・策定年は検索結果で確認できず（計4回検索）。市サイトはWebFetchブロック。確認日2026-10-02。",
   "evidence_quote": ""
  },
  {
@@ -126,6 +152,128 @@
   "evidence_quote": ""
  },
  {
+  "pref": "青森県",
+  "name": "横浜町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は町名検索・町サイト(town.yokohama.lg.jp)限定検索ともヒットせず。町サイトではゼロカーボンシティ宣言ページに地球温暖化対策実行計画（事務事業編、R6.3策定）と、今後区域施策編を策定予定との記載のみ https://www.town.yokohama.lg.jp/index.cfm/6,11904,18,194,html 。環境基本計画の有無は断定できず未確認のまま。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "東北町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "環境：町サイト限定検索で環境基本計画はヒットせず、代わりに東北町地球温暖化対策実行計画（区域施策編）（計画期間2026〜2035＝R8〜R17、2030年度50%削減・2050実質ゼロ）の策定業務プロポーザル資料・計画ページのみ（区域施策編で対応）。 https://www.town.tohoku.lg.jp/chousei/info/info_yakuba_09-42.html 、仕様書 https://www.town.tohoku.lg.jp/chousei/info/file/info_yakuba_09-29-02.pdf 。根拠は検索結果ベースでやや弱い。（確認日2026-10-02）",
+  "evidence_quote": "計画期間は、2026（令和8）年度から2035（令和17）年度までの10年間（区域施策編・検索要約）"
+ },
+ {
+  "pref": "青森県",
+  "name": "六ヶ所村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "環境：村サイト限定検索で環境基本計画はヒットせず。代わりに六ヶ所村地球温暖化対策実行計画（区域施策編）（R6.3策定、R6〜R15、ゼロカーボンシティ宣言R4.12）http://www.rokkasho.jp/index.cfm/10,17954,31,124,html 、新エネルギー推進計画、水環境保全計画あり。区域施策編等の個別計画で対応と判断（根拠は検索結果ベース）。（確認日2026-10-02）",
+  "evidence_quote": "区域施策編の計画期間 令和6年度～令和15年度（検索要約）"
+ },
+ {
+  "pref": "青森県",
+  "name": "おいらせ町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：町名検索・町サイト限定検索とも環境基本計画はヒットせず。町サイトでは第2次総合計画後期基本計画（R6〜R10）https://www.town.oirase.aomori.jp/uploaded/attachment/22191.pdf の環境保全施策、都市計画MP、地球温暖化対策実行計画（事務事業編）、自然・地域と再生可能エネルギー共生審議会 https://www.town.oirase.aomori.jp/soshiki/1232/kanykoukyousei.html のみ。区域施策編も確認できず。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "大間町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は検索でヒットせず。町サイト(town.ooma.lg.jp)の公表情報一覧に第3次地球温暖化対策実行計画（2024-12-13公表、事務事業編とみられる）、第2次(2019)、第1次(2013)の記載あり https://www.town.ooma.lg.jp/allpub_index.html 。環境基本計画の有無は断定できず。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "東通村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は検索でヒットせず（原発関連の環境放射線モニタリング基本計画のみ：県 https://www.pref.aomori.lg.jp/soshiki/kikikanri/atom/higashidori-monitoring-keikaku-R0803.pdf ）。村サイト限定検索は結果なし。温暖化対策実行計画も確認できず。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "風間浦村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は検索でヒットせず。村サイト(kazamaura.jp)では第2次風間浦村地球温暖化対策実行計画（事務事業編）の2024年度実施状況 https://www.kazamaura.jp/2026/01/27/%E7%AC%AC%EF%BC%92%E6%AC%A1%E9%A2%A8%E9%96%93%E6%B5%A6%E6%9D%91%E5%9C%B0%E7%90%83%E6%B8%A9%E6%9A%96%E5%8C%96%E5%AF%BE%E7%AD%96%E5%AE%9F%E8%A1%8C%E8%A8%88%E7%94%BB%EF%BC%88%E4%BA%8B%E5%8B%99%E4%BA%8B-4/ 、ゼロカーボンシティ宣言（R5.3.1）、ブルーカーボン調査のみ。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "佐井村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は検索でヒットせず。村サイト(vill.sai.lg.jp)では脱炭素先行地域（2023.4選定）関連補助金 https://www.vill.sai.lg.jp/status-initiatives/decarbonization/ 、ゼロカーボンシティさい表明、ブルーカーボン推進事業のみ。温暖化対策実行計画の有無も未確認。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "三戸町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "環境：町名検索・町サイト限定検索とも環境基本計画はヒットせず。代わりに三戸町地球温暖化対策実行計画（事務事業編＋町全体の区域の削減施策を含む、R6〜R12、2030年度58.7%削減）https://www.town.sannohe.aomori.jp/soshiki/soumu/gyouseijouhou/1/4712.html と2050ゼロカーボン宣言。温暖化実行計画で対応と判断（根拠は検索結果ベース）。（確認日2026-10-02）",
+  "evidence_quote": "計画期間 令和6年度～令和12年度（温暖化実行計画・検索要約）"
+ },
+ {
+  "pref": "青森県",
+  "name": "五戸町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "環境：町名検索で環境基本計画はヒットせず、町サイトPDFは五戸町地球温暖化対策実行計画（区域施策編・適応計画兼、R7.3策定、計画期間R7〜R12）https://www.town.gonohe.aomori.jp/chosei/tikyuondankahonpen.pdf 、概要版 https://www.town.gonohe.aomori.jp/chosei/tikyuondankagaiyouban.pdf 、ごみ処理基本計画（R8〜R17）のみ。区域施策編のみと判断。（確認日2026-10-02）",
+  "evidence_quote": "令和7（2025）年度から令和12（2030）年度までの6年間（区域施策編概要版・検索要約）"
+ },
+ {
+  "pref": "青森県",
+  "name": "田子町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は町名検索・町サイト限定検索ともヒットせず。町サイト計画ページには田子町総合計画、地球温暖化対策実行計画（事務事業編、H24〜H28と古い）https://www.town.takko.lg.jp/index.cfm/13,234,50,202,html 、森林整備計画等。計画一覧 http://www.town.takko.lg.jp/index.cfm/13,0,50,202,html の全体は未確認のため未確認のまま。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "南部町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：青森県三戸郡南部町（山梨・鳥取の南部町と別）。町サイト(town.aomori-nanbu.lg.jp)限定検索で環境基本計画・区域施策編はヒットせず（議会会議録、公共施設等総合管理計画の脱炭素記載、第2次総合振興計画進捗報告のみ）。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "階上町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：環境基本計画は町名検索・町サイト限定検索ともヒットせず。町サイトでは第2次階上町環境保全率先行動計画（階上町地球温暖化対策推進実行計画、H26.12）https://www.town.hashikami.lg.jp/index.cfm/9,2212,c,html/2212/20200316-154455.pdf と自家消費型太陽光補助のみ。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "青森県",
+  "name": "新郷村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "環境：村サイトの「ゴミ・リサイクル・環境」ページ https://www.vill.shingo.aomori.jp/public/anzeneisei/ に掲載の計画はごみ減量・分別収集・一般廃棄物処理基本計画・地球温暖化対策実行計画（事務事業編）・災害廃棄物処理計画で、環境基本計画は無し（検索要約ベース）。村名検索でもヒットせず。（確認日2026-10-02）",
+  "evidence_quote": ""
+ },
+ {
   "pref": "岩手県",
   "name": "久慈市",
   "task": "3:環境基本計画を特定",
@@ -137,7 +285,7 @@
    "e_status": "未確認",
    "e_url": "https://www.city.kuji.lg.jp/material/files/group/19/2021_kuji_kankyou_1.pdf"
   },
-  "note_add": "環境：市サイト限定検索で『第1章 計画の基本的事項』(2021_kuji_kankyou_1.pdf)の本文として「2018年度から2027年度までの10年間」を2回確認（検索要約経由、PDF直接取得は不可）。前回メモの『R10以降に見直し』と整合。R9終期のため次期（第3次）計画の委託・審議会・パブコメを検索したが見当たらず。確認日2026-10-02。",
+  "note_add": "環境：市サイト限定検索2回で『第1章 計画の基本的事項』(2021_kuji_kankyou_1.pdf)の本文として「2018年度から2027年度までの10年間」を確認（PDF直接取得は不可）。前回メモの『R10以降に見直し』と整合。R9終期のため次期（第3次）計画の策定委託・審議会・パブコメを検索したが見当たらず（着手未確認）。確認日2026-10-02。",
   "evidence_quote": "計画の期間は…2018年度から2027年度までの10年間とします"
  },
  {
@@ -148,11 +296,12 @@
    "e_name": "第5次遠野市環境基本計画",
    "e_period": "R8〜R12",
    "e_end": 12,
-   "e_conf": "推定",
+   "e_conf": "確認済",
+   "e_status": "策定済",
    "e_url": "https://www.city.tono.iwate.jp/index.cfm/45,34797,247,html"
   },
-  "note_add": "環境：市サイト限定検索の要約1回で「第５次遠野市環境基本計画の期間は令和8年から令和12年度まで」（本文スニペット未確認のため推定）。R8開始なら策定済の新計画の可能性が高いが、策定時期・パブコメは検索で確認できず（e_statusは据え置き）。WebFetchは市サイトがブロック。確認日2026-10-02。URL https://www.city.tono.iwate.jp/index.cfm/45,34797,247,html",
-  "evidence_quote": ""
+  "note_add": "環境：市サイト限定検索2回（別クエリ）で環境基本計画ページの本文として「第５次遠野市環境基本計画の期間は令和8年から令和12年度まで」を確認。R8開始の新計画（第3次遠野市総合計画R8〜R17と同時期）のため策定済と判断（策定月・パブコメは未確認）。市サイトはWebFetchブロック。確認日2026-10-02。URL https://www.city.tono.iwate.jp/index.cfm/45,34797,247,html",
+  "evidence_quote": "第５次遠野市環境基本計画…令和8年から令和12年度まで"
  },
  {
   "pref": "岩手県",
