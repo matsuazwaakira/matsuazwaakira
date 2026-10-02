@@ -60,6 +60,38 @@
  },
  {
   "pref": "茨城県",
+  "name": "常陸大宮市",
+  "target_plan": "常陸大宮市地域公共交通計画（R5〜R9）／第2次常陸大宮市環境基本計画 後期計画（R5〜R9）",
+  "plan_summary": "【交通】常陸大宮市地域公共交通計画（R5.2策定、R5〜R9の5年間、前身は網形成計画H30.3策定・R4終了）。基本理念「住みたいまちを支える、持続可能で便利な地域公共交通」。JR水郡線・高速バス・広域路線バスは事業者へ利用促進を働きかけ、路線バス利用困難区域の移動手段として乗合タクシーを位置づけ、バス停のベンチ・上屋設置等の待合環境改善を検討。【環境】第2次環境基本計画（H30〜R9の10年）の後期計画（R5〜R9）。中間見直しに合わせ地球温暖化対策実行計画（区域施策編、2050年ゼロカーボンシティ実現に向けて）と地域気候変動適応計画を包含し一体化。→交通・環境とも同時にR9終期。",
+  "dept": "【交通】地域創生課 地域創生グループ（本庁1階、〒319-2292 常陸大宮市中富町3135-6、電話0295-52-1111（代表））。協議体：常陸大宮市地域公共交通会議。【環境】担当課は検索で確認できず（環境審議会あり、要確認）。",
+  "next_schedule": "交通・環境とも次期計画（策定支援委託・アンケート・プロポ）の情報は検索で見つからず（R8.10時点）。前回の交通計画はR4年度単年度で公募型プロポーザル→R5.2策定のパターン。同様ならR9年度当初予算に次期交通計画策定支援委託を計上（R8秋〜冬に予算要求）、R9春〜夏にプロポ公告の見込み（推定）。環境（第3次環境基本計画、R10〜）も同時期に策定業務が発生、温対実行計画（区域施策編）・適応計画の一体改定となる見込み（推定）。総合計画の改定時期との連動も要確認。",
+  "past_contract": "【交通・前回】「常陸大宮市地域公共交通計画策定支援業務」を公募型プロポーザルで発注（R4年度、履行期間：契約締結日〜R5.3.31、提案上限額8,459,000円（税込））（市サイト page007375 の検索要約より）。受託者・契約金額は検索で確認できず（候補者選定結果の公表ページ見当たらず）→計画書巻末（1685520960_doc_100_0.pdf）またはプロポーザル情報ページで要確認。【参考】網形成計画（H29年度）・観光振興基本計画も公募型プロポで発注実績あり（観光は実施要領のみ確認）。AIデマンド交通システム導入業務委託も候補者選定委員会方式（page008456、結果内容は未確認）。【環境・後期計画】策定支援業者は不明（未調査に近い、検索で見つからず）。",
+  "related": "・R5.12.1から予約制乗合タクシー「のるーと常陸大宮」にAIデマンド交通システムを導入（市内全域、ドアtoドア、運行は常陸大宮市社会福祉協議会）。R7.6予約方法変更、R7.7からLINE予約対応。・公共ライドシェア「ノッカル常陸大宮」の実証運行を開始（時期は要確認）。・JR水郡線沿線（存続・利用促進が論点）。・常陸大宮駅周辺整備事業・駅西交流拠点整備（実施設計R7.3完了）で交通結節点整備進行中。・ゼロカーボンシティ宣言済（宣言年は資料表記が「2022（令和2）年7月」と不整合、要確認）。・公共交通ガイドブック発行。",
+  "talking_points": [
+   "交通計画と環境基本計画が同じR9終期→次期策定（R9年度発注見込み、推定）に向け、交通の脱炭素（EV乗合タクシー等）を両計画で整合させる一体的な支援を提案。予算要求前のR8秋〜冬に地域創生課・環境担当課を訪問",
+   "のるーと常陸大宮（AIデマンド）とノッカル常陸大宮（公共ライドシェア）の実績データ評価・役割分担整理、水郡線・駅周辺整備との結節を次期計画の論点として提示",
+   "前回は公募型プロポ・上限約846万円の単年度策定→同規模・同方式を想定した提案準備（受託者は要確認、競合把握のため計画書巻末を確認）"
+  ],
+  "sources": [
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/gyousei/plan/r0/page003126.html",
+   "https://www.city.hitachiomiya.lg.jp/page/page007375.html",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/business/nyusatsu/proposal_info/",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/business/nyusatsu/proposal_info/page008456.html",
+   "https://www.city.hitachiomiya.lg.jp/data/doc/1685520960_doc_100_0.pdf",
+   "https://www.city.hitachiomiya.lg.jp/data/doc/1685520956_doc_100_0.pdf",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/kurashi/koutsu/page004566.html",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/kurashi/koutsu/page009105.html",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/kurashi/koutsu/noruto7/page011007.html",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/kurashi/koutsu/ridesharing/page011193.html",
+   "https://www.city.hitachiomiya.lg.jp/data/doc/1703489828_doc_27_0.pdf",
+   "https://www.city.hitachiomiya.lg.jp/data/doc/1673312876_doc_1_0.pdf",
+   "https://www.city.hitachiomiya.lg.jp/kurashi_gyousei/business/nyusatsu/kekka/",
+   "https://www.city.hitachiomiya.lg.jp/kakoiba/progress/kouryu/jissesekkei/page010868.html"
+  ],
+  "note": "交通・環境ともR9終期で両方狙える最有望先。次期発注情報は未公表。前回交通は公募型プロポ（R4、上限8,459,000円）、受託者未確認。"
+ },
+ {
+  "pref": "茨城県",
   "name": "阿見町",
   "target_plan": "阿見町地域公共交通計画（R5〜R9）",
   "plan_summary": "阿見町地域公共交通計画：令和5年2月、阿見町地域公共交通活性化協議会が策定（R5〜R9年度）。章構成は背景・目的／地域の現況／関連計画／課題／基本方針／目標・施策。デマンドタクシー「あみまるくん」の運行・利便性向上と路線バスの確保維持が中心施策（施策詳細は計画本文で要確認）。前身はH21〜H22の地域公共交通総合連携計画策定調査事業。※環境基本計画（第2次、R3〜R12）はR9終了ではないため対象外。",
@@ -321,5 +353,37 @@
    "https://labid.jp/projects/8d260a2f-ed2b-49c9-b300-b380e4a5aee5"
   ],
   "note": "過去の策定業務受託者は未判明。計画書PDF巻末（策定体制・協力会社）の目視確認、または協議会資料での確認を推奨。町代表電話番号は未検証。"
+ },
+ {
+  "pref": "栃木県",
+  "name": "那珂川町",
+  "target_plan": "那須地域定住自立圏地域公共交通計画（第2次、R5.4〜R10.3）＋那珂川町地域公共交通計画（R5.3策定、期間未確認：圏域計画と同じR5〜R9の可能性・推定）。環境：第2次那珂川町環境基本計画（後期計画）期間不明",
+  "plan_summary": "那珂川町地域公共交通計画（R5.3策定）：町内の公共交通はデマンドタクシー「なかちゃん号」とコミュニティバス「馬頭烏山線」（JR烏山駅〜馬頭高校〜町役場）が軸。R5年度実績：なかちゃん号 運行243日・利用7,697人（日平均31.7人、登録者2,685人）、馬頭烏山線 運行360日・利用20,937人（平日日平均78.9人／休日15.1人）。計画期間は検索で確認できず（圏域計画とセットでR5〜R9と推定・要確認）。上位の那須地域定住自立圏地域公共交通計画（R5.4〜R10.3）が圏域幹線・連携を担う。\n環境：第2次那珂川町環境基本計画（後期計画）は町HPにPDF掲載、所管は生活環境課。期間は未確認（第1次は2009年3月策定との要約あり・要確認）。",
+  "dept": "生活環境課 生活交通係（地域公共交通の総合調整・推進。町HP office0042）。環境基本計画も生活環境課（環境推進係との要約あり・要確認）。電話番号は未確認。",
+  "next_schedule": "圏域計画（R9年度末終了）の改定に合わせ、町計画もR8〜R9年度に改定作業となる見込み（推定）。2026-10時点で次期計画の策定業務公募は検索で確認できず。第3次那珂川町総合振興計画（基本構想R8〜R17、前期基本計画R8〜R12）がR8.3策定済のため、次期交通計画・環境計画は新総合振興計画に沿った改定となる。R7.1.30に地域公共交通確保維持事業の事業評価を公表（要約ベース）。",
+  "past_contract": "不明。R5.3策定の町計画の策定支援業務について方式・受託者・金額は検索で確認できず（試行：『主要施策の成果 地域公共交通計画策定業務委託』、『公共交通計画 策定業務 入札結果 落札 令和4年』、町HP入札・契約（物品）ページは表示されるが該当案件本文なし）。圏域分はR5・R7『那須地域定住自立圏及び那須塩原市地域公共交通計画推進(等)支援業務』（那須塩原市発注・企画競争、R5受託者は日本工営との要約あり・要確認、R7予定価格6,446,000円）が那珂川町を含む4市町をカバー。環境基本計画の策定業務も不明。",
+  "related": "・コミュニティバス馬頭烏山線はR6.10.1に運行会社を変更（関東自動車の告知あり）→運転手不足・事業者確保が課題（推定）。\n・JR烏山線（隣接那須烏山市の終着駅烏山に接続）の存続議論が地域で取り沙汰（ローカル線解説記事レベル・要確認）。\n・第3次那珂川町総合振興計画「なかがわ『わくわく』プラン2035」R8.3策定。\n・過疎地域持続的発展計画（R3〜R7）終了→次期計画期。\n・ゼロカーボン宣言の有無は検索で確認できず。バイオマス活用の取組資料あり（jora）。\n・福岡県那珂川市・茨城県那珂市の結果が混在したため除外済。",
+  "talking_points": [
+   "圏域計画・町計画がR9年度末で同時に終期：町単独計画をどこまで圏域計画に統合するか（小規模町の負担軽減）の方針と、改定時期・予算化の見込みを伺う。",
+   "なかちゃん号（日平均31.7人）と馬頭烏山線（運行会社変更R6.10）の実績を踏まえた次期の運行形態（AIデマンド化、JR烏山駅接続強化、事業者確保策）を提案軸に。",
+   "第3次総合振興計画（R8〜）策定直後のタイミングで、環境基本計画（後期計画）の終期確認と、交通・環境計画の一体的見直し（運輸部門脱炭素・過疎対策）を切り口に。"
+  ],
+  "sources": [
+   "https://www.town.tochigi-nakagawa.lg.jp/life/kurashi/2023-0331-0958-5.html",
+   "https://www.city.nasushiobara.tochigi.jp/soshikikarasagasu/kb/shinoseisakutokeikaku/1/5504.html",
+   "https://www.town.tochigi-nakagawa.lg.jp/06seisaku/02zaisei/files/05syuyou.pdf",
+   "http://www.town.tochigi-nakagawa.lg.jp/office0042/section-0.html",
+   "http://www.town.tochigi-nakagawa.lg.jp/0008/info-0000000423-0.html",
+   "https://www.town.tochigi-nakagawa.lg.jp/06seisaku/04etc/index.html",
+   "https://www.town.tochigi-nakagawa.lg.jp/0025/genre1-0-001.html",
+   "http://www.town.tochigi-nakagawa.lg.jp/office0005/division-0.html",
+   "http://www.town.tochigi-nakagawa.lg.jp/0024/info-0000001972-0.html",
+   "https://www.kantobus.co.jp/topics/topics.php?id=1168",
+   "http://www.town.tochigi-nakagawa.lg.jp/0070/info-0000000309-0.html",
+   "https://www.town.tochigi-nakagawa.lg.jp/sangyou/nyuusatsu/buppin.html",
+   "https://www.town.tochigi-nakagawa.lg.jp/06seisaku/04etc/files/kasozizoku.pdf",
+   "https://labid.jp/projects/8d260a2f-ed2b-49c9-b300-b380e4a5aee5"
+  ],
+  "note": "町計画・環境基本計画（後期）の計画期間は計画書PDF本文で要確認（WebFetch上限のため未取得）。"
  }
 ]
