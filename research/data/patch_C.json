@@ -1,0 +1,512 @@
+[
+ {
+  "pref": "福島県",
+  "name": "須賀川市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "H30〜R9",
+   "e_end": 9,
+   "e_conf": "推定"
+  },
+  "note_add": "市サイト内検索の要約で第3次計画はH30(2018)〜R9(2027)、R4.3中間見直し（出典は『須賀川市の環境』R7.5 https://www.city.sukagawa.fukushima.jp/material/files/group/47/r05shinokankyo.pdf と思われるが本文未確認）。R9終期だが次期（第4次）計画の策定業務・審議会等は市サイト検索で見当たらず。",
+  "evidence_quote": "Third Environmental Basic Plan covers the period from fiscal year 2018 (Heisei 30) to fiscal year 2027 (Reiwa 9)（検索要約）"
+ },
+ {
+  "pref": "福島県",
+  "name": "喜多方市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_name": "喜多方市環境基本計画（R4.3中間見直し）",
+   "e_period": "H28〜R8",
+   "e_end": 8,
+   "e_conf": "推定",
+   "e_url": "https://www.city.kitakata.fukushima.jp/life/4/25/125/"
+  },
+  "note_add": "市サイト内検索の要約2件でH28(2016)〜R8(2026)、R4.3中間見直し（パブコメ結果R4.3.2公表）。本文未確認のため推定（e_urlは市の計画一覧ページ）。R8終期だが次期計画の策定業務・審議会・パブコメ等は市サイト検索（R7〜R8）で見当たらず＝未確認。",
+  "evidence_quote": "planning period spanning fiscal year 2016 (平成28年度) through fiscal year 2026 (令和8年度)（検索要約）"
+ },
+ {
+  "pref": "福島県",
+  "name": "相馬市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_name": "第2次相馬市環境基本計画",
+   "e_period": "H30〜R9",
+   "e_end": 9,
+   "e_conf": "推定",
+   "e_url": "https://www.city.soma.fukushima.jp/shinososhiki/seikatsukankyoka/keikaku_shisaku/1622.html"
+  },
+  "note_add": "市HP「環境・廃棄物」計画ページ（1622.html）に相馬市環境基本条例に基づく相馬市環境基本計画を掲載。検索要約で第2次計画はH30.3策定・10年間（H30〜R9）、策定5年経過で見直し実施。R9終期だが第3次計画の策定作業は市サイト検索で見当たらず（R8.8に長期総合計画の審議会・市民アンケートは開始）。",
+  "evidence_quote": "第2次相馬市環境基本計画は平成30年3月に策定され、10年間を計画期間（検索要約）"
+ },
+ {
+  "pref": "福島県",
+  "name": "田村市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_name": null
+  },
+  "note_add": "市サイト内検索で環境基本計画は見当たらず、環境分野は第4期田村市地球温暖化対策実行計画【区域施策編・事務事業編】(R4〜R12, https://www.city.tamura.lg.jp/soshiki/8/entry_5.html)・地域新エネルギービジョン・一般廃棄物処理基本計画のみ。第2次総合計画が上位計画。根拠は検索ベースで中程度。",
+  "evidence_quote": "第４期田村市地球温暖化対策実行計画【区域施策編・事務事業編】"
+ },
+ {
+  "pref": "福島県",
+  "name": "南相馬市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "R5〜R12（推定）",
+   "e_end": 12,
+   "e_conf": "推定"
+  },
+  "note_add": "市サイト内検索の要約で第三次計画は2023〜2030年度（8年間）・4年後中間評価とされる（R5.10策定、第三次総合計画R5〜R12と整合）。ただし別の要約ではR6〜R13とも出ており本文未確認のため推定。終期R12で次期作業は対象外。",
+  "evidence_quote": "The plan period spans from fiscal year 2023 to fiscal year 2030 (8 years)（検索要約）"
+ },
+ {
+  "pref": "福島県",
+  "name": "本宮市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "不明（R1〜R10と推定）",
+   "e_conf": "不明"
+  },
+  "note_add": "市サイト内検索の要約で第1次本宮市環境基本計画はH21〜H30の10年間→第2次（2019.5掲載）はR1〜R10の可能性が高いが本文で確認できず。計画・事業ページ https://www.city.motomiya.lg.jp/life/6/25/ 。",
+  "evidence_quote": "本宮市環境基本計画の計画期間は平成21年度から平成30年度までの10年間（検索要約、第1次）"
+ },
+ {
+  "pref": "福島県",
+  "name": "国見町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "町サイト内検索で環境基本計画は見当たらず。環境分野は地球温暖化対策実行計画（R6.1公表）、自然環境等と再エネ発電事業との調和条例（https://www.town.kunimi.fukushima.jp/soshiki/4/18511.html）、第6次総合計画（R3〜R12）のみ。根拠は検索ベース。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "川俣町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "町サイト内検索で環境基本計画は見当たらず、環境分野は「川俣町地域まるごと脱炭素計画（地球温暖化対策実行計画 区域施策編）」（https://www.town.kawamata.lg.jp/site/chosei-shisetsu/chiikimarugotodathutansokeikaku.html）と循環型社会形成推進地域計画のみ。",
+  "evidence_quote": "川俣町地域まるごと脱炭素計画～川俣町地球温暖化対策実行計画（区域施策編）"
+ },
+ {
+  "pref": "福島県",
+  "name": "大玉村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "大玉村環境基本条例（https://www.vill.otama.fukushima.jp/reiki_int/reiki_honbun/c522RG00000647.html）で村長に環境基本計画策定を規定しているが、計画本体は村サイト検索・一般検索とも見当たらず（総合振興計画・都市マス等のみ）。条例があるため計画なしとは断定せず未確認のまま。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "鏡石町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "町サイト内検索で環境基本計画は見当たらず、環境分野は第3次鏡石町地球温暖化対策実行計画（区域施策編・事務事業編）（https://www.town.kagamiishi.fukushima.jp/kurashi/kurashi_tetuzuki/kankyo/011647.html）のみ。",
+  "evidence_quote": "第３次鏡石町地球温暖化対策実行計画（区域施策編、事務事業編）"
+ },
+ {
+  "pref": "福島県",
+  "name": "天栄村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "村HP計画一覧（https://www.vill.tenei.fukushima.jp/life/4/16/120/）・サイト内検索で環境基本計画は見当たらず、第1次天栄村地球温暖化対策実行計画（区域施策編）・ゼロカーボンシティ宣言（https://www.vill.tenei.fukushima.jp/soshiki/3/zero-co2.html）・第五次総合計画のみ。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "下郷町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし"
+  },
+  "note_add": "町サイト内検索で環境基本計画・温暖化対策実行計画とも見当たらず。総合計画等ページ（https://www.town.shimogo.fukushima.jp/organization/sougouseisaku/kikakuseisaku/1/820.html）は第7次総合計画中心で、環境は総合計画の基本目標「住み続けたいまち（生活環境）」で扱う。根拠は検索ベースで弱め。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "檜枝岐村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境基本計画・地球温暖化対策実行計画とも検索で確認できず（ヒットは循環型社会形成推進地域計画 H29〜R3 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/07_fukushima/06_hinoemata_h29.pdf のみ）。人口約500人の小規模村で計画なしの可能性高いが、村HPの計画一覧で否定確認できず未確認のまま。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "只見町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HP「環境関連の計画」ページ https://www.town.tadami.lg.jp/lifeguide/cat01/cat5/000082.html に掲載されるのは生活排水処理基本計画・一般廃棄物処理実施計画・地球温暖化対策実行計画等で、環境基本計画は無し（検索結果要約ベース）。環境施策は第七次只見町振興計画・野生動植物を保護する条例(H28.6)・ユネスコエコパークで対応。",
+  "evidence_quote": "只見町は生活排水処理基本計画、一般廃棄物処理実施計画、地球温暖化対策実行計画などを策定（『環境関連の計画』ページ）"
+ },
+ {
+  "pref": "福島県",
+  "name": "南会津町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "第2次計画の期間は検索で確認できず（町HP 450.htmlの要約：『2009年3月に南会津町環境基本計画を策定…前計画の策定から10年が経過したため第2次を策定』）。H31(2019)頃策定・10年計画ならR1〜R10頃と推測されるが未確認のため不明のまま。町は令和元〜6年度の環境年次報告書を公表。WebFetchは町HPブロック。",
+  "evidence_quote": "前計画の策定から10年が経過したため、「第2次南会津町環境基本計画」を策定"
+ },
+ {
+  "pref": "福島県",
+  "name": "湯川村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "村HPドメイン限定検索でも環境基本計画はヒットせず（国土利用計画・過疎計画・公共施設等総合管理計画のみ）。各種計画ページ https://www.vill.yugawa.fukushima.jp/site/gyousei-top/various-plans.html で否定確認できておらず未確認のまま（計画なしの可能性高）。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "柳津町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン限定検索で環境基本計画ヒットせず。各種計画ページ https://www.town.yanaizu.fukushima.jp/docs/2021080600018/ 、環境関連は役場地球温暖化対策実行計画(事務事業編,R4.1改訂)とゼロカーボンシティ宣言(R4.12) https://www.town.yanaizu.fukushima.jp/docs/2022120500022 のみ。総合計画（第6次柳津町振興計画）で環境を包含。",
+  "evidence_quote": "検索結果では環境基本計画は見当たらず、ゼロカーボンシティ宣言・実行計画のみ"
+ },
+ {
+  "pref": "福島県",
+  "name": "三島町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン限定検索で環境基本計画ヒットせず。環境関連は三島町ゼロカーボンビジョン(R4.5) https://www.town.mishima.fukushima.jp/soshiki/chiiki-seisaku/47.html と第2次地球温暖化対策実行計画(事務事業編,R6.3.1策定) http://www.town.mishima.fukushima.jp/soshiki/chiiki-seisaku/4267.html のみ。第5次三島町振興計画（後期基本計画案）が環境分野を包含。",
+  "evidence_quote": "第２次三島町 地球温暖化対策実行計画(事務事業編） 令和6 年３月１日 策定"
+ },
+ {
+  "pref": "福島県",
+  "name": "金山町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン限定検索で環境基本計画ヒットせず（第五次総合計画 https://www.town.kaneyama.fukushima.jp/soshiki/54/daigojisougoukeikaku.html 、国土強靱化計画等のみ）。環境施策は総合計画と自然環境・再エネ調和条例で対応。ゼロカーボン表明も検討段階。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "昭和村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "村HPドメイン限定検索で環境基本計画・温暖化対策実行計画ともヒットせず（各種計画 https://www.vill.showa.fukushima.jp/procedure/1096/ 、第6次昭和村振興計画のみ）。計画なしの可能性高いが一覧内容を直接確認できず未確認のまま。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "会津美里町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン限定・一般検索とも環境基本計画/環境基本条例ヒットせず。環境関連は地球温暖化対策実行計画(事務事業編R4〜R6) https://www.town.aizumisato.fukushima.jp/gyosei/gyoseijoho/8/7/2/3496.html 、ゼロカーボン宣言、再エネ導入目標策定支援業務のみ。第4次総合計画(2026〜2035,素案) https://www.town.aizumisato.fukushima.jp/material/files/group/3/03dai4jisougoukeikakusoan.pdf が環境分野を包含。",
+  "evidence_quote": "地球温暖化対策の推進（令和4年度から令和6年度）について"
+ },
+ {
+  "pref": "福島県",
+  "name": "西郷村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_name": "西郷村環境基本計画（改定）",
+   "e_status": "策定済"
+  },
+  "note_add": "R8.9.3ゼロ・カーボンシティ宣言ページ https://www.vill.nishigo.fukushima.jp/soshiki/juminseikatsuka/kankyo_gomi/2/6556.html に関連資料として『環境基本計画（改定）』『地球温暖化対策実行計画【区域施策編】』が掲載（複数検索要約で『策定している』）→改定版はR8頃策定済と判断（着手済から変更、ただし本文未確認で策定月・期間は不明）。旧計画ページ https://www.vill.nishigo.fukushima.jp/soshiki/kankyohozenka/kankyo_gomi/2/4547.html は2023.5.19更新。WebFetchは村HPブロック。",
+  "evidence_quote": "2050年脱炭素…ゼロ・カーボンシティ宣言（2026年9月3日）関連：環境基本計画（改定）・地球温暖化対策実行計画【区域施策編】"
+ },
+ {
+  "pref": "福島県",
+  "name": "泉崎村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "村HPドメイン限定検索で環境基本計画ヒットせず（各種計画 https://www.vill.izumizaki.fukushima.jp/page/dir000364.html 、各種計画の一覧 https://www.vill.izumizaki.fukushima.jp/page/page001839.html に掲載有無は要約で確認できず）。計画なしの可能性高いが未確認のまま。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "中島村",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境基本計画・温暖化対策実行計画とも検索（村HPドメイン指定含む）でヒットなし。小規模村で計画なしの可能性高いが根拠資料なく未確認のまま。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "棚倉町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "不明（R3.3策定。要約1件に「令和32年（2050年）まで」とあるが長期目標年の誤認の可能性）",
+   "e_end": null,
+   "e_conf": "不明",
+   "e_url": "https://www.town.tanagura.fukushima.jp/data/doc/1617153691_doc_15_0.pdf"
+  },
+  "note_add": "町HPドメイン検索で本編PDF（R3.3策定）がヒット。検索要約では「計画期間は令和32年（2050年）まで」、2030年度45%・2050年80%削減（H25比）目標。要約1件のみで、長期目標年を計画期間と誤認している可能性あり（本文で中間見直し年の有無は未確認）。PDF・町HPは取得不可（egressブロック）。期間がR3〜R12ならR12満了。次期計画着手の情報なし。 追加検索：計画書に温室効果ガス排出量・国県動向・社会情勢の変化に応じ適宜見直す旨の記載（固定の中間見直し年は確認できず）。検索要約に「2026年3月30日」とあったがPDFのファイル名タイムスタンプ(1617153691=2021/3/31)からR3.3策定と判断（R8新規策定ではない）。 【統合時判断】期間の根拠が要約1件のみで長期目標年との混同が疑われるため、e_end は空欄・不明とした（R3〜R12の10年計画の可能性もあり要本文確認）。",
+  "evidence_quote": "計画期間は令和32年（2050年）までとされ、令和12年（2030年）までの温室効果ガス削減目標は平成25年の排出量を基準とし45％"
+ },
+ {
+  "pref": "福島県",
+  "name": "矢祭町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン指定検索で環境基本計画ヒットせず（第6次総合計画2021〜2026、第7次総合計画R8〜R12、過疎計画、公共施設計画、太陽光調和条例のみ）。地球温暖化対策実行計画も検索で確認できず。環境施策は総合計画で対応と判断（計画なし、根拠は検索での不在）。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "鮫川村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "村HPドメイン指定検索で環境基本計画ヒットせず。「事業・計画」ページ（https://www.vill.samegawa.fukushima.jp/page/dir000046.html）周辺では第4次鮫川村振興計画（環境保全・景観施策を内包）、バイオマスヴィレッジ構想、公共施設等総合管理計画、総合戦略のみ。環境施策は振興計画で対応と判断。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "石川町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン指定検索で環境基本計画ヒットせず。環境系は第2次石川町地球温暖化防止実行計画（事務事業編、2023〜2028年度）・環境にやさしい庁内行動計画【第3期】のみ（https://www.town.ishikawa.fukushima.jp/admin/ishikawa/info/005930.html）。総合計画は第6次（2019〜10年間）。計画なしと判断。",
+  "evidence_quote": "「第2次石川町地球温暖化防止計画（事務事業編）」が改訂され、計画期間は2023年度から2028年度"
+ },
+ {
+  "pref": "福島県",
+  "name": "玉川村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "村HPドメイン指定検索（環境基本計画・地球温暖化対策実行計画）でヒットせず。総合開発計画、第7次玉川村総合計画（策定中ニュースレター）等のみ。環境施策は総合計画で対応と判断。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "平田村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "村HPドメイン指定検索で環境基本計画ヒットせず。環境系は平田村地球温暖化対策実行計画（事務事業編・区域施策編、情報公開ページ https://www.vill.hirata.fukushima.jp/soshiki/2/174.html）、一般廃棄物処理基本計画（R4.4、R7.4変更）、第5次総合計画後期基本計画（R3.3）のみ。実行計画＋総合計画で対応と判断。",
+  "evidence_quote": "「平田村地球温暖化対策実行計画」（事務事業編・区域施策編）"
+ },
+ {
+  "pref": "福島県",
+  "name": "古殿町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HP「各種計画」ページ（https://www.town.furudono.fukushima.jp/chouseijyouhou/torikumikeikaku/keikaku/760）は水質検査計画・橋梁長寿命化・耐震改修促進・生活排水処理等を掲載、環境基本計画は検索で確認できず。第7次振興計画、過疎・辺地計画、デジ田総合戦略のみ。計画なしと判断。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "川内村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "村HPドメイン指定検索で環境基本計画ヒットせず。村HP「計画、予算」ページ（https://www.kawauchimura.jp/gyosei/keikaku-yosan/）に川内村地球温暖化対策実行計画(区域施策編)が掲載、同策定業務委託は公募型プロポーザルで実施（入札情報 https://www.kawauchimura.jp/bid/）。環境基本計画ではなく区域施策編で対応と判断。",
+  "evidence_quote": "川内村地球温暖化対策実行計画(区域施策編)は、計画、予算に関するページにも掲載"
+ },
+ {
+  "pref": "福島県",
+  "name": "双葉町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン指定検索で環境基本計画ヒットせず。復興まちづくり計画（第二次〜第四次 https://www.town.fukushima-futaba.lg.jp/12602.htm）、復興まちづくり長期ビジョン、森林整備計画、再生可能エネルギー活用・推進計画(H28.3)のみ。避難指示解除後の復興計画で対応と判断。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "葛尾村",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "村HP「計画」一覧（https://www.katsurao.org/life/3/17/52/）・ドメイン指定検索で環境基本計画ヒットせず。第五次葛尾村振興計画、復興計画・かつらお再生戦略プラン、特定復興再生拠点計画、スマートコミュニティ事業のみ。計画なしと判断。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "福島県",
+  "name": "新地町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_status": "計画なし",
+   "e_conf": "不明"
+  },
+  "note_add": "町HPドメイン指定検索・名称完全一致検索とも環境基本計画ヒットせず。環境施策は新地町環境未来都市計画（H24.5策定、以降改定、https://future-city.go.jp/pdf/torikumi_city/shinchi_plan.pdf）と復興計画・第6次総合計画（〜2030年度）、国環研との連携協定で対応。事務事業編実行計画あり。計画なしと判断。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "宮城県",
+  "name": "気仙沼市",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：『気仙沼市環境基本計画』の名称での計画ページ・PDFは検索（一般・市ドメイン限定・完全一致、計5回）でヒットせず。一方、市ドメイン検索の要約で、気仙沼市地球温暖化対策実行計画（区域施策編、2025〜2030年度）は『市環境基本計画における地球温暖化対策を推進するための個別計画』と記載との情報あり（要約のみ・URL特定できず、一般論の混入の可能性）。存在有無は判断保留（計画なしとは断定できず）。計画・施策一覧 https://www.kesennuma.miyagi.jp/li/shisei/060/index.html の確認を推奨。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "宮城県",
+  "name": "白石市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "H31(R1)〜R10（10年間）",
+   "e_end": 10,
+   "e_conf": "確認済",
+   "e_status": "未確認"
+  },
+  "note_add": "環境：第3次白石市環境基本計画は平成31年度（令和元年度）から10年間＝R10終期。市サイト内検索（環境課ページ https://www.city.shiroishi.miyagi.jp/soshiki/18/ 、令和2年度施政方針 https://www.city.shiroishi.miyagi.jp/site/mayor/16031.html ）の結果本文で2回一致。次期はR9〜R10着手見込み（現時点未確認）。",
+  "evidence_quote": "第３次白石市環境基本計画は令和元年度から10年間を計画期間"
+ },
+ {
+  "pref": "宮城県",
+  "name": "名取市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "R2〜R12（11年間）",
+   "e_end": 12,
+   "e_conf": "確認済",
+   "e_url": "https://www.city.natori.miyagi.jp/page/4721.html"
+  },
+  "note_add": "環境：第二次名取市環境基本計画の計画期間は令和2（2020）年度〜令和12（2030）年度の11年間。計画ページ https://www.city.natori.miyagi.jp/page/4721.html 、本編PDF https://www.city.natori.miyagi.jp/uploaded/attachment/10172.pdf 。R7.?に環境に関する市民・事業者意識調査実施 https://www.city.natori.miyagi.jp/page/39371.html （中間見直し等の可能性）。",
+  "evidence_quote": "計画期間は令和2（2020）年度から令和12（2030）年度までの11年間"
+ },
+ {
+  "pref": "宮城県",
+  "name": "角田市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "R5〜R14（10年間）",
+   "e_end": 14,
+   "e_conf": "推定"
+  },
+  "note_add": "環境：角田市第3次環境基本計画（2023年策定、環境像『「緑・水・人」調和のとれた環境都市』）。市サイト内検索の要約で『計画期間は2023年度から2032年度までの10年間』（出典は角田市地球温暖化対策総合計画 https://www.city.kakuda.lg.jp/uploaded/life/17642_48417_misc.pdf と思われる）。別検索では同PDF中の表から2020〜2030年度との要約もあり不一致のため推定扱い。計画単独ページURLは未発見。",
+  "evidence_quote": "計画期間は2023年度から2032年度までの10年間"
+ },
+ {
+  "pref": "宮城県",
+  "name": "栗原市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "H30〜R9（10年間）",
+   "e_end": 9,
+   "e_conf": "確認済",
+   "e_status": "着手済",
+   "e_url": "https://www.kuriharacity.jp/w012/010/010/020/120/51193.html"
+  },
+  "note_add": "環境：第2次栗原市環境基本計画はH30（2018）〜R9（2027）年度の10年間（計画ページ https://www.kuriharacity.jp/w012/010/010/020/120/51193.html の検索結果）。次期：『第3次栗原市環境基本計画策定支援業務』が市の2026年6月入札結果に掲載（R8.6.3執行）https://www.kuriharacity.jp/w004/030/010/030/20260114/202606/PAGE000000000000015506.html →着手済。第3次総合計画（R9〜）も並行策定中。",
+  "evidence_quote": "第2次栗原市環境基本計画…2018年度から2027年度までの10年間"
+ },
+ {
+  "pref": "宮城県",
+  "name": "富谷市",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：市ドメイン検索・計画一覧系検索（計2回）で環境基本計画はヒットせず。総合計画の関連計画として地球温暖化対策実行計画・2050年ゼロカーボン戦略 https://www.tomiya-city.miyagi.jp/kurashi/kankyou/zerocarbon/zero2050.html は挙がるが環境基本計画の記載は見当たらない（要約ベース）。計画なしの可能性が高いが公式一覧での確認ができず未断定。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "宮城県",
+  "name": "亘理町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：第2次亘理町環境基本計画の存在は再確認（e_urlのPDF content_20220126_163920 が上位ヒット、R4.1頃公表）が、期間は検索3回とも本文に出ず不明のまま（R4開始10年ならR13終期の可能性）。町の環境・ごみカテゴリ https://www.town.watari.miyagi.jp/life/category/?category=124 。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "宮城県",
+  "name": "大郷町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：一般検索・町ドメイン限定検索（town.miyagi-osato.lg.jp）とも環境基本計画はヒットせず。総合計画 https://www.town.miyagi-osato.lg.jp/soshiki/machidukuri/sougoukeikaku2025.html の環境分野で対応している模様。計画なしの可能性が高いが、計画一覧での明確な根拠はなく未断定。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "宮城県",
+  "name": "色麻町",
+  "task": "3:環境基本計画を特定",
+  "set": {},
+  "note_add": "環境：一般検索・町ドメイン限定検索とも環境基本計画はヒットせず。町議会会議録で地球温暖化対策実行計画・ゼロカーボン関連の言及のみ。町の政策・施策一覧 https://www.town.shikama.miyagi.jp/chosei/seisaku_shisaku/index.html で要確認。計画なしの可能性が高いが未断定。",
+  "evidence_quote": ""
+ },
+ {
+  "pref": "山形県",
+  "name": "寒河江市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_name": "寒河江市環境基本計画（R5.3改定）",
+   "e_period": "R5〜R14（10年間）",
+   "e_end": 14,
+   "e_conf": "確認済"
+  },
+  "note_add": "環境：R5.3改定版の計画期間は2023（R5）〜2032（R14）年度の10年間。旧計画（H26〜R5）を1年前倒しで改定（R4ゼロカーボンシティ宣言を受け）。計画ページ https://www.city.sagae.yamagata.jp/shisei/keikaku/toshikankyokeikaku/kankyokeikaku.html 。",
+  "evidence_quote": "計画期間は令和5年度から令和14年度までの10年間（前計画 平成26年度〜令和5年度を1年前倒しで改定）"
+ },
+ {
+  "pref": "山形県",
+  "name": "東根市",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "R5〜R14（10年間）",
+   "e_end": 14,
+   "e_conf": "確認済"
+  },
+  "note_add": "環境：第3次東根市大けやき環境基本計画はR4年度策定、計画期間R5〜R14（2023〜2032年度）の10年間。前計画（改訂版）はH25〜R4。計画ページ https://www.city.higashine.yamagata.jp/section_list/section008/seikatsukankyo-keikaku/169 （本編・概要版PDF掲載）。",
+  "evidence_quote": "The third version covers the period from R5 to R14 (fiscal year 2023 to fiscal year 2032)"
+ },
+ {
+  "pref": "山形県",
+  "name": "高畠町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "R5〜（10年ならR14）",
+   "e_end": 14,
+   "e_conf": "推定"
+  },
+  "note_add": "環境：第2次（H25.3策定）がR4年度で期間終了→第3次高畠町環境基本計画をR5年度から実施（計画ページ https://www.town.takahata.yamagata.jp/kurashi/gyoseijoho/kakushukeikaku/1/2728.html ）。終期は検索3回で本文に出ず、10年間と仮定しR14と推定。",
+  "evidence_quote": "第2次計画の計画期間が令和4年度で終了…令和5年度から第3次計画"
+ },
+ {
+  "pref": "山形県",
+  "name": "遊佐町",
+  "task": "3:環境基本計画を特定",
+  "set": {
+   "e_period": "R4〜R13",
+   "e_end": 13,
+   "e_conf": "推定"
+  },
+  "note_add": "環境：町ドメイン検索の要約で第3次遊佐町環境基本計画の計画期間は令和4（2022）〜令和13（2031）年度。裏付け検索1回では再現せず、計画PDFのURLも未特定のため推定。",
+  "evidence_quote": "第３次遊佐町環境基本計画 計画期間 令和4年度〜令和13年度（検索要約）"
+ }
+]
