@@ -1,0 +1,122 @@
+[
+ {
+  "pref": "茨城県",
+  "name": "つくばみらい市",
+  "current": {
+   "t_name": "つくばみらい市地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.city.tsukubamirai.lg.jp/jyumin/shisetu-koutsu/koukyoukoutsu/page004893.html",
+   "e_name": "つくばみらい市環境基本計画（改訂版）",
+   "e_period": "H29〜R8（推定）",
+   "e_status": "未確認",
+   "e_url": "https://www.city.tsukubamirai.lg.jp/jyumin/gomi-kankyou-doubutsu/kankyouhozen/page000080.html",
+   "note": "交通計画・環境基本計画とも検索で市の資料を確認できず（存否不明）。県の茨城県地域公共交通計画（R5〜R9、地域間幹線中心）が県全域を対象 https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/2koukyoukoutuukeikaku.pdf 環境：H19.3策定、10年経過でH28年度に見直し改訂（改訂版の期間は10年と推定＝R8終了の可能性）。区域施策編はR8.3策定・R8〜R12 https://www.city.tsukubamirai.lg.jp/data/doc/1772670871_doc_25_0.pdf 。次期環境基本計画の作業は未確認。 【追加調査 2026-10】交通：つくばみらい市地域公共交通計画、期間2023〜2027年度（R5〜R9、5年間）。H30.3策定の網形成計画を継承。R4年度にパブコメ実施 https://www.city.tsukubamirai.lg.jp/gyousei/public-comment/r04/page004683.html 計画書 https://www.city.tsukubamirai.lg.jp/data/doc/1683698412_doc_39_0.pdf 。次期計画の委託等は検索で確認できず（2026-10-02）。 計画書に「計画期間の満了時に本計画の更新を予定」。R8年度予算ページ（https://www.city.tsukubamirai.lg.jp/gyousei/zaisei/yosan/r08/page007397.html）検索でも改定予算の記述は確認できず。 根拠: 計画期間は2023年度から2027年度までの5年間"
+  }
+ },
+ {
+  "pref": "福島県",
+  "name": "川俣町",
+  "current": {
+   "t_name": "福島県避難地域広域公共交通計画（県・避難12市町村の広域計画）",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.pref.fukushima.lg.jp/sec/16005d/hinankeikaku.html",
+   "e_name": null,
+   "e_period": "不明",
+   "e_status": "計画なし",
+   "e_url": null,
+   "note": "地域公共交通計画は検索で確認できず。川俣町地域公共交通会議（H20.3設置、https://www.town.kawamata.lg.jp/site/kurashi-tetsuzuki/kawamatakoukyokotsu.html）がH21.3に地域公共交通総合連携計画を策定（デマンド型乗合タクシー導入、国交省資料）—旧法計画で現行計画は未確認。環境基本計画も検索で確認できず（各種計画一覧 https://www.town.kawamata.lg.jp/site/chosei-shisetsu/list74.html 要確認）。循環型社会形成推進地域計画（R3〜R7）あり。 【追加調査 2026-10】国交省一覧の広域計画『福島県避難地域』＝福島県避難地域広域公共交通計画（前身はH30.3.28策定の避難地域広域公共交通網形成計画）。対象は田村市・南相馬市・川俣町・広野町・楢葉町・富岡町・川内村・大熊町・双葉町・浪江町・葛尾村・飯舘村の12市町村。計画期間R5.4〜R10.3。次期計画：R8年度に最終評価・次期計画の方向性決定、R9年度に次期計画策定（R10.4開始）予定。R8.6.25福島県地域公共交通活性化協議会で避難地域広域公共交通検討協議会の今年度スケジュールを報告（資料 https://www.pref.fukushima.lg.jp/uploaded/attachment/756354.pdf 、協議会 https://www.pref.fukushima.lg.jp/sec/16005d/chiikikoukyoukasseikakyougikai.html ）。策定委託・パブコメは未確認のため着手済とはせず。町単独計画は確認できず（H21.3旧法連携計画のみ）。2026-10-02検索。 根拠: 避難地域広域公共交通計画は令和5年4月から令和10年3月までの計画期間…令和８年度に最終評価 【追加調査 2026-10】町サイト内検索で環境基本計画は見当たらず、環境分野は「川俣町地域まるごと脱炭素計画（地球温暖化対策実行計画 区域施策編）」（https://www.town.kawamata.lg.jp/site/chosei-shisetsu/chiikimarugotodathutansokeikaku.html）と循環型社会形成推進地域計画のみ。 根拠: 川俣町地域まるごと脱炭素計画～川俣町地球温暖化対策実行計画（区域施策編）"
+  }
+ },
+ {
+  "pref": "福島県",
+  "name": "三春町",
+  "current": {
+   "t_name": "三春町地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "未確認",
+   "t_url": "https://www.town.miharu.fukushima.jp/soshiki/4/kokyoukotsu.html",
+   "e_name": null,
+   "e_period": "不明",
+   "e_status": "計画なし",
+   "e_url": null,
+   "note": "交通：町単独計画は再検索でも確認できず(R8.3にユニ・トランドと交通データ活用の包括連携協定締結 https://www.logi-today.com/930374)、県全域の福島県地域公共交通計画(R6〜R12)が該当。県中・県南圏域地域公共交通利便増進実施計画(R7.10〜R13.3)にも含まれる(https://www.mlit.go.jp/sogoseisaku/transport/content/001895410.pdf)。環境：三春町環境条例(H12)はあるが環境基本計画は検索で確認できず。 【追加調査 2026-10】2026-10-02再調査：町単独の「三春町地域公共交通計画」（住民課所管、三春町地域公共交通活性化協議会）を町HPで確認。計画期間は令和5年度〜令和9年度の5年間。R6.6の協議会で一部改定、R7.8の協議会で再改定（町HPドメイン検索の本文より）。町営バスはR8.4から運行見直し（https://www.town.miharu.fukushima.jp/soshiki/4/tyoueibasu.html）、福島交通路線バスもR7.10から再編（https://www.town.miharu.fukushima.jp/soshiki/4/fukushimakotsubus.html）。次期計画（R10〜）の策定委託・パブコメ等は検索で確認できず（町HPはWebFetchブロック）。終期R9のためR8〜R9に次期策定が見込まれる。前回noteの「町単独計画確認できず」は訂正。 根拠: 計画期間は令和5年度から令和9年度までの5年間（三春町地域公共交通計画を策定しました・町HP）"
+  }
+ },
+ {
+  "pref": "宮城県",
+  "name": "栗原市",
+  "current": {
+   "t_name": "栗原市地域公共交通計画（前身：栗原市地域公共交通網形成計画）",
+   "t_period": "不明",
+   "t_status": "未確認",
+   "t_url": "https://www.kuriharacity.jp/li/010/020/120/index.html",
+   "e_name": "第2次栗原市環境基本計画",
+   "e_period": "H30〜R9（10年間）",
+   "e_status": "着手済",
+   "e_url": "https://www.kuriharacity.jp/w012/010/010/020/120/51193.html",
+   "note": "交通：市企画部所管の地域公共交通計画の存在は市サイトで確認、期間は検索で確認できず。広報くりはら2024『特集 生まれ変わる地域公共交通』 https://www.kuriharacity.jp/w009/030/010/2024/379/kurihara379_02.pdf 。環境：第2次計画の存在のみ確認、期間不明（第2次総合計画がH29〜R8のため連動していればR8終期の可能性、要確認）。 【追加調査 2026-10】環境：第2次栗原市環境基本計画はH30（2018）〜R9（2027）年度の10年間（計画ページ https://www.kuriharacity.jp/w012/010/010/020/120/51193.html の検索結果）。次期：『第3次栗原市環境基本計画策定支援業務』が市の2026年6月入札結果に掲載（R8.6.3執行）https://www.kuriharacity.jp/w004/030/010/030/20260114/202606/PAGE000000000000015506.html →着手済。第3次総合計画（R9〜）も並行策定中。 根拠: 第2次栗原市環境基本計画…2018年度から2027年度までの10年間"
+  }
+ },
+ {
+  "pref": "茨城県",
+  "name": "大子町",
+  "current": {
+   "t_name": "大子町地域公共交通計画（及び大子町地域公共交通再編計画）",
+   "t_period": "不明",
+   "t_status": "未確認",
+   "t_url": "https://www.town.daigo.ibaraki.jp/page/page002515.html",
+   "e_name": "大子町環境基本計画",
+   "e_period": "H30〜R9",
+   "e_status": "未確認",
+   "e_url": "https://www.town.daigo.ibaraki.jp/page/page003178.html",
+   "note": "検索では町独自の地域公共交通計画・環境基本計画とも確認できず（町サイトはインデックス少）。環境関連は循環型社会形成推進地域計画(H29〜R3)のみ確認 https://www.env.go.jp/recycle/waste/3r_network/5_region/project_list/08_ibaraki/10_daigo_h29.pdf 。環境基本計画は未策定の可能性。要町サイト直接確認。 【追加調査 2026-10】【2026-10-02調査】町HP「大子町地域公共交通計画及び再編計画について」 https://www.town.daigo.ibaraki.jp/page/page002515.html に、公共交通政策のマスタープランとして大子町地域公共交通計画、具体的な実施計画として再編計画を作成した旨の記載あり（検索要約ではページ日付2023/3/27との記載があるが、計画期間は本文で確認できず）。前身として地域公共交通網形成計画あり（大子町地域公共交通会議 https://www.town.daigo.ibaraki.jp/page/page000713.html 、H26.11第1回）。公共交通トップ https://www.town.daigo.ibaraki.jp/page/page001206.html 。町サイトはWebFetch不可（egress blocked）。次期計画の着手状況は未確認。関連：AI乗合タクシーたくまるR6.10リニューアル。 【追加調査 2026-10】[2026-10-02] 町サイトに『大子町環境基本計画』ページあり（H28.9制定の大子町環境基本条例に基づき策定、本編PDF・概要版あり）https://www.town.daigo.ibaraki.jp/page/page003178.html 。素案PDF『大子町環境基本計画 素案 平成30年3月』https://www.town.daigo.ibaraki.jp/data/doc/1525765232_doc_99_1.pdf 。期間は本文確認できず（町サイトWebFetch/curlブロック）、H30.3策定・10年と仮定しH30〜R9を推定（要確認）。次期計画：『第2次環境基本計画』の策定委託・審議会・パブコメは検索で見当たらず（未確認）。関連：ゼロカーボンシティ宣言(R4.8.31) https://www.town.daigo.ibaraki.jp/page/page006483.html 、大子町地域脱炭素ビジョン https://www.town.daigo.ibaraki.jp/page/page007352.html 。旧noteの『環境基本計画は未策定の可能性』は誤り。 根拠: 大子町環境基本計画 素案 平成30年3月 大子町／「大子町環境基本条例」の規定に基づき…「大子町環境基本計画」を策定しました"
+  }
+ },
+ {
+  "pref": "茨城県",
+  "name": "守谷市",
+  "current": {
+   "t_name": "守谷市地域公共交通計画",
+   "t_period": "R5〜R9",
+   "t_status": "着手済",
+   "t_url": "https://www.city.moriya.ibaraki.jp/kurashi_tetsuzuki/koutsu/1002163/1002204.html",
+   "e_name": "第2次守谷市環境基本計画",
+   "e_period": "〜R7（推定）",
+   "e_status": "着手済",
+   "e_url": "https://www.city.moriya.ibaraki.jp/kurashi_tetsuzuki/kankyo_gomi/1001993/1002006.html",
+   "note": "守谷市地域公共交通活性化協議会の存在と実証運行（コミュニティバス等）は確認したが、計画名・期間・URLは検索で確認できず。茨城県の協議会資料（https://www.pref.ibaraki.jp/kikaku/kotsuseisaku/chiikikoutsu/documents/r8dai1kaikyougikaigian.pdf）に言及あり。環境基本計画も不明。要追加調査。 環境：第3次守谷市環境基本計画（R8〜R17＝2026〜2035年度）を策定中との検索結果（生活環境課 https://www.city.moriya.ibaraki.jp/shisei/profile/1004324/1004328/1004339/1004340.html ）。策定に向け市民・事業者・中学生意識調査を実施。第3次の策定完了は未確認。 【追加調査 2026-10】交通：守谷市地域公共交通計画（R5.3策定、R7.5変更）、計画期間R5〜R9（2023〜2027年度、5年間）。前計画は守谷市地域公共交通網形成計画（H30.7）。計画書案 https://www.city.moriya.ibaraki.jp/_res/projects/default_project/_page_/001/002/191/r4_4_03_gian1.pdf 。次期：令和8年度施政方針で「第1次計画のアップデートとなる第2次守谷市地域公共交通計画を策定」と明記 https://www.city.moriya.ibaraki.jp/shisei/mayor/1005682/1011702.html （委託プロポ公告・パブコメは検索で未確認、2026-10-02）。協議会ページ https://www.city.moriya.ibaraki.jp/kurashi_tetsuzuki/koutsu/1002163/1002164/1002189/1002191.html 根拠: 計画期間は令和5年度から令和9年度までの5年間"
+  }
+ },
+ {
+  "pref": "福島県",
+  "name": "須賀川市",
+  "current": {
+   "t_name": "須賀川市地域公共交通計画",
+   "t_period": "不明",
+   "t_status": "未確認",
+   "t_url": "https://www.city.sukagawa.fukushima.jp/kurashi/koutsu/koutsu_keikaku/1015962.html",
+   "e_name": "第3次須賀川市環境基本計画（中間改定版）",
+   "e_period": "H30〜R9",
+   "e_status": "未確認",
+   "e_url": "https://www.city.sukagawa.fukushima.jp/kurashi/gomi_recycle/kankyo_hozen/1002334/index.html",
+   "note": "交通：計画ページあり、R7.1.29一部改定。計画期間は検索で確認できず。環境：第3次計画（中間改定版）を公表（計画・条例ページ）、期間は検索で確認できず。区域施策編はR4〜R12。参考：須賀川市の環境（R7.5）https://www.city.sukagawa.fukushima.jp/material/files/group/47/r05shinokankyo.pdf 【追加調査 2026-10】市サイト内検索の要約で第3次計画はH30(2018)〜R9(2027)、R4.3中間見直し（出典は『須賀川市の環境』R7.5 https://www.city.sukagawa.fukushima.jp/material/files/group/47/r05shinokankyo.pdf と思われるが本文未確認）。R9終期だが次期（第4次）計画の策定業務・審議会等は市サイト検索で見当たらず。 根拠: Third Environmental Basic Plan covers the period from fiscal year 2018 (Heisei 30) to fiscal year 2027 (Reiwa 9)（検索要約）"
+  }
+ },
+ {
+  "pref": "福島県",
+  "name": "相馬市",
+  "current": {
+   "t_name": null,
+   "t_period": "不明",
+   "t_status": "未確認",
+   "t_url": null,
+   "e_name": "第2次相馬市環境基本計画",
+   "e_period": "H30〜R9",
+   "e_status": "未確認",
+   "e_url": "https://www.city.soma.fukushima.jp/shinososhiki/seikatsukankyoka/keikaku_shisaku/1622.html",
+   "note": "交通・環境とも検索で確認できず（市サイト内検索でも該当ページ出ず、南相馬市の結果に埋もれる）。公共交通情報 https://www.city.soma.fukushima.jp/shinososhiki/kikakuseisakuka/seikatsu/1/1679.html 。参考：福島県地域公共交通計画（R6.3策定）https://www.pref.fukushima.lg.jp/uploaded/attachment/622613.pdf 【追加調査 2026-10】市HP「環境・廃棄物」計画ページ（1622.html）に相馬市環境基本条例に基づく相馬市環境基本計画を掲載。検索要約で第2次計画はH30.3策定・10年間（H30〜R9）、策定5年経過で見直し実施。R9終期だが第3次計画の策定作業は市サイト検索で見当たらず（R8.8に長期総合計画の審議会・市民アンケートは開始）。 根拠: 第2次相馬市環境基本計画は平成30年3月に策定され、10年間を計画期間（検索要約）"
+  }
+ }
+]
