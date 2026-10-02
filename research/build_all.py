@@ -16,6 +16,10 @@ if REGION == "tohoku":
     PREFS = [(p, ALL[p]) for p in ("青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県")]
     OUT = "/home/user/matsuazwaakira/research/東北6県_公共交通計画_環境基本計画_終期一覧_2026-09.xlsx"
     TITLE = "東北6県"
+elif REGION == "one":
+    PREFS = list(ALL.items())
+    OUT = "/home/user/matsuazwaakira/research/自治体営業リスト_統合版_2026-10.xlsx"
+    TITLE = "自治体営業リスト（統合版）"
 else:
     PREFS = list(ALL.items())
     OUT = "/home/user/matsuazwaakira/research/自治体_公共交通計画_環境基本計画_終期一覧_2026-09.xlsx"
@@ -240,6 +244,43 @@ cfg.column_dimensions["A"].width = 4
 for L, w in zip("BCDEFGHI", (12, 10, 12, 18, 16, 12, 10, 14)):
     cfg.column_dimensions[L].width = w
 
+if REGION == "one":
+    sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+    from build_memo import fill_memo
+    from build_factcheck import fill_fc
+    from openpyxl.worksheet.hyperlink import Hyperlink
+    ms = wb.create_sheet("営業メモ"); fill_memo(ms)
+    fs = wb.create_sheet("ファクトチェック結果"); fill_fc(fs)
+    memo_row = {}
+    for r in range(5, ms.max_row + 1):
+        nm, pf = ms.cell(r, 3).value, ms.cell(r, 2).value
+        if not nm or not pf: continue
+        for part in str(nm).replace("（", "・").replace("）", "").split("・"):
+            memo_row[(pf, part.strip())] = r
+        if "避難地域" in str(nm):
+            memo_row[("福島県", "*避難*")] = r
+    for pref, _ in PREFS:
+        ws = wb[pref]
+        c = ws.cell(HR, 21, "営業メモ"); c.font = Font(name=F, bold=True, color="FFFFFF")
+        c.fill = PatternFill("solid", fgColor="1F4E78"); c.alignment = Alignment(horizontal="center", vertical="center", wrap_text=True)
+        ws.column_dimensions["U"].width = 10
+        for r in range(HR + 1, ws.max_row + 1):
+            nm = ws.cell(r, 2).value
+            mr = memo_row.get((pref, nm))
+            if mr is None and "避難地域" in str(ws.cell(r, 6).value or "") and ("福島県", "*避難*") in memo_row:
+                mr = memo_row[("福島県", "*避難*")]
+            if mr:
+                x = ws.cell(r, 21, "→メモ")
+                x.hyperlink = Hyperlink(ref=x.coordinate, location=f"'営業メモ'!C{mr}", display="→メモ")
+                x.font = Font(name=F, size=10, color="0563C1", underline="single"); x.alignment = Alignment(horizontal="center", vertical="top")
+                x.border = bd
+    # 目次
+    toc_r = cfg.max_row + 2
+    cfg.cell(toc_r, 1, "■ シート一覧（クリックで移動）").font = Font(name=F, bold=True)
+    for k, name in enumerate([p for p, _ in PREFS] + ["営業メモ", "ファクトチェック結果"]):
+        x = cfg.cell(toc_r + 1 + k, 2, name)
+        x.hyperlink = Hyperlink(ref=x.coordinate, location=f"'{name}'!A1", display=name)
+        x.font = Font(name=F, size=10, color="0563C1", underline="single")
 wb.calculation.fullCalcOnLoad = True
 os.makedirs(os.path.dirname(OUT), exist_ok=True)
 wb.save(OUT)
