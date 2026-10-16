@@ -14,7 +14,7 @@
   "e_conf": "確認済",
   "e_status": "未確認",
   "e_url": "https://www.city.maebashi.gunma.jp/soshiki/kankyo/kankyoseisaku/gyomu/2_1/5/2718.html",
-  "note": "交通：R3.6策定の現行計画がR7年度で目標年次を迎え、R8〜R12の次期計画を策定（t_urlは計画素案PDF、最終決定版URLは未確認）。環境：適用期間H30〜R9（2018〜2027）でR9終期。環境政策課ページに「前橋市環境基本計画改訂業務の実施事業者が決定」との告知があるが、H29年度の前回改訂時のものの可能性があり次期計画の着手かは未確認 https://www.city.maebashi.gunma.jp/soshiki/kankyo/kankyoseisaku/gyomu/2/2/index.html 。同時期に緑の基本計画改定支援業務（R8.10〜R10.3予定 https://www.city.maebashi.gunma.jp/material/files/group/67/siyousyoan.pdf ）・第八次総合計画策定支援（R8.4〜R10.3）が進行中で、環境基本計画もR8〜R9に改訂作業入りの見込み。要注視。"
+  "note": "交通：R3.6策定の現行計画がR7年度で目標年次を迎え、R8〜R12の次期計画を策定（t_urlは計画素案PDF、最終決定版URLは未確認）。環境：適用期間H30〜R9（2018〜2027）でR9終期。環境政策課ページの「前橋市環境基本計画改訂業務の実施事業者が決定」告知は、H29年度の前回改訂（仕様書の履行期限H30.3.30 https://www.city.maebashi.gunma.jp/material/files/group/46/siyosyo.pdf ）のものと判断。R8年度の次期計画の審議会諮問・委託は検索で確認できず（R6年度環境審議会でも諮問の記載なし https://www.city.maebashi.gunma.jp/soshiki/kankyo/kankyoseisaku/gyomu/5/1/43841.html ）。同時期に緑の基本計画改定支援業務（R8.10〜R10.3予定 https://www.city.maebashi.gunma.jp/material/files/group/67/siyousyoan.pdf ）・第八次総合計画策定支援（R8.4〜R10.3）が進行中。"
  },
  {
   "pref": "群馬県",
@@ -88,9 +88,9 @@
   "pref": "群馬県",
   "name": "沼田市",
   "t_name": "沼田市地域公共交通計画",
-  "t_period": "不明",
-  "t_end": null,
-  "t_conf": "不明",
+  "t_period": "R6〜R9",
+  "t_end": 9,
+  "t_conf": "推定",
   "t_status": "未確認",
   "t_url": "https://www.city.numata.gunma.jp/life/kotsu/bus/1014138.html",
   "e_name": "第3次沼田市環境基本計画",
@@ -99,7 +99,7 @@
   "e_conf": "推定",
   "e_status": "策定済",
   "e_url": "https://www.city.numata.gunma.jp/shisei/keikaku/keikaku/1016056.html",
-  "note": "交通：R6.3策定。期間は検索で未確認（協議会評価資料に「令和6年3月～令和10年3月」の記載あり＝R9年度末終期の可能性、要確認）。R8年度第1回協議会でR9年度確保維持事業の計画認定申請を協議 https://www.city.numata.gunma.jp/life/kotsu/bus/1014867.html 。環境：第二次（H27〜R6）満了を受け第3次を策定、今後10年（R7〜R16推定）。"
+  "note": "交通：R6.3策定。協議会資料（令和6年度第3回、R7.1）に「令和6年3月～令和10年3月」の記載あり https://www.city.numata.gunma.jp/_res/projects/default_project/_page_/001/014/867/numachikoshiryo.pdf （補助事業欄の記載で計画本文では未確認のため推定）。R8年度第1回協議会でR9年度確保維持事業の計画認定申請を協議 https://www.city.numata.gunma.jp/life/kotsu/bus/1014867.html 。次期計画の着手は未確認。環境：第二次（H27〜R6）満了を受け第3次を策定、今後10年（R7〜R16推定）。"
  },
  {
   "pref": "群馬県",
