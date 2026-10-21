@@ -10,7 +10,7 @@ ALL = {
     "青森県": ["aomori1", "aomori2", "aomori3"], "岩手県": ["iwate"], "宮城県": ["miyagi"],
     "秋田県": ["akita"], "山形県": ["yamagata"],
     "福島県": ["fukushima1", "fukushima2", "fukushima3", "fukushima4", "fukushima5"],
-    "茨城県": ["ibaraki1", "ibaraki2", "ibaraki3", "ibaraki4"], "栃木県": ["tochigi"], "群馬県": ["gunma"],
+    "茨城県": ["ibaraki1", "ibaraki2", "ibaraki3", "ibaraki4"], "栃木県": ["tochigi"], "群馬県": ["gunma"], "宮崎県": ["miyazaki"],
 }
 if REGION == "tohoku":
     PREFS = [(p, ALL[p]) for p in ("青森県", "岩手県", "宮城県", "秋田県", "山形県", "福島県")]
